@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { page } from '$app/state';
+	import { page, navigating } from '$app/state';
 	import { resolve } from '$app/paths';
 
 	import './layout.css';
@@ -83,7 +83,7 @@
 		</ul>
 	</footer>
 </div>
-<label class="fixed top-0 right-0 cursor-pointer" title="Toggle N64 Mode">
+<label class="absolute top-0 right-0 cursor-pointer" title="Toggle N64 Mode">
 	<img
 		src="/only-for.png"
 		alt="Only for Nintendo 64"
@@ -92,3 +92,31 @@
 	/>
 	<input type="checkbox" bind:checked={n64Mode} class="hidden" />
 </label>
+{#if navigating.to}
+	<div class="loading-bar pointer-events-none fixed top-0 right-0 left-0 z-50 flex h-2"></div>
+{/if}
+
+<style>
+	@keyframes loading-bar-scroll {
+		from {
+			background-position-x: 0;
+		}
+		to {
+			background-position-x: 200%;
+		}
+	}
+	.loading-bar {
+		background-image: linear-gradient(
+			to right,
+			#01009a,
+			#01009a 24.99%,
+			#f5b201 25%,
+			#f5b201 49.99%,
+			#e10916 50%,
+			#e10916 74.99%,
+			#329900 75%
+		);
+		background-size: 200% 100%;
+		animation: loading-bar-scroll 1s linear infinite;
+	}
+</style>
