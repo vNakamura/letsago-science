@@ -13,20 +13,27 @@
 		"lint": "prettier --check . && eslint .",
 		"format": "prettier --write .",
 		"deploy": "pnpm run build && wrangler pages deploy",
-		"cf-typegen": "wrangler types src/worker-configuration.d.ts"
+		"cf-typegen": "wrangler types src/worker-configuration.d.ts",
+		"parse-games": "node scripts/parseGames.js",
+		"parse-screenshots": "node scripts/parseScreenshots.js",
+		"match-screenshots": "node scripts/matchScreenshots.js"
 	},
 	"devDependencies": {
 		"@eslint/js": "^10.0.1",
+		"@iconify/json": "^2.2.498",
 		"@sveltejs/adapter-auto": "^7.0.1",
 		"@sveltejs/adapter-cloudflare": "^7.2.9",
 		"@sveltejs/kit": "^2.57.0",
 		"@sveltejs/vite-plugin-svelte": "^7.0.0",
+		"@tailwindcss/typography": "^0.5.20",
 		"@tailwindcss/vite": "^4.2.2",
 		"@types/node": "^22.20.0",
+		"@types/papaparse": "^5.5.2",
 		"eslint": "^10.4.0",
 		"eslint-config-prettier": "^10.1.8",
 		"eslint-plugin-svelte": "^3.17.0",
 		"globals": "^17.4.0",
+		"node-html-parser": "^9.0.0",
 		"prettier": "^3.8.1",
 		"prettier-plugin-svelte": "^3.5.1",
 		"prettier-plugin-tailwindcss": "^0.7.2",
@@ -37,5 +44,9 @@
 		"typescript-eslint": "^8.58.1",
 		"vite": "^8.0.7",
 		"wrangler": "^4.107.0"
+	},
+	"dependencies": {
+		"@iconify/tailwind4": "^1.2.3",
+		"papaparse": "^5.5.2"
 	}
 }

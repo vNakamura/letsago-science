@@ -1,0 +1,5814 @@
+{
+	"64_de_Hakken!!_Tamagotchi:_Minna_de_Tamagotchi_World": {
+		"id": "64_de_Hakken!!_Tamagotchi:_Minna_de_Tamagotchi_World",
+		"title": "64 de Hakken!! Tamagotchi: Minna de Tamagotchi World",
+		"developers": [
+			"Hudson Soft"
+		],
+		"publisher": "Bandai",
+		"releaseDates": {
+			"jp": "1997-12-19",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/64_de_Hakken!!_Tamagotchi:_Minna_de_Tamagotchi_World"
+	},
+	"64_Hanafuda:_Tenshi_no_Yakusoku": {
+		"id": "64_Hanafuda:_Tenshi_no_Yakusoku",
+		"title": "64 Hanafuda: Tenshi no Yakusoku",
+		"developers": [
+			"Altron"
+		],
+		"publisher": "Altron",
+		"releaseDates": {
+			"jp": "1999-11-05",
+			"na": null,
+			"pal": null
+		}
+	},
+	"64_Ōzumō": {
+		"id": "64_Ōzumō",
+		"title": "64 Ōzumō",
+		"developers": [
+			"Bottom Up"
+		],
+		"publisher": "Bottom Up",
+		"releaseDates": {
+			"jp": "1997-11-28",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/64_Ōzumō"
+	},
+	"64_Ōzumō_Sequel": {
+		"id": "64_Ōzumō_Sequel",
+		"title": "64 Ōzumō 2",
+		"developers": [
+			"Bottom Up"
+		],
+		"publisher": "Bottom Up",
+		"releaseDates": {
+			"jp": "1999-03-19",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/64_Ōzumō#Sequel"
+	},
+	"64_Trump_Collection:_Alice_no_Waku_Waku_Trump_World": {
+		"id": "64_Trump_Collection:_Alice_no_Waku_Waku_Trump_World",
+		"title": "64 Trump Collection: Alice no Waku Waku Trump World",
+		"developers": [
+			"Bottom Up"
+		],
+		"publisher": "Bottom Up",
+		"releaseDates": {
+			"jp": "1998-08-07",
+			"na": null,
+			"pal": null
+		}
+	},
+	"AI_Shogi_3": {
+		"id": "AI_Shogi_3",
+		"title": "AI Shogi 3",
+		"developers": [
+			"i4 Corporation"
+		],
+		"publisher": "ASCII Entertainment",
+		"releaseDates": {
+			"jp": "1998-12-18",
+			"na": null,
+			"pal": null
+		}
+	},
+	"Air_Boarder_64": {
+		"id": "Air_Boarder_64",
+		"title": "Air Boarder 64",
+		"developers": [
+			"Human Entertainment"
+		],
+		"publisher": null,
+		"releaseDates": {
+			"jp": "1998-03-27",
+			"na": null,
+			"pal": "1998-11-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Air_Boarder_64",
+		"otherPublishers": {
+			"jp": "Human Entertainment",
+			"pal": "Gaga Interactive Media"
+		}
+	},
+	"Bangai-O": {
+		"id": "Bangai-O",
+		"title": "Bakuretsu Muteki Bangaiō",
+		"developers": [
+			"Treasure"
+		],
+		"publisher": "ESP",
+		"releaseDates": {
+			"jp": "1999-09-03",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Bangai-O"
+	},
+	"Bakushō_Jinsei_64:_Mezase!_Resort_Ō": {
+		"id": "Bakushō_Jinsei_64:_Mezase!_Resort_Ō",
+		"title": "Bakushō Jinsei 64: Mezase! Resort Ō",
+		"developers": [
+			"Taito"
+		],
+		"publisher": "Taito",
+		"releaseDates": {
+			"jp": "1998-12-24",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Bakushō_Jinsei_64:_Mezase!_Resort_Ō"
+	},
+	"Bass_Rush:_ECOGEAR_PowerWorm_Championship": {
+		"id": "Bass_Rush:_ECOGEAR_PowerWorm_Championship",
+		"title": "Bass Rush: ECOGEAR PowerWorm Championship",
+		"developers": [
+			"Visco Corporation"
+		],
+		"publisher": "Visco Corporation",
+		"releaseDates": {
+			"jp": "2000-04-28",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Bass_Rush:_ECOGEAR_PowerWorm_Championship"
+	},
+	"Bomberman_64_(2001_video_game)": {
+		"id": "Bomberman_64_(2001_video_game)",
+		"title": "Bomberman 64",
+		"developers": [
+			"Racjin"
+		],
+		"publisher": "Hudson Soft",
+		"releaseDates": {
+			"jp": "2001-12-20",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Bomberman_64_(2001_video_game)"
+	},
+	"Centre_Court_Tennis": {
+		"id": "Centre_Court_Tennis",
+		"title": null,
+		"developers": [
+			"Hudson Soft"
+		],
+		"publisher": null,
+		"releaseDates": {
+			"jp": "1998-10-09",
+			"na": null,
+			"pal": "1999-01-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Centre_Court_Tennis",
+		"otherTitles": {
+			"pal": "Centre Court Tennis",
+			"jp": "Let's Smash"
+		},
+		"otherPublishers": {
+			"jp": "Hudson Soft",
+			"pal": "Gaga Interactive Media"
+		}
+	},
+	"Choro_Q_64_2:_Hachamecha_Grand_Prix_Race": {
+		"id": "Choro_Q_64_2:_Hachamecha_Grand_Prix_Race",
+		"title": "Choro Q 64 2: Hachamecha Grand Prix Race",
+		"developers": [
+			"Locomotive Corporation"
+		],
+		"publisher": "Takara",
+		"releaseDates": {
+			"jp": "1999-12-24",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Choro_Q_64_2:_Hachamecha_Grand_Prix_Race"
+	},
+	"Chōkūkan_Night:_Pro_Yakyū_King": {
+		"id": "Chōkūkan_Night:_Pro_Yakyū_King",
+		"title": "Chōkūkan Night: Pro Yakyū King",
+		"developers": [
+			"Genki"
+		],
+		"publisher": "Imagineer",
+		"releaseDates": {
+			"jp": "1996-12-20",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Chōkūkan_Night:_Pro_Yakyū_King"
+	},
+	"Chōkūkan_Night:_Pro_Yakyū_King_2": {
+		"id": "Chōkūkan_Night:_Pro_Yakyū_King_2",
+		"title": "Chōkūkan Night: Pro Yakyū King 2",
+		"developers": [
+			"Genki"
+		],
+		"publisher": "Imagineer",
+		"releaseDates": {
+			"jp": "1999-03-19",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Chōkūkan_Night:_Pro_Yakyū_King"
+	},
+	"Custom_Robo_(1999_video_game)": {
+		"id": "Custom_Robo_(1999_video_game)",
+		"title": "Custom Robo",
+		"developers": [
+			"Noise"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": "1999-12-08",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Custom_Robo_(1999_video_game)"
+	},
+	"Custom_Robo_V2": {
+		"id": "Custom_Robo_V2",
+		"title": "Custom Robo V2",
+		"developers": [
+			"Noise"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": "2000-11-10",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Custom_Robo_V2"
+	},
+	"List_of_Dance_Dance_Revolution_video_games_Dance_Dance_Revolution": {
+		"id": "List_of_Dance_Dance_Revolution_video_games_Dance_Dance_Revolution",
+		"title": "Dance Dance Revolution Disney Dancing Museum",
+		"developers": [
+			"Konami Computer Entertainment Kobe"
+		],
+		"publisher": "Konami",
+		"releaseDates": {
+			"jp": "2000-11-30",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/List_of_Dance_Dance_Revolution_video_games#Dance_Dance_Revolution"
+	},
+	"Densha_de_Go!_2_Kōsoku-hen": {
+		"id": "Densha_de_Go!_2_Kōsoku-hen",
+		"title": "Densha de Go! 64",
+		"developers": [
+			"A.I"
+		],
+		"publisher": "Taito",
+		"releaseDates": {
+			"jp": "1999-07-30",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Densha_de_Go!_2_Kōsoku-hen"
+	},
+	"Derby_Stallion_64": {
+		"id": "Derby_Stallion_64",
+		"title": "Derby Stallion 64",
+		"developers": [
+			"ParityBit"
+		],
+		"publisher": "Media Factory",
+		"releaseDates": {
+			"jp": "2001-08-10",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Derby_Stallion_64"
+	},
+	"Dezaemon_3D": {
+		"id": "Dezaemon_3D",
+		"title": "Dezaemon 3D",
+		"developers": [
+			"Athena"
+		],
+		"publisher": "Athena",
+		"releaseDates": {
+			"jp": "1998-06-26",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Dezaemon_3D"
+	},
+	"Doraemon:_Nobita_to_Mittsu_no_Seireiseki": {
+		"id": "Doraemon:_Nobita_to_Mittsu_no_Seireiseki",
+		"title": "Doraemon: Nobita to Mittsu no Seireiseki",
+		"developers": [
+			"Epoch Co."
+		],
+		"publisher": "Epoch Co.",
+		"releaseDates": {
+			"jp": "1997-03-21",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Doraemon:_Nobita_to_Mittsu_no_Seireiseki"
+	},
+	"List_of_Doraemon_video_games_Other_platforms": {
+		"id": "List_of_Doraemon_video_games_Other_platforms",
+		"title": "Doraemon 2: Nobita to Hikari no Shinden",
+		"developers": [
+			"Epoch Co."
+		],
+		"publisher": "Epoch Co.",
+		"releaseDates": {
+			"jp": "1998-12-11",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/List_of_Doraemon_video_games#Other_platforms"
+	},
+	"List_of_Doraemon_video_games_Other_platforms_2": {
+		"id": "List_of_Doraemon_video_games_Other_platforms_2",
+		"title": "Doraemon 3: Nobita no Machi SOS!",
+		"developers": [
+			"Epoch Co."
+		],
+		"publisher": "Epoch Co.",
+		"releaseDates": {
+			"jp": "2000-07-28",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/List_of_Doraemon_video_games#Other_platforms"
+	},
+	"Animal_Crossing_(video_game)_Development_and_release": {
+		"id": "Animal_Crossing_(video_game)_Development_and_release",
+		"title": "Dōbutsu no Mori",
+		"developers": [
+			"Nintendo EAD"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": "2001-04-14",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Animal_Crossing_(video_game)#Development_and_release"
+	},
+	"Eiko_no_Saint_Andrews": {
+		"id": "Eiko_no_Saint_Andrews",
+		"title": "Eiko no Saint Andrews",
+		"developers": [
+			"SETA"
+		],
+		"publisher": "SETA",
+		"releaseDates": {
+			"jp": "1996-11-29",
+			"na": null,
+			"pal": null
+		}
+	},
+	"F-1_World_Grand_Prix_II": {
+		"id": "F-1_World_Grand_Prix_II",
+		"title": "F-1 World Grand Prix II",
+		"developers": [
+			"Paradigm Entertainment"
+		],
+		"publisher": "Video System",
+		"releaseDates": {
+			"jp": null,
+			"na": null,
+			"pal": "1999-07-02"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/F-1_World_Grand_Prix_II"
+	},
+	"F1_Racing_Championship": {
+		"id": "F1_Racing_Championship",
+		"title": "F1 Racing Championship",
+		"developers": [
+			"Ubi Soft"
+		],
+		"publisher": "Video System",
+		"releaseDates": {
+			"jp": null,
+			"na": null,
+			"pal": "2000-12-08"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/F1_Racing_Championship"
+	},
+	"Famista_64": {
+		"id": "Famista_64",
+		"title": "Famista 64",
+		"developers": [
+			"Namco"
+		],
+		"publisher": "Namco",
+		"releaseDates": {
+			"jp": "1997-11-28",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Famista_64"
+	},
+	"Shiren_the_Wanderer_2:_Oni_Invasion!_Shiren_Castle!": {
+		"id": "Shiren_the_Wanderer_2:_Oni_Invasion!_Shiren_Castle!",
+		"title": "Fushigi no Dungeon: Fūrai no Shiren 2: Oni Shūrai! Shiren-jō!",
+		"developers": [
+			"Chunsoft"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": "2000-09-27",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Shiren_the_Wanderer_2:_Oni_Invasion!_Shiren_Castle!"
+	},
+	"Getter_Love!!": {
+		"id": "Getter_Love!!",
+		"title": "Getter Love!!",
+		"developers": [
+			"Hudson Soft"
+		],
+		"publisher": "Hudson Soft",
+		"releaseDates": {
+			"jp": "1998-12-04",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Getter_Love!!"
+	},
+	"Goemon_Mononoke_Sugoroku": {
+		"id": "Goemon_Mononoke_Sugoroku",
+		"title": "Goemon Mononoke Sugoroku",
+		"developers": [
+			"Konami Computer Entertainment Kobe"
+		],
+		"publisher": "Konami",
+		"releaseDates": {
+			"jp": "1999-12-25",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Goemon_Mononoke_Sugoroku"
+	},
+	"Hamster_Monogatari_64": {
+		"id": "Hamster_Monogatari_64",
+		"title": "Hamster Monogatari 64",
+		"developers": [
+			"Culture Brain"
+		],
+		"publisher": "Culture Brain",
+		"releaseDates": {
+			"jp": "2001-04-06",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Hamster_Monogatari_64"
+	},
+	"Masters_'98:_Harukanaru_Augusta": {
+		"id": "Masters_'98:_Harukanaru_Augusta",
+		"title": "Harukanaru Augusta Masters '98",
+		"developers": [
+			"T&E Soft"
+		],
+		"publisher": "T&E Soft",
+		"releaseDates": {
+			"jp": "1997-12-26",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Masters_'98:_Harukanaru_Augusta"
+	},
+	"Heiwa_Pachinko_World_64": {
+		"id": "Heiwa_Pachinko_World_64",
+		"title": "Heiwa Pachinko World 64",
+		"developers": [
+			"Shouei System"
+		],
+		"publisher": "Amtex",
+		"releaseDates": {
+			"jp": "1997-11-28",
+			"na": null,
+			"pal": null
+		}
+	},
+	"Ide_Yosuke_no_Mahjong_Juku": {
+		"id": "Ide_Yosuke_no_Mahjong_Juku",
+		"title": "Ide Yosuke no Mahjong Juku",
+		"developers": [
+			"SETA"
+		],
+		"publisher": "SETA",
+		"releaseDates": {
+			"jp": "2000-04-21",
+			"na": null,
+			"pal": null
+		}
+	},
+	"Itoi_Shigesato_no_Bass_Tsuri_No._1_Ports_and_related_releases": {
+		"id": "Itoi_Shigesato_no_Bass_Tsuri_No._1_Ports_and_related_releases",
+		"title": "Itoi Shigesato no Bass Tsuri No. 1 Kettehan!",
+		"developers": [
+			"HAL Laboratory"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": "2000-03-31",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Itoi_Shigesato_no_Bass_Tsuri_No._1#Ports_and_related_releases"
+	},
+	"J-League_Dynamite_Soccer_64": {
+		"id": "J-League_Dynamite_Soccer_64",
+		"title": "J-League Dynamite Soccer 64",
+		"developers": [
+			"A-Max"
+		],
+		"publisher": "Imagineer",
+		"releaseDates": {
+			"jp": "1997-09-05",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/J-League_Dynamite_Soccer_64"
+	},
+	"J-League_Eleven_Beat_1997": {
+		"id": "J-League_Eleven_Beat_1997",
+		"title": "J-League Eleven Beat 1997",
+		"developers": [
+			"Hudson Soft"
+		],
+		"publisher": "Hudson Soft",
+		"releaseDates": {
+			"jp": "1997-10-24",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/J-League_Eleven_Beat_1997"
+	},
+	"J._League_Live_64": {
+		"id": "J._League_Live_64",
+		"title": "J. League Live 64",
+		"developers": [
+			"Electronic Arts Victor"
+		],
+		"publisher": "Electronic Arts Victor",
+		"releaseDates": {
+			"jp": "1997-03-28",
+			"na": null,
+			"pal": null
+		}
+	},
+	"J-League_Tactics_Soccer": {
+		"id": "J-League_Tactics_Soccer",
+		"title": "J-League Tactics Soccer",
+		"developers": [
+			"ASCII Entertainment"
+		],
+		"publisher": "ASCII Entertainment",
+		"releaseDates": {
+			"jp": "1999-01-15",
+			"na": null,
+			"pal": null
+		}
+	},
+	"Jango_Simulation_Mahjong-do_64": {
+		"id": "Jango_Simulation_Mahjong-do_64",
+		"title": "Jango Simulation Mahjong-do 64",
+		"developers": [
+			"Art"
+		],
+		"publisher": "Video System",
+		"releaseDates": {
+			"jp": "1997-07-25",
+			"na": null,
+			"pal": null
+		}
+	},
+	"Jikkyō_GI_Stable": {
+		"id": "Jikkyō_GI_Stable",
+		"title": "Jikkyō GI Stable",
+		"developers": [
+			"Konami Computer Entertainment Nagoya"
+		],
+		"publisher": "Konami",
+		"releaseDates": {
+			"jp": "1999-04-28",
+			"na": null,
+			"pal": null
+		}
+	},
+	"Power_Pros_Pawapuro_4": {
+		"id": "Power_Pros_Pawapuro_4",
+		"title": "Jikkyō Powerful Pro Yakyū 4",
+		"developers": [
+			"Diamond Head"
+		],
+		"publisher": "Konami",
+		"releaseDates": {
+			"jp": "1997-03-14",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Power_Pros#Pawapuro_4"
+	},
+	"Power_Pros_Pawapuro_5": {
+		"id": "Power_Pros_Pawapuro_5",
+		"title": "Jikkyō Powerful Pro Yakyū 5",
+		"developers": [
+			"Diamond Head"
+		],
+		"publisher": "Konami",
+		"releaseDates": {
+			"jp": "1998-03-26",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Power_Pros#Pawapuro_5"
+	},
+	"Power_Pros_Pawapuro_6": {
+		"id": "Power_Pros_Pawapuro_6",
+		"title": "Jikkyō Powerful Pro Yakyū 6",
+		"developers": [
+			"Diamond Head"
+		],
+		"publisher": "Konami",
+		"releaseDates": {
+			"jp": "1999-03-25",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Power_Pros#Pawapuro_6"
+	},
+	"Power_Pros_Consumer_Series": {
+		"id": "Power_Pros_Consumer_Series",
+		"title": "Jikkyō Powerful Pro Yakyū 2000",
+		"developers": [
+			"Diamond Head"
+		],
+		"publisher": "Konami",
+		"releaseDates": {
+			"jp": "2000-04-29",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Power_Pros#Consumer_Series"
+	},
+	"Power_Pros_Consumer_Series_2": {
+		"id": "Power_Pros_Consumer_Series_2",
+		"title": "Jikkyō Powerful Pro Yakyu Basic-ban 2001",
+		"developers": [
+			"Diamond Head"
+		],
+		"publisher": "Konami",
+		"releaseDates": {
+			"jp": "2001-03-29",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Power_Pros#Consumer_Series"
+	},
+	"Jikkyō_J-League_Perfect_Striker": {
+		"id": "Jikkyō_J-League_Perfect_Striker",
+		"title": "Jikkyō J-League Perfect Striker",
+		"developers": [
+			"Konami Computer Entertainment Osaka"
+		],
+		"publisher": "Konami",
+		"releaseDates": {
+			"jp": "1997-09-18",
+			"na": null,
+			"pal": null
+		}
+	},
+	"Jinsei_Game_64": {
+		"id": "Jinsei_Game_64",
+		"title": "Jinsei Game 64",
+		"developers": [
+			"Takara"
+		],
+		"publisher": "Takara",
+		"releaseDates": {
+			"jp": "1999-03-19",
+			"na": null,
+			"pal": null
+		}
+	},
+	"Kiratto_Kaiketsu!_64_Tanteidan": {
+		"id": "Kiratto_Kaiketsu!_64_Tanteidan",
+		"title": "Kiratto Kaiketsu! 64 Tanteidan",
+		"developers": [
+			"Pandora Box"
+		],
+		"publisher": "Imagineer",
+		"releaseDates": {
+			"jp": "1998-10-23",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Kiratto_Kaiketsu!_64_Tanteidan"
+	},
+	"Last_Legion_UX": {
+		"id": "Last_Legion_UX",
+		"title": "Last Legion UX",
+		"developers": [
+			"Yuke's"
+		],
+		"publisher": "Hudson Soft",
+		"releaseDates": {
+			"jp": "1999-05-28",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Last_Legion_UX"
+	},
+	"Mahjong_64": {
+		"id": "Mahjong_64",
+		"title": "Mahjong 64",
+		"developers": [
+			"Chat Noir"
+		],
+		"publisher": "Koei",
+		"releaseDates": {
+			"jp": "1997-04-04",
+			"na": null,
+			"pal": null
+		}
+	},
+	"Mahjong_Horoki_Classic": {
+		"id": "Mahjong_Horoki_Classic",
+		"title": "Mahjong Horoki Classic",
+		"developers": [
+			"Alpha Unit"
+		],
+		"publisher": "Imagineer",
+		"releaseDates": {
+			"jp": "1997-08-01",
+			"na": null,
+			"pal": null
+		}
+	},
+	"Mahjong_Master": {
+		"id": "Mahjong_Master",
+		"title": "Mahjong Master",
+		"developers": [
+			"Konami Computer Entertainment Osaka"
+		],
+		"publisher": "Konami",
+		"releaseDates": {
+			"jp": "1996-12-20",
+			"na": null,
+			"pal": null
+		}
+	},
+	"Mario_no_Photopi": {
+		"id": "Mario_no_Photopi",
+		"title": "Mario no Photopi",
+		"developers": [
+			"Datt Japan",
+			"Fuji Photo Film",
+			"Nintendo",
+			"Tokyo Electron"
+		],
+		"publisher": "Tokyo Electron",
+		"releaseDates": {
+			"jp": "1998-12-02",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Mario_no_Photopi"
+	},
+	"Morita_Shogi_64": {
+		"id": "Morita_Shogi_64",
+		"title": "Morita Shogi 64",
+		"developers": [
+			"SETA"
+		],
+		"publisher": "SETA",
+		"releaseDates": {
+			"jp": "1998-04-03",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Morita_Shogi_64"
+	},
+	"Neon_Genesis_Evangelion_(video_game)": {
+		"id": "Neon_Genesis_Evangelion_(video_game)",
+		"title": "Neon Genesis Evangelion",
+		"developers": [
+			"BEC"
+		],
+		"publisher": "Bandai",
+		"releaseDates": {
+			"jp": "1999-06-25",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_(video_game)"
+	},
+	"List_of_Nintama_Rantarō_video_games_Nintendo_64": {
+		"id": "List_of_Nintama_Rantarō_video_games_Nintendo_64",
+		"title": "Nintama Rantarō 64 Game Gallery",
+		"developers": [
+			"Culture Brain"
+		],
+		"publisher": "Culture Brain",
+		"releaseDates": {
+			"jp": "2000-04-21",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/List_of_Nintama_Rantarō_video_games#Nintendo_64"
+	},
+	"Nushi_Tsuri_64": {
+		"id": "Nushi_Tsuri_64",
+		"title": "Nushi Tsuri 64",
+		"developers": [
+			"Pack-In-Video"
+		],
+		"publisher": "Victor Interactive Software",
+		"releaseDates": {
+			"jp": "1998-11-27",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Nushi_Tsuri_64"
+	},
+	"Nushi_Tsuri_64:_Shiokaze_Ninotte": {
+		"id": "Nushi_Tsuri_64:_Shiokaze_Ninotte",
+		"title": "Nushi Tsuri 64: Shiokaze Ninotte",
+		"developers": [
+			"Victor Interactive Software"
+		],
+		"publisher": "Victor Interactive Software",
+		"releaseDates": {
+			"jp": "2000-05-26",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Nushi_Tsuri_64:_Shiokaze_Ninotte"
+	},
+	"Onegai_Monsters": {
+		"id": "Onegai_Monsters",
+		"title": "Onegai Monsters",
+		"developers": [
+			"Bottom Up"
+		],
+		"publisher": "Bottom Up",
+		"releaseDates": {
+			"jp": "1999-04-09",
+			"na": null,
+			"pal": null
+		}
+	},
+	"Pachinko_365_Nichi": {
+		"id": "Pachinko_365_Nichi",
+		"title": "Pachinko 365 Nichi",
+		"developers": [
+			"SETA"
+		],
+		"publisher": "SETA",
+		"releaseDates": {
+			"jp": "1998-05-29",
+			"na": null,
+			"pal": null
+		}
+	},
+	"Parlor!_Pro_64:_Pachinko_Jikki_Simulation": {
+		"id": "Parlor!_Pro_64:_Pachinko_Jikki_Simulation",
+		"title": "Parlor! Pro 64: Pachinko Jikki Simulation",
+		"developers": [
+			"Irem Software Engineering",
+			"Telenet Japan"
+		],
+		"publisher": "Telenet Japan",
+		"releaseDates": {
+			"jp": "1999-01-29",
+			"na": null,
+			"pal": null
+		}
+	},
+	"PD_Ultraman_Battle_Collection_64": {
+		"id": "PD_Ultraman_Battle_Collection_64",
+		"title": "PD Ultraman Battle Collection 64",
+		"developers": [
+			"Bandai"
+		],
+		"publisher": "Bandai",
+		"releaseDates": {
+			"jp": "1999-07-16",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/PD_Ultraman_Battle_Collection_64"
+	},
+	"Pocket_Monsters_Stadium": {
+		"id": "Pocket_Monsters_Stadium",
+		"title": "Pocket Monsters Stadium",
+		"developers": [
+			"Nintendo EAD"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": "1998-08-01",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Pocket_Monsters_Stadium"
+	},
+	"Power_League_64": {
+		"id": "Power_League_64",
+		"title": "Power League 64",
+		"developers": [
+			"Hudson Soft"
+		],
+		"publisher": "Hudson Soft",
+		"releaseDates": {
+			"jp": "1997-08-08",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Power_League_64"
+	},
+	"Premier_Manager:_Ninety_Nine": {
+		"id": "Premier_Manager:_Ninety_Nine",
+		"title": "Premier Manager 64",
+		"developers": [
+			"Dinamic Multimedia"
+		],
+		"publisher": "Gremlin Interactive",
+		"releaseDates": {
+			"jp": null,
+			"na": null,
+			"pal": "1999-08-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Premier_Manager:_Ninety_Nine"
+	},
+	"Pro_Mahjong_Kiwame_64": {
+		"id": "Pro_Mahjong_Kiwame_64",
+		"title": "Pro Mahjong Kiwame 64",
+		"developers": [
+			"Athena"
+		],
+		"publisher": "Athena",
+		"releaseDates": {
+			"jp": "1997-11-21",
+			"na": null,
+			"pal": null
+		}
+	},
+	"Pro_Shinan_Mahjong_Tsuwamono_64:_Jansō_Battle_ni_Chōsen": {
+		"id": "Pro_Shinan_Mahjong_Tsuwamono_64:_Jansō_Battle_ni_Chōsen",
+		"title": "Pro Shinan Mahjong Tsuwamono 64: Jansō Battle ni Chōsen",
+		"developers": [
+			"Culture Brain"
+		],
+		"publisher": "Culture Brain",
+		"releaseDates": {
+			"jp": "1999-11-05",
+			"na": null,
+			"pal": null
+		}
+	},
+	"Puyo_Puyo_Sun": {
+		"id": "Puyo_Puyo_Sun",
+		"title": "Puyo Puyo Sun 64",
+		"developers": [
+			"Compile"
+		],
+		"publisher": "Compile",
+		"releaseDates": {
+			"jp": "1997-10-01",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Puyo_Puyo_Sun"
+	},
+	"Puyo_Puyo~n": {
+		"id": "Puyo_Puyo~n",
+		"title": "Puyo Puyo~n Party",
+		"developers": [
+			"Compile"
+		],
+		"publisher": "Compile",
+		"releaseDates": {
+			"jp": "1999-12-03",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Puyo_Puyo~n"
+	},
+	"Rakugakids": {
+		"id": "Rakugakids",
+		"title": "Rakugakids",
+		"developers": [
+			"Konami Computer Entertainment Kobe"
+		],
+		"publisher": "Konami",
+		"releaseDates": {
+			"jp": "1998-07-23",
+			"na": null,
+			"pal": "1998-12-04"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Rakugakids"
+	},
+	"Robot_Ponkottsu_64:_Nanatsu_no_Umi_no_Caramel": {
+		"id": "Robot_Ponkottsu_64:_Nanatsu_no_Umi_no_Caramel",
+		"title": "Robot Ponkottsu 64: Nanatsu no Umi no Caramel",
+		"developers": [
+			"Red Company"
+		],
+		"publisher": "Hudson Soft",
+		"releaseDates": {
+			"jp": "1999-12-24",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Robot_Ponkottsu_64:_Nanatsu_no_Umi_no_Caramel"
+	},
+	"Saikyō_Habu_Shōgi": {
+		"id": "Saikyō_Habu_Shōgi",
+		"title": "Saikyō Habu Shōgi",
+		"developers": [
+			"SETA"
+		],
+		"publisher": "SETA",
+		"releaseDates": {
+			"jp": "1996-06-23",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Saikyō_Habu_Shōgi"
+	},
+	"Flying_Dragon_S.D._Hiryu_no_Ken_Densetsu": {
+		"id": "Flying_Dragon_S.D._Hiryu_no_Ken_Densetsu",
+		"title": "S.D. Hiryū no Ken Densetsu",
+		"developers": [
+			"Culture Brain"
+		],
+		"publisher": "Culture Brain",
+		"releaseDates": {
+			"jp": "1999-01-29",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Flying_Dragon#S.D._Hiryu_no_Ken_Densetsu"
+	},
+	"Shin_Nippon_Pro_Wrestling:_Toukon_Road_-_Brave_Spirits": {
+		"id": "Shin_Nippon_Pro_Wrestling:_Toukon_Road_-_Brave_Spirits",
+		"title": "Shin Nippon Pro Wrestling: Toukon Road - Brave Spirits",
+		"developers": [
+			"Yuke's"
+		],
+		"publisher": "Hudson Soft",
+		"releaseDates": {
+			"jp": "1998-01-04",
+			"na": null,
+			"pal": null
+		}
+	},
+	"Shin_Nippon_Pro_Wrestling:_Toukon_Road_2-_Next_Generation": {
+		"id": "Shin_Nippon_Pro_Wrestling:_Toukon_Road_2-_Next_Generation",
+		"title": "Shin Nippon Pro Wrestling: Toukon Road 2- Next Generation",
+		"developers": [
+			"Yuke's"
+		],
+		"publisher": "Hudson Soft",
+		"releaseDates": {
+			"jp": "1998-12-26",
+			"na": null,
+			"pal": null
+		}
+	},
+	"SimCity_2000_SimCity_2000_(Nintendo_64)": {
+		"id": "SimCity_2000_SimCity_2000_(Nintendo_64)",
+		"title": "Sim City 2000",
+		"developers": [
+			"Maxis",
+			"Genki"
+		],
+		"publisher": "Imagineer",
+		"releaseDates": {
+			"jp": "1998-01-30",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/SimCity_2000#SimCity_2000_(Nintendo_64)"
+	},
+	"Sin_and_Punishment": {
+		"id": "Sin_and_Punishment",
+		"title": "Sin and Punishment",
+		"developers": [
+			"Treasure",
+			"Nintendo R&D 1"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": "2000-11-21",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Sin_and_Punishment",
+		"otherTitles": {
+			"jp": "Tsumi to Batsu: Hoshi no Keishōsha"
+		}
+	},
+	"Super_B-Daman:_Battle_Phoenix_64": {
+		"id": "Super_B-Daman:_Battle_Phoenix_64",
+		"title": "Super B-Daman: Battle Phoenix 64",
+		"developers": [
+			"Hudson Soft"
+		],
+		"publisher": "Hudson Soft",
+		"releaseDates": {
+			"jp": "1998-07-24",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Super_B-Daman:_Battle_Phoenix_64"
+	},
+	"Super_Robot_Spirits": {
+		"id": "Super_Robot_Spirits",
+		"title": "Super Robot Spirits",
+		"developers": [
+			"Banpresto"
+		],
+		"publisher": "Banpresto",
+		"releaseDates": {
+			"jp": "1998-07-17",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Super_Robot_Spirits"
+	},
+	"Super_Robot_Wars_64": {
+		"id": "Super_Robot_Wars_64",
+		"title": "Super Robot Taisen 64",
+		"developers": [
+			"A.I"
+		],
+		"publisher": "Banpresto",
+		"releaseDates": {
+			"jp": "1999-10-29",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Super_Robot_Wars_64"
+	},
+	"Susume!_Taisen_Puzzle_Dama:_Tōkon!_Marutama_Chō": {
+		"id": "Susume!_Taisen_Puzzle_Dama:_Tōkon!_Marutama_Chō",
+		"title": "Susume! Taisen Puzzle Dama: Tōkon! Marutama Chō",
+		"developers": [
+			"Konami Computer Entertainment Kobe"
+		],
+		"publisher": "Konami",
+		"releaseDates": {
+			"jp": "1998-03-26",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Susume!_Taisen_Puzzle_Dama:_Tōkon!_Marutama_Chō"
+	},
+	"Taz_Express": {
+		"id": "Taz_Express",
+		"title": "Taz Express",
+		"developers": [
+			"Zed Two"
+		],
+		"publisher": "Infogrames",
+		"releaseDates": {
+			"jp": null,
+			"na": null,
+			"pal": "2000-08-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Taz_Express"
+	},
+	"Tetris_64": {
+		"id": "Tetris_64",
+		"title": "Tetris 64",
+		"developers": [
+			"Amtex"
+		],
+		"publisher": "SETA",
+		"releaseDates": {
+			"jp": "1998-11-13",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Tetris_64"
+	},
+	"Ucchan_Nanchan_no_Hono_no_Challenge:_Denryu_Ira_Ira_Bo": {
+		"id": "Ucchan_Nanchan_no_Hono_no_Challenge:_Denryu_Ira_Ira_Bo",
+		"title": "Ucchan Nanchan no Hono no Challenge: Denryu Ira Ira Bo",
+		"developers": [
+			"Yuke's"
+		],
+		"publisher": "Hudson Soft",
+		"releaseDates": {
+			"jp": "1997-12-19",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Ucchan_Nanchan_no_Hono_no_Challenge:_Denryu_Ira_Ira_Bo"
+	},
+	"Virtual_Pro_Wrestling_2:_Ōdō_Keishō": {
+		"id": "Virtual_Pro_Wrestling_2:_Ōdō_Keishō",
+		"title": "Virtual Pro Wrestling 2: Ōdō Keishō",
+		"developers": [
+			"Asmik Ace Entertainment",
+			"AKI Corporation"
+		],
+		"publisher": "Asmik Ace Entertainment",
+		"releaseDates": {
+			"jp": "2000-01-28",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Virtual_Pro_Wrestling_2:_Ōdō_Keishō"
+	},
+	"Virtual_Pro_Wrestling_64": {
+		"id": "Virtual_Pro_Wrestling_64",
+		"title": "Virtual Pro Wrestling 64",
+		"developers": [
+			"Asmik Ace Entertainment",
+			"AKI Corporation"
+		],
+		"publisher": "Asmik Ace Entertainment",
+		"releaseDates": {
+			"jp": "1997-12-19",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Virtual_Pro_Wrestling_64"
+	},
+	"Wonder_Project_J2": {
+		"id": "Wonder_Project_J2",
+		"title": "Wonder Project J2: Koruro no Mori no Josette",
+		"developers": [
+			"Givro Corporation"
+		],
+		"publisher": "Enix",
+		"releaseDates": {
+			"jp": "1996-11-22",
+			"na": null,
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Wonder_Project_J2"
+	},
+	"Yakochu_II:_Satsujin_Koro": {
+		"id": "Yakochu_II:_Satsujin_Koro",
+		"title": "Yakochu II: Satsujin Koro",
+		"developers": [
+			"Athena"
+		],
+		"publisher": "Athena",
+		"releaseDates": {
+			"jp": "1999-10-22",
+			"na": null,
+			"pal": null
+		}
+	},
+	"Zool:_Majū_Tsukai_Densetsu": {
+		"id": "Zool:_Majū_Tsukai_Densetsu",
+		"title": "Zool: Majū Tsukai Densetsu",
+		"developers": [
+			"Pandora Box"
+		],
+		"publisher": "Imagineer",
+		"releaseDates": {
+			"jp": "1999-06-11",
+			"na": null,
+			"pal": null
+		}
+	},
+	"Pilotwings_64": {
+		"id": "Pilotwings_64",
+		"title": "Pilotwings 64",
+		"developers": [
+			"Nintendo EAD",
+			"Nintendo R&D3",
+			"Paradigm Simulation"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": "1996-06-23",
+			"na": "1996-09-29",
+			"pal": "1997-03-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Pilotwings_64"
+	},
+	"Super_Mario_64": {
+		"id": "Super_Mario_64",
+		"title": "Super Mario 64",
+		"developers": [
+			"Nintendo EAD"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": "1996-06-23",
+			"na": "1996-09-29",
+			"pal": "1997-03-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Super_Mario_64"
+	},
+	"Wave_Race_64": {
+		"id": "Wave_Race_64",
+		"title": "Wave Race 64",
+		"developers": [
+			"Nintendo EAD"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": "1996-09-27",
+			"na": "1996-11-04",
+			"pal": "1997-04-29"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Wave_Race_64"
+	},
+	"Mortal_Kombat_Trilogy": {
+		"id": "Mortal_Kombat_Trilogy",
+		"title": "Mortal Kombat Trilogy",
+		"developers": [
+			"Williams Entertainment"
+		],
+		"publisher": "Midway",
+		"releaseDates": {
+			"jp": null,
+			"na": "1996-11-12",
+			"pal": "1997-03-14"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Mortal_Kombat_Trilogy",
+		"otherPublishers": {
+			"pal": "GT Interactive"
+		}
+	},
+	"Wayne_Gretzky's_3D_Hockey": {
+		"id": "Wayne_Gretzky's_3D_Hockey",
+		"title": "Wayne Gretzky's 3D Hockey",
+		"developers": [
+			"Atari Games"
+		],
+		"publisher": "Midway",
+		"releaseDates": {
+			"jp": "1998-02-28",
+			"na": "1996-11-15",
+			"pal": "1997-03-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Wayne_Gretzky's_3D_Hockey",
+		"otherPublishers": {
+			"pal": "GT Interactive",
+			"jp": "GameBank"
+		}
+	},
+	"Killer_Instinct_Gold": {
+		"id": "Killer_Instinct_Gold",
+		"title": "Killer Instinct Gold",
+		"developers": [
+			"Rare"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": null,
+			"na": "1996-11-25",
+			"pal": "1997-05-09"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Killer_Instinct_Gold"
+	},
+	"Cruis'n_USA": {
+		"id": "Cruis'n_USA",
+		"title": "Cruis'n USA",
+		"developers": [
+			"Williams Entertainment"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": null,
+			"na": "1996-12-02",
+			"pal": "1998-02-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Cruis'n_USA"
+	},
+	"Star_Wars:_Shadows_of_the_Empire_(video_game)": {
+		"id": "Star_Wars:_Shadows_of_the_Empire_(video_game)",
+		"title": "Star Wars: Shadows of the Empire",
+		"developers": [
+			"LucasArts"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": "1997-06-14",
+			"na": "1996-12-03",
+			"pal": "1997-03-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Star_Wars:_Shadows_of_the_Empire_(video_game)"
+	},
+	"NBA_Hangtime": {
+		"id": "NBA_Hangtime",
+		"title": "NBA Hangtime",
+		"developers": [
+			"Midway Studios San Diego"
+		],
+		"publisher": "Midway",
+		"releaseDates": {
+			"jp": null,
+			"na": "1997-01-16",
+			"pal": "1997-09-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/NBA_Hangtime",
+		"otherPublishers": {
+			"pal": "GT Interactive"
+		}
+	},
+	"Mario_Kart_64": {
+		"id": "Mario_Kart_64",
+		"title": "Mario Kart 64",
+		"developers": [
+			"Nintendo EAD"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": "1996-12-14",
+			"na": "1997-02-10",
+			"pal": "1997-06-24"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Mario_Kart_64"
+	},
+	"Turok:_Dinosaur_Hunter": {
+		"id": "Turok:_Dinosaur_Hunter",
+		"title": "Turok: Dinosaur Hunter",
+		"developers": [
+			"Iguana Entertainment"
+		],
+		"publisher": "Acclaim Entertainment",
+		"releaseDates": {
+			"jp": "1997-05-30",
+			"na": "1997-03-04",
+			"pal": "1997-03-04"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Turok:_Dinosaur_Hunter"
+	},
+	"Blast_Corps": {
+		"id": "Blast_Corps",
+		"title": "Blast Corps",
+		"developers": [
+			"Rare"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": "1997-03-21",
+			"na": "1997-03-24",
+			"pal": "1997-12-22"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Blast_Corps"
+	},
+	"FIFA_Soccer_64": {
+		"id": "FIFA_Soccer_64",
+		"title": "FIFA Soccer 64",
+		"developers": [
+			"EA Canada"
+		],
+		"publisher": "EA Sports",
+		"releaseDates": {
+			"jp": null,
+			"na": "1997-03-27",
+			"pal": "1997-03-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/FIFA_Soccer_64",
+		"otherTitles": {
+			"pal": "FIFA 64"
+		}
+	},
+	"Doom_64": {
+		"id": "Doom_64",
+		"title": "Doom 64",
+		"developers": [
+			"Midway Studios San Diego"
+		],
+		"publisher": "Midway",
+		"releaseDates": {
+			"jp": "1997-08-01",
+			"na": "1997-04-04",
+			"pal": "1997-12-02"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Doom_64",
+		"otherPublishers": {
+			"jp": "Gamebank",
+			"pal": "GT Interactive"
+		}
+	},
+	"War_Gods_(video_game)": {
+		"id": "War_Gods_(video_game)",
+		"title": "War Gods",
+		"developers": [
+			"Eurocom"
+		],
+		"publisher": "Midway",
+		"releaseDates": {
+			"jp": null,
+			"na": "1997-05-20",
+			"pal": "1997-11-28"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/War_Gods_(video_game)",
+		"otherPublishers": {
+			"pal": "GT Interactive"
+		}
+	},
+	"Hexen:_Beyond_Heretic_Console_versions": {
+		"id": "Hexen:_Beyond_Heretic_Console_versions",
+		"title": "Hexen",
+		"developers": [
+			"Software Creations"
+		],
+		"publisher": "id Software",
+		"releaseDates": {
+			"jp": "1997-12-18",
+			"na": "1997-06-25",
+			"pal": "1997-12-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Hexen:_Beyond_Heretic#Console_versions",
+		"otherPublishers": {
+			"jp": "Gamebank"
+		}
+	},
+	"Star_Fox_64": {
+		"id": "Star_Fox_64",
+		"title": "Star Fox 64",
+		"developers": [
+			"Nintendo EAD"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": "1997-04-27",
+			"na": "1997-06-30",
+			"pal": "1997-10-04"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Star_Fox_64",
+		"otherTitles": {
+			"pal": "Lylat Wars"
+		}
+	},
+	"Dark_Rift": {
+		"id": "Dark_Rift",
+		"title": "Dark Rift",
+		"developers": [
+			"Kronos Digital Entertainment"
+		],
+		"publisher": "Vic Tokai",
+		"releaseDates": {
+			"jp": "1998-03-27",
+			"na": "1997-07-08",
+			"pal": "1997-07-30"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Dark_Rift",
+		"otherTitles": {
+			"jp": "Supēsu Dainamaitsu"
+		}
+	},
+	"Tetrisphere": {
+		"id": "Tetrisphere",
+		"title": "Tetrisphere",
+		"developers": [
+			"H2O Entertainment"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": null,
+			"na": "1997-08-11",
+			"pal": "1998-02-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Tetrisphere"
+	},
+	"International_Superstar_Soccer_64": {
+		"id": "International_Superstar_Soccer_64",
+		"title": "International Superstar Soccer 64",
+		"developers": [
+			"Konami Computer Entertainment Osaka"
+		],
+		"publisher": "Konami",
+		"releaseDates": {
+			"jp": "1996-12-20",
+			"na": "1997-08-22",
+			"pal": "1997-06-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/International_Superstar_Soccer_64",
+		"otherTitles": {
+			"jp": "Jikkyō J.League Perfect Striker"
+		}
+	},
+	"GoldenEye_007_(1997_video_game)": {
+		"id": "GoldenEye_007_(1997_video_game)",
+		"title": "GoldenEye 007",
+		"developers": [
+			"Rare"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": "1997-08-23",
+			"na": "1997-08-25",
+			"pal": "1997-11-07"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/GoldenEye_007_(1997_video_game)"
+	},
+	"MRC:_Multi-Racing_Championship": {
+		"id": "MRC:_Multi-Racing_Championship",
+		"title": "MRC: Multi-Racing Championship",
+		"developers": [
+			"Genki"
+		],
+		"publisher": "Ocean Software",
+		"releaseDates": {
+			"jp": "1997-07-18",
+			"na": "1997-09-04",
+			"pal": "1997-10-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/MRC:_Multi-Racing_Championship",
+		"otherPublishers": {
+			"jp": "Imagineer"
+		}
+	},
+	"Mace:_The_Dark_Age": {
+		"id": "Mace:_The_Dark_Age",
+		"title": "Mace: The Dark Age",
+		"developers": [
+			"Midway Games"
+		],
+		"publisher": "Midway",
+		"releaseDates": {
+			"jp": null,
+			"na": "1997-09-30",
+			"pal": "1997-12-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Mace:_The_Dark_Age",
+		"otherPublishers": {
+			"pal": "GT Interactive"
+		}
+	},
+	"Top_Gear_Rally": {
+		"id": "Top_Gear_Rally",
+		"title": "Top Gear Rally",
+		"developers": [
+			"Boss Game Studios"
+		],
+		"publisher": "Midway",
+		"releaseDates": {
+			"jp": "1997-12-05",
+			"na": "1997-09-30",
+			"pal": "1997-11-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Top_Gear_Rally",
+		"otherPublishers": {
+			"jp": "Kemco",
+			"pal": "Kemco"
+		}
+	},
+	"Mischief_Makers": {
+		"id": "Mischief_Makers",
+		"title": "Mischief Makers",
+		"developers": [
+			"Treasure"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": "1997-06-27",
+			"na": "1997-10-01",
+			"pal": "1997-12-12"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Mischief_Makers",
+		"otherPublishers": {
+			"jp": "Enix"
+		}
+	},
+	"F1_Pole_Position_64": {
+		"id": "F1_Pole_Position_64",
+		"title": "F1 Pole Position 64",
+		"developers": [
+			"Human Entertainment"
+		],
+		"publisher": "Ubi Soft",
+		"releaseDates": {
+			"jp": "1997-03-28",
+			"na": "1997-10-15",
+			"pal": "1997-10-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/F1_Pole_Position_64",
+		"otherTitles": {
+			"jp": "Human Grand Prix: The New Generation"
+		},
+		"otherPublishers": {
+			"jp": "Human Entertainment"
+		}
+	},
+	"ClayFighter_63⅓": {
+		"id": "ClayFighter_63⅓",
+		"title": "ClayFighter 63⅓",
+		"developers": [
+			"Interplay Productions"
+		],
+		"publisher": "Interplay Productions",
+		"releaseDates": {
+			"jp": null,
+			"na": "1997-10-23",
+			"pal": "1997-11-19"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/ClayFighter_63⅓"
+	},
+	"Madden_Football_64": {
+		"id": "Madden_Football_64",
+		"title": "Madden Football 64",
+		"developers": [
+			"Tiburon Entertainment"
+		],
+		"publisher": "EA Sports",
+		"releaseDates": {
+			"jp": null,
+			"na": "1997-10-24",
+			"pal": "1997-12-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Madden_Football_64"
+	},
+	"NFL_Quarterback_Club_98": {
+		"id": "NFL_Quarterback_Club_98",
+		"title": "NFL Quarterback Club 98",
+		"developers": [
+			"Iguana Entertainment"
+		],
+		"publisher": "Acclaim Sports",
+		"releaseDates": {
+			"jp": null,
+			"na": "1997-10-24",
+			"pal": "1997-12-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/NFL_Quarterback_Club_98"
+	},
+	"Extreme-G": {
+		"id": "Extreme-G",
+		"title": "Extreme-G",
+		"developers": [
+			"Probe Entertainment"
+		],
+		"publisher": "Acclaim Entertainment",
+		"releaseDates": {
+			"jp": "1998-05-29",
+			"na": "1997-10-27",
+			"pal": "1997-12-09"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Extreme-G"
+	},
+	"San_Francisco_Rush:_Extreme_Racing": {
+		"id": "San_Francisco_Rush:_Extreme_Racing",
+		"title": "San Francisco Rush: Extreme Racing",
+		"developers": [
+			"Midway Games"
+		],
+		"publisher": "Midway",
+		"releaseDates": {
+			"jp": null,
+			"na": "1997-11-07",
+			"pal": "1997-12-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/San_Francisco_Rush:_Extreme_Racing",
+		"otherPublishers": {
+			"pal": "GT Interactive"
+		}
+	},
+	"Duke_Nukem_3D_Console_versions_and_add-ons": {
+		"id": "Duke_Nukem_3D_Console_versions_and_add-ons",
+		"title": "Duke Nukem 64",
+		"developers": [
+			"Eurocom"
+		],
+		"publisher": "GT Interactive",
+		"releaseDates": {
+			"jp": null,
+			"na": "1997-11-14",
+			"pal": "1997-11-14"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Duke_Nukem_3D#Console_versions_and_add-ons"
+	},
+	"Aero_Fighters_Assault": {
+		"id": "Aero_Fighters_Assault",
+		"title": "Aero Fighters Assault",
+		"developers": [
+			"Paradigm Entertainment"
+		],
+		"publisher": "Video System",
+		"releaseDates": {
+			"jp": "1998-03-19",
+			"na": "1997-11-21",
+			"pal": "1998-04-12"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Aero_Fighters_Assault"
+	},
+	"Automobili_Lamborghini_(video_game)": {
+		"id": "Automobili_Lamborghini_(video_game)",
+		"title": "Automobili Lamborghini",
+		"developers": [
+			"Titus France"
+		],
+		"publisher": "Titus Interactive",
+		"releaseDates": {
+			"jp": "1998-05-28",
+			"na": "1997-11-22",
+			"pal": "1997-12-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Automobili_Lamborghini_(video_game)",
+		"otherTitles": {
+			"jp": "Super Speed Race 64"
+		},
+		"otherPublishers": {
+			"jp": "Taito"
+		}
+	},
+	"Diddy_Kong_Racing": {
+		"id": "Diddy_Kong_Racing",
+		"title": "Diddy Kong Racing",
+		"developers": [
+			"Rare"
+		],
+		"publisher": "Rare",
+		"releaseDates": {
+			"jp": "1997-11-21",
+			"na": "1997-11-24",
+			"pal": "1997-11-21"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Diddy_Kong_Racing"
+	},
+	"WCW_vs._nWo:_World_Tour": {
+		"id": "WCW_vs._nWo:_World_Tour",
+		"title": "WCW vs. nWo: World Tour",
+		"developers": [
+			"Asmik Ace Entertainment",
+			"AKI Corporation"
+		],
+		"publisher": "THQ",
+		"releaseDates": {
+			"jp": null,
+			"na": "1997-12-02",
+			"pal": "1998-02-12"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/WCW_vs._nWo:_World_Tour"
+	},
+	"Wheel_of_Fortune_video_games_Console_games": {
+		"id": "Wheel_of_Fortune_video_games_Console_games",
+		"title": "Wheel of Fortune",
+		"developers": [
+			"GameTek"
+		],
+		"publisher": "Take-Two Interactive",
+		"releaseDates": {
+			"jp": null,
+			"na": "1997-12-02",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Wheel_of_Fortune_video_games#Console_games"
+	},
+	"Bomberman_64_(1997_video_game)": {
+		"id": "Bomberman_64_(1997_video_game)",
+		"title": "Bomberman 64",
+		"developers": [
+			"Hudson Soft"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": "1997-09-26",
+			"na": "1997-12-03",
+			"pal": "1997-11-21"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Bomberman_64_(1997_video_game)",
+		"otherTitles": {
+			"jp": "Baku Bomberman"
+		},
+		"otherPublishers": {
+			"jp": "Hudson Soft"
+		}
+	},
+	"Wayne_Gretzky's_3D_Hockey_'98": {
+		"id": "Wayne_Gretzky's_3D_Hockey_'98",
+		"title": "Wayne Gretzky's 3D Hockey '98",
+		"developers": [
+			"Software Creations"
+		],
+		"publisher": "Midway",
+		"releaseDates": {
+			"jp": null,
+			"na": "1997-12-03",
+			"pal": "1998-06-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Wayne_Gretzky's_3D_Hockey_'98",
+		"otherPublishers": {
+			"pal": "GT Interactive"
+		}
+	},
+	"Chameleon_Twist": {
+		"id": "Chameleon_Twist",
+		"title": "Chameleon Twist",
+		"developers": [
+			"Japan System Supply"
+		],
+		"publisher": "Sunsoft",
+		"releaseDates": {
+			"jp": "1997-12-12",
+			"na": "1997-12-09",
+			"pal": "1997-12-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Chameleon_Twist",
+		"otherPublishers": {
+			"jp": "Japan System Supply"
+		}
+	},
+	"Mortal_Kombat_Mythologies:_Sub-Zero": {
+		"id": "Mortal_Kombat_Mythologies:_Sub-Zero",
+		"title": "Mortal Kombat Mythologies: Sub-Zero",
+		"developers": [
+			"Avalanche Software"
+		],
+		"publisher": "Midway",
+		"releaseDates": {
+			"jp": null,
+			"na": "1997-12-11",
+			"pal": "1998-02-12"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Mortal_Kombat_Mythologies:_Sub-Zero",
+		"otherPublishers": {
+			"pal": "GT Interactive"
+		}
+	},
+	"FIFA:_Road_to_World_Cup_98": {
+		"id": "FIFA:_Road_to_World_Cup_98",
+		"title": "FIFA: Road to World Cup 98",
+		"developers": [
+			"EA Canada",
+			"Extended Play Productions"
+		],
+		"publisher": "EA Sports",
+		"releaseDates": {
+			"jp": "1998-04-12",
+			"na": "1997-12-22",
+			"pal": "1997-12-20"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/FIFA:_Road_to_World_Cup_98",
+		"otherPublishers": {
+			"jp": "Electronic Arts Victor"
+		}
+	},
+	"Robotron_64": {
+		"id": "Robotron_64",
+		"title": "Robotron 64",
+		"developers": [
+			"Player 1"
+		],
+		"publisher": "Crave Entertainment",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-01-05",
+			"pal": "1998-06-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Robotron_64",
+		"otherPublishers": {
+			"pal": "GT Interactive"
+		}
+	},
+	"Fighters_Destiny": {
+		"id": "Fighters_Destiny",
+		"title": "Fighters Destiny",
+		"developers": [
+			"Genki",
+			"Opus Corp.",
+			"Anchor Inc."
+		],
+		"publisher": "Ocean of America",
+		"releaseDates": {
+			"jp": "1998-12-11",
+			"na": "1998-01-26",
+			"pal": "1998-03-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Fighters_Destiny",
+		"otherPublishers": {
+			"pal": "Infogrames",
+			"jp": "Imagineer"
+		}
+	},
+	"Nagano_Winter_Olympics_'98": {
+		"id": "Nagano_Winter_Olympics_'98",
+		"title": "Nagano Winter Olympics '98",
+		"developers": [
+			"Konami Computer Entertainment Osaka",
+			"Konami Computer Entertainment Tokyo"
+		],
+		"publisher": "Konami",
+		"releaseDates": {
+			"jp": "1997-12-18",
+			"na": "1998-01-29",
+			"pal": "1998-02-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Nagano_Winter_Olympics_'98"
+	},
+	"NBA_In_The_Zone_'98": {
+		"id": "NBA_In_The_Zone_'98",
+		"title": "NBA In The Zone '98",
+		"developers": [
+			"Konami Computer Entertainment Osaka"
+		],
+		"publisher": "Konami",
+		"releaseDates": {
+			"jp": "1998-01-29",
+			"na": "1998-02-16",
+			"pal": "1998-04-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/NBA_In_The_Zone_'98",
+		"otherTitles": {
+			"pal": "NBA Pro '98"
+		}
+	},
+	"Olympic_Hockey_'98": {
+		"id": "Olympic_Hockey_'98",
+		"title": "Olympic Hockey '98",
+		"developers": [
+			"Treyarch Invention"
+		],
+		"publisher": "Midway",
+		"releaseDates": {
+			"jp": "1998-07-16",
+			"na": "1998-02-23",
+			"pal": "1998-04-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Olympic_Hockey_'98",
+		"otherPublishers": {
+			"pal": "GT Interactive",
+			"jp": "Konami"
+		}
+	},
+	"Jeopardy!_(franchise)_Consoles": {
+		"id": "Jeopardy!_(franchise)_Consoles",
+		"title": "Jeopardy!",
+		"developers": [
+			"GameTek"
+		],
+		"publisher": "Take-Two Interactive",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-02-25",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Jeopardy!_(franchise)#Consoles"
+	},
+	"NHL_Breakaway_98": {
+		"id": "NHL_Breakaway_98",
+		"title": "NHL Breakaway 98",
+		"developers": [
+			"Iguana Entertainment"
+		],
+		"publisher": "Acclaim Sports",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-02-25",
+			"pal": "1998-01-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/NHL_Breakaway_98"
+	},
+	"Yoshi's_Story": {
+		"id": "Yoshi's_Story",
+		"title": "Yoshi's Story",
+		"developers": [
+			"Nintendo EAD"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": "1997-12-21",
+			"na": "1998-03-10",
+			"pal": "1998-05-10"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Yoshi's_Story"
+	},
+	"Snowboard_Kids": {
+		"id": "Snowboard_Kids",
+		"title": "Snowboard Kids",
+		"developers": [
+			"Racdym"
+		],
+		"publisher": "Atlus",
+		"releaseDates": {
+			"jp": "1997-12-12",
+			"na": "1998-03-13",
+			"pal": "1998-03-16"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Snowboard_Kids",
+		"otherPublishers": {
+			"jp": "Atlus",
+			"pal": "Nintendo"
+		}
+	},
+	"Quake_(video_game)_Ports": {
+		"id": "Quake_(video_game)_Ports",
+		"title": "Quake 64",
+		"developers": [
+			"Midway Studios San Diego"
+		],
+		"publisher": "Midway",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-03-24",
+			"pal": "1998-05-24"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Quake_(video_game)#Ports",
+		"otherPublishers": {
+			"pal": "GT Interactive"
+		}
+	},
+	"Rampage_World_Tour": {
+		"id": "Rampage_World_Tour",
+		"title": "Rampage World Tour",
+		"developers": [
+			"Saffire"
+		],
+		"publisher": "Midway",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-03-30",
+			"pal": "1998-06-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Rampage_World_Tour",
+		"otherPublishers": {
+			"pal": "GT Interactive"
+		}
+	},
+	"1080°_Snowboarding": {
+		"id": "1080°_Snowboarding",
+		"title": "1080° Snowboarding",
+		"developers": [
+			"Nintendo EAD"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": "1998-02-28",
+			"na": "1998-04-01",
+			"pal": "1998-10-09"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/1080°_Snowboarding"
+	},
+	"Mystical_Ninja_Starring_Goemon": {
+		"id": "Mystical_Ninja_Starring_Goemon",
+		"title": "Mystical Ninja Starring Goemon",
+		"developers": [
+			"Konami Computer Entertainment Osaka"
+		],
+		"publisher": "Konami",
+		"releaseDates": {
+			"jp": "1997-08-07",
+			"na": "1998-04-16",
+			"pal": "1998-04-18"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Mystical_Ninja_Starring_Goemon"
+	},
+	"Kobe_Bryant_in_NBA_Courtside": {
+		"id": "Kobe_Bryant_in_NBA_Courtside",
+		"title": "Kobe Bryant in NBA Courtside",
+		"developers": [
+			"Left Field Productions"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-04-27",
+			"pal": "1998-06-10"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Kobe_Bryant_in_NBA_Courtside"
+	},
+	"ClayFighter_63⅓_ClayFighter:_Sculptor's_Cut": {
+		"id": "ClayFighter_63⅓_ClayFighter:_Sculptor's_Cut",
+		"title": "ClayFighter: Sculptor's Cut",
+		"developers": [
+			"Interplay Productions"
+		],
+		"publisher": "Interplay Productions",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-05-15",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/ClayFighter_63⅓#ClayFighter:_Sculptor's_Cut"
+	},
+	"Bio_F.R.E.A.K.S.": {
+		"id": "Bio_F.R.E.A.K.S.",
+		"title": "Bio F.R.E.A.K.S.",
+		"developers": [
+			"Midway Studios San Diego",
+			"Saffire"
+		],
+		"publisher": "Midway",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-05-19",
+			"pal": "1998-09-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Bio_F.R.E.A.K.S.",
+		"otherPublishers": {
+			"pal": "GT Interactive"
+		}
+	},
+	"World_Cup_98_(video_game)": {
+		"id": "World_Cup_98_(video_game)",
+		"title": "World Cup 98",
+		"developers": [
+			"Software Creations"
+		],
+		"publisher": "EA Sports",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-05-19",
+			"pal": "1998-05-22"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/World_Cup_98_(video_game)"
+	},
+	"Puzzle_Bobble_2": {
+		"id": "Puzzle_Bobble_2",
+		"title": "Bust-A-Move 2 Arcade Edition",
+		"developers": [
+			"Probe Entertainment"
+		],
+		"publisher": "Acclaim Entertainment",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-05-20",
+			"pal": "1998-01-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Puzzle_Bobble_2"
+	},
+	"AeroGauge": {
+		"id": "AeroGauge",
+		"title": "AeroGauge",
+		"developers": [
+			"Locomotive Corporation"
+		],
+		"publisher": "ASCII Entertainment",
+		"releaseDates": {
+			"jp": "1997-12-19",
+			"na": "1998-05-21",
+			"pal": "1998-03-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/AeroGauge"
+	},
+	"Forsaken_64": {
+		"id": "Forsaken_64",
+		"title": "Forsaken 64",
+		"developers": [
+			"Iguana UK"
+		],
+		"publisher": "Acclaim Entertainment",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-05-26",
+			"pal": "1998-05-22"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Forsaken_64",
+		"otherTitles": {
+			"pal": "Forsaken"
+		}
+	},
+	"Major_League_Baseball_Featuring_Ken_Griffey_Jr.": {
+		"id": "Major_League_Baseball_Featuring_Ken_Griffey_Jr.",
+		"title": "Major League Baseball Featuring Ken Griffey Jr.",
+		"developers": [
+			"Angel Studios"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-05-26",
+			"pal": "1998-01-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Major_League_Baseball_Featuring_Ken_Griffey_Jr."
+	},
+	"All-Star_Baseball_99": {
+		"id": "All-Star_Baseball_99",
+		"title": "All-Star Baseball 99",
+		"developers": [
+			"Iguana Entertainment"
+		],
+		"publisher": "Acclaim Sports",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-05-27",
+			"pal": "1998-08-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/All-Star_Baseball_99"
+	},
+	"Quest_64": {
+		"id": "Quest_64",
+		"title": "Quest 64",
+		"developers": [
+			"Imagineer"
+		],
+		"publisher": "THQ",
+		"releaseDates": {
+			"jp": "1999-07-09",
+			"na": "1998-06-10",
+			"pal": "1998-09-30"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Quest_64",
+		"otherTitles": {
+			"pal": "Holy Magic Century"
+		},
+		"otherPublishers": {
+			"pal": "Konami",
+			"jp": "Imagineer"
+		}
+	},
+	"Virtual_Chess_64": {
+		"id": "Virtual_Chess_64",
+		"title": "Virtual Chess 64",
+		"developers": [
+			"Titus France"
+		],
+		"publisher": "Titus Interactive",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-06-10",
+			"pal": "1998-07-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Virtual_Chess_64"
+	},
+	"Wetrix": {
+		"id": "Wetrix",
+		"title": "Wetrix",
+		"developers": [
+			"Zed Two"
+		],
+		"publisher": "Ocean Software",
+		"releaseDates": {
+			"jp": "1998-11-27",
+			"na": "1998-06-12",
+			"pal": "1998-06-19"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Wetrix",
+		"otherPublishers": {
+			"jp": "Imagineer"
+		}
+	},
+	"Chopper_Attack": {
+		"id": "Chopper_Attack",
+		"title": "Chopper Attack",
+		"developers": [
+			"SETA"
+		],
+		"publisher": "Midway",
+		"releaseDates": {
+			"jp": "1997-11-28",
+			"na": "1998-06-16",
+			"pal": "1998-09-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Chopper_Attack",
+		"otherPublishers": {
+			"jp": "SETA",
+			"pal": "GT Interactive"
+		}
+	},
+	"Mike_Piazza's_Strike_Zone": {
+		"id": "Mike_Piazza's_Strike_Zone",
+		"title": "Mike Piazza's Strike Zone",
+		"developers": [
+			"Devil's Thumb Entertainment"
+		],
+		"publisher": "GT Interactive",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-06-18",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Mike_Piazza's_Strike_Zone"
+	},
+	"Mortal_Kombat_4": {
+		"id": "Mortal_Kombat_4",
+		"title": "Mortal Kombat 4",
+		"developers": [
+			"Eurocom"
+		],
+		"publisher": "Midway",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-06-23",
+			"pal": "1998-09-15"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Mortal_Kombat_4",
+		"otherPublishers": {
+			"pal": "GT Interactive"
+		}
+	},
+	"Banjo-Kazooie_(video_game)": {
+		"id": "Banjo-Kazooie_(video_game)",
+		"title": "Banjo-Kazooie",
+		"developers": [
+			"Rare"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": "1998-12-06",
+			"na": "1998-06-29",
+			"pal": "1998-07-17"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Banjo-Kazooie_(video_game)"
+	},
+	"Off_Road_Challenge": {
+		"id": "Off_Road_Challenge",
+		"title": "Off Road Challenge",
+		"developers": [
+			"Avalanche Software"
+		],
+		"publisher": "Midway",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-06-30",
+			"pal": "1998-09-15"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Off_Road_Challenge",
+		"otherPublishers": {
+			"pal": "GT Interactive"
+		}
+	},
+	"Mission:_Impossible_(1998_video_game)": {
+		"id": "Mission:_Impossible_(1998_video_game)",
+		"title": "Mission Impossible",
+		"developers": [
+			"Infogrames"
+		],
+		"publisher": "Ocean Software",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-07-16",
+			"pal": "1998-09-25"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Mission:_Impossible_(1998_video_game)"
+	},
+	"F-1_World_Grand_Prix": {
+		"id": "F-1_World_Grand_Prix",
+		"title": "F-1 World Grand Prix",
+		"developers": [
+			"Paradigm Entertainment"
+		],
+		"publisher": "Video System",
+		"releaseDates": {
+			"jp": "1998-12-18",
+			"na": "1998-07-27",
+			"pal": "1998-09-14"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/F-1_World_Grand_Prix"
+	},
+	"Waialae_Country_Club:_True_Golf_Classics": {
+		"id": "Waialae_Country_Club:_True_Golf_Classics",
+		"title": "Waialae Country Club: True Golf Classics",
+		"developers": [
+			"T&E Soft"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-07-27",
+			"pal": "1998-08-24"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Waialae_Country_Club:_True_Golf_Classics"
+	},
+	"WWF_War_Zone": {
+		"id": "WWF_War_Zone",
+		"title": "WWF War Zone",
+		"developers": [
+			"Iguana West"
+		],
+		"publisher": "Acclaim Sports",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-08-11",
+			"pal": "1998-08-28"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/WWF_War_Zone"
+	},
+	"International_Superstar_Soccer_98": {
+		"id": "International_Superstar_Soccer_98",
+		"title": "International Superstar Soccer 98",
+		"developers": [
+			"Konami Computer Entertainment Osaka"
+		],
+		"publisher": "Konami",
+		"releaseDates": {
+			"jp": "1998-06-04",
+			"na": "1998-08-21",
+			"pal": "1998-09-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/International_Superstar_Soccer_98",
+		"otherTitles": {
+			"jp": "Jikkyō World Soccer: World Cup France '98"
+		}
+	},
+	"Iggy's_Reckin'_Balls": {
+		"id": "Iggy's_Reckin'_Balls",
+		"title": "Iggy's Reckin' Balls",
+		"developers": [
+			"Iguana Entertainment"
+		],
+		"publisher": "Acclaim Entertainment",
+		"releaseDates": {
+			"jp": "1998-08-28",
+			"na": "1998-08-24",
+			"pal": "1998-08-28"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Iggy's_Reckin'_Balls"
+	},
+	"Gex:_Enter_the_Gecko": {
+		"id": "Gex:_Enter_the_Gecko",
+		"title": "Gex 64: Enter the Gecko",
+		"developers": [
+			"Realtime Associates"
+		],
+		"publisher": "Midway",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-08-26",
+			"pal": "1999-02-26"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Gex:_Enter_the_Gecko",
+		"otherPublishers": {
+			"pal": "GT Interactive"
+		}
+	},
+	"Bomberman_Hero": {
+		"id": "Bomberman_Hero",
+		"title": "Bomberman Hero",
+		"developers": [
+			"A.I"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": "1998-04-30",
+			"na": "1998-08-31",
+			"pal": "1998-10-23"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Bomberman_Hero",
+		"otherPublishers": {
+			"jp": "Hudson Soft"
+		}
+	},
+	"GT_64:_Championship_Edition": {
+		"id": "GT_64:_Championship_Edition",
+		"title": "GT 64: Championship Edition",
+		"developers": [
+			"Imagineer"
+		],
+		"publisher": "Ocean of America",
+		"releaseDates": {
+			"jp": "1998-10-30",
+			"na": "1998-09-09",
+			"pal": "1998-01-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/GT_64:_Championship_Edition",
+		"otherTitles": {
+			"jp": "City Tour GrandPrix: Zen Nihon GT Senshuken"
+		},
+		"otherPublishers": {
+			"jp": "Imagineer",
+			"pal": "Infogrames UK"
+		}
+	},
+	"NASCAR_99": {
+		"id": "NASCAR_99",
+		"title": "NASCAR '99",
+		"developers": [
+			"Stormfront Studios"
+		],
+		"publisher": "EA Sports",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-09-10",
+			"pal": "1998-11-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/NASCAR_99"
+	},
+	"NFL_Blitz_(1997_video_game)": {
+		"id": "NFL_Blitz_(1997_video_game)",
+		"title": "NFL Blitz",
+		"developers": [
+			"Midway Games"
+		],
+		"publisher": "Midway",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-09-12",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/NFL_Blitz_(1997_video_game)"
+	},
+	"Madden_NFL_99": {
+		"id": "Madden_NFL_99",
+		"title": "Madden NFL 99",
+		"developers": [
+			"EA Tiburon"
+		],
+		"publisher": "EA Sports",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-09-22",
+			"pal": "1999-01-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Madden_NFL_99"
+	},
+	"Cruis'n_World": {
+		"id": "Cruis'n_World",
+		"title": "Cruis'n World",
+		"developers": [
+			"Eurocom"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-09-28",
+			"pal": "1998-06-25"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Cruis'n_World"
+	},
+	"G.A.S.P!!_Fighters'_NEXTream": {
+		"id": "G.A.S.P!!_Fighters'_NEXTream",
+		"title": "Deadly Arts",
+		"developers": [
+			"Konami Computer Entertainment Osaka"
+		],
+		"publisher": "Konami",
+		"releaseDates": {
+			"jp": "1998-03-26",
+			"na": "1998-09-29",
+			"pal": "1998-09-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/G.A.S.P!!_Fighters'_NEXTream",
+		"otherTitles": {
+			"default": "G.A.S.P!! Fighters' NEXTream"
+		}
+	},
+	"NHL_99": {
+		"id": "NHL_99",
+		"title": "NHL 99",
+		"developers": [
+			"MBL Research"
+		],
+		"publisher": "EA Sports",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-10-01",
+			"pal": "1998-11-30"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/NHL_99"
+	},
+	"Flying_Dragon": {
+		"id": "Flying_Dragon",
+		"title": "Flying Dragon",
+		"developers": [
+			"Culture Brain"
+		],
+		"publisher": "Natsume Inc.",
+		"releaseDates": {
+			"jp": "1997-12-18",
+			"na": "1998-10-14",
+			"pal": "1999-07-25"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Flying_Dragon",
+		"otherPublishers": {
+			"jp": "Culture Brain"
+		}
+	},
+	"Body_Harvest": {
+		"id": "Body_Harvest",
+		"title": "Body Harvest",
+		"developers": [
+			"DMA Design"
+		],
+		"publisher": "Midway",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-10-20",
+			"pal": "1998-11-13"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Body_Harvest",
+		"otherPublishers": {
+			"pal": "Gremlin Interactive"
+		}
+	},
+	"Space_Station_Silicon_Valley": {
+		"id": "Space_Station_Silicon_Valley",
+		"title": "Space Station Silicon Valley",
+		"developers": [
+			"DMA Design"
+		],
+		"publisher": "Take-Two Interactive",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-10-22",
+			"pal": "1998-11-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Space_Station_Silicon_Valley"
+	},
+	"WCW/nWo_Revenge": {
+		"id": "WCW/nWo_Revenge",
+		"title": "WCW/nWo Revenge",
+		"developers": [
+			"Asmik Ace Entertainment",
+			"AKI Corporation"
+		],
+		"publisher": "THQ",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-10-26",
+			"pal": "1998-11-30"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/WCW/nWo_Revenge"
+	},
+	"F-Zero_X": {
+		"id": "F-Zero_X",
+		"title": "F-Zero X",
+		"developers": [
+			"Nintendo EAD"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": "1998-07-14",
+			"na": "1998-10-27",
+			"pal": "1998-11-06"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/F-Zero_X"
+	},
+	"NBA_Live_99": {
+		"id": "NBA_Live_99",
+		"title": "NBA Live 99",
+		"developers": [
+			"NuFX"
+		],
+		"publisher": "EA Sports",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-11-04",
+			"pal": "1998-12-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/NBA_Live_99"
+	},
+	"Wipeout_64": {
+		"id": "Wipeout_64",
+		"title": "Wipeout 64",
+		"developers": [
+			"Psygnosis"
+		],
+		"publisher": "Midway",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-11-04",
+			"pal": "1999-02-05"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Wipeout_64"
+	},
+	"Dual_Heroes": {
+		"id": "Dual_Heroes",
+		"title": "Dual Heroes",
+		"developers": [
+			"Produce!"
+		],
+		"publisher": "Electro Brain",
+		"releaseDates": {
+			"jp": "1997-12-05",
+			"na": "1998-11-05",
+			"pal": "1998-04-12"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Dual_Heroes",
+		"otherPublishers": {
+			"jp": "Hudson Soft",
+			"pal": "Gaga Interactive Media"
+		}
+	},
+	"Knife_Edge:_Nose_Gunner": {
+		"id": "Knife_Edge:_Nose_Gunner",
+		"title": "Knife Edge: Nose Gunner",
+		"developers": [
+			"Kemco"
+		],
+		"publisher": "Kemco",
+		"releaseDates": {
+			"jp": "1998-11-27",
+			"na": "1998-11-10",
+			"pal": "1998-01-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Knife_Edge:_Nose_Gunner",
+		"otherTitles": {
+			"pal": "Knife Edge"
+		}
+	},
+	"NFL_Quarterback_Club_99": {
+		"id": "NFL_Quarterback_Club_99",
+		"title": "NFL Quarterback Club 99",
+		"developers": [
+			"Iguana Entertainment"
+		],
+		"publisher": "Acclaim Sports",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-11-10",
+			"pal": "1998-12-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/NFL_Quarterback_Club_99"
+	},
+	"Rush_2:_Extreme_Racing_USA": {
+		"id": "Rush_2:_Extreme_Racing_USA",
+		"title": "Rush 2: Extreme Racing USA",
+		"developers": [
+			"Atari Games"
+		],
+		"publisher": "Midway",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-11-11",
+			"pal": "1999-02-04"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Rush_2:_Extreme_Racing_USA",
+		"otherPublishers": {
+			"pal": "GT Interactive"
+		}
+	},
+	"Twisted_Edge_Extreme_Snowboarding": {
+		"id": "Twisted_Edge_Extreme_Snowboarding",
+		"title": "Twisted Edge Extreme Snowboarding",
+		"developers": [
+			"Boss Game Studios"
+		],
+		"publisher": "Midway",
+		"releaseDates": {
+			"jp": "1998-12-18",
+			"na": "1998-11-11",
+			"pal": "1999-03-12"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Twisted_Edge_Extreme_Snowboarding",
+		"otherTitles": {
+			"pal": "Twisted Edge Snowboarding",
+			"jp": "King Hill 64: Extreme Snowboarding"
+		},
+		"otherPublishers": {
+			"jp": "Kemco",
+			"pal": "Kemco"
+		}
+	},
+	"Glover_(video_game)": {
+		"id": "Glover_(video_game)",
+		"title": "Glover",
+		"developers": [
+			"Interactive Studios"
+		],
+		"publisher": "Hasbro Interactive",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-11-16",
+			"pal": "1998-11-24"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Glover_(video_game)"
+	},
+	"Extreme-G_2": {
+		"id": "Extreme-G_2",
+		"title": "Extreme-G 2",
+		"developers": [
+			"Probe Entertainment"
+		],
+		"publisher": "Acclaim Entertainment",
+		"releaseDates": {
+			"jp": "1999-09-10",
+			"na": "1998-11-17",
+			"pal": "1998-12-04"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Extreme-G_2",
+		"otherTitles": {
+			"pal": "Extreme-G2 XG2"
+		}
+	},
+	"Buck_Bumble": {
+		"id": "Buck_Bumble",
+		"title": "Buck Bumble",
+		"developers": [
+			"Argonaut Software"
+		],
+		"publisher": "Ubi Soft",
+		"releaseDates": {
+			"jp": "1998-12-18",
+			"na": "1998-11-20",
+			"pal": "1998-12-04"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Buck_Bumble"
+	},
+	"Fox_Sports_College_Hoops_'99": {
+		"id": "Fox_Sports_College_Hoops_'99",
+		"title": "Fox Sports College Hoops '99",
+		"developers": [
+			"Z-Axis"
+		],
+		"publisher": "Fox Sports Interactive",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-11-23",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Fox_Sports_College_Hoops_'99"
+	},
+	"The_Legend_of_Zelda:_Ocarina_of_Time": {
+		"id": "The_Legend_of_Zelda:_Ocarina_of_Time",
+		"title": "The Legend of Zelda: Ocarina of Time",
+		"developers": [
+			"Nintendo EAD"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": "1998-11-21",
+			"na": "1998-11-23",
+			"pal": "1998-12-11"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time"
+	},
+	"Top_Gear_Overdrive": {
+		"id": "Top_Gear_Overdrive",
+		"title": "Top Gear Overdrive",
+		"developers": [
+			"Snowblind Studios"
+		],
+		"publisher": "Kemco",
+		"releaseDates": {
+			"jp": "1999-03-19",
+			"na": "1998-11-23",
+			"pal": "1998-11-25"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Top_Gear_Overdrive"
+	},
+	"Milo's_Astro_Lanes": {
+		"id": "Milo's_Astro_Lanes",
+		"title": "Milo's Astro Lanes",
+		"developers": [
+			"Player 1"
+		],
+		"publisher": "Crave Entertainment",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-11-24",
+			"pal": "1999-07-25"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Milo's_Astro_Lanes",
+		"otherPublishers": {
+			"pal": "Interplay Entertainment"
+		}
+	},
+	"NHL_Breakaway_99": {
+		"id": "NHL_Breakaway_99",
+		"title": "NHL Breakaway 99",
+		"developers": [
+			"Iguana West"
+		],
+		"publisher": "Acclaim Sports",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-11-30",
+			"pal": "1998-12-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/NHL_Breakaway_99"
+	},
+	"Nightmare_Creatures": {
+		"id": "Nightmare_Creatures",
+		"title": "Nightmare Creatures",
+		"developers": [
+			"Kalisto Entertainment"
+		],
+		"publisher": "Activision",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-11-30",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Nightmare_Creatures"
+	},
+	"FIFA_99": {
+		"id": "FIFA_99",
+		"title": "FIFA 99",
+		"developers": [
+			"EA Canada"
+		],
+		"publisher": "EA Sports",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-12-01",
+			"pal": "1998-12-08"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/FIFA_99"
+	},
+	"NBA_Jam_99": {
+		"id": "NBA_Jam_99",
+		"title": "NBA Jam 99",
+		"developers": [
+			"Iguana West"
+		],
+		"publisher": "Acclaim Sports",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-12-03",
+			"pal": "1998-12-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/NBA_Jam_99"
+	},
+	"S.C.A.R.S._(video_game)": {
+		"id": "S.C.A.R.S._(video_game)",
+		"title": "S.C.A.R.S.",
+		"developers": [
+			"Vivid Image"
+		],
+		"publisher": "Ubi Soft",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-12-03",
+			"pal": "1999-01-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/S.C.A.R.S._(video_game)"
+	},
+	"Star_Wars:_Rogue_Squadron": {
+		"id": "Star_Wars:_Rogue_Squadron",
+		"title": "Star Wars: Rogue Squadron",
+		"developers": [
+			"Factor 5",
+			"LucasArts"
+		],
+		"publisher": "LucasArts",
+		"releaseDates": {
+			"jp": "1999-08-27",
+			"na": "1998-12-08",
+			"pal": "1999-01-10"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Star_Wars:_Rogue_Squadron",
+		"otherPublishers": {
+			"pal": "Nintendo"
+		}
+	},
+	"Golden_Nugget_64": {
+		"id": "Golden_Nugget_64",
+		"title": "Golden Nugget 64",
+		"developers": [
+			"Westwood Pacific"
+		],
+		"publisher": "Electronic Arts",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-12-10",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Golden_Nugget_64"
+	},
+	"Turok_2:_Seeds_of_Evil": {
+		"id": "Turok_2:_Seeds_of_Evil",
+		"title": "Turok 2: Seeds of Evil",
+		"developers": [
+			"Iguana Entertainment"
+		],
+		"publisher": "Acclaim Entertainment",
+		"releaseDates": {
+			"jp": "1999-06-18",
+			"na": "1998-12-10",
+			"pal": "1998-12-18"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Turok_2:_Seeds_of_Evil",
+		"otherTitles": {
+			"jp": "Violence Killer: Turok New Generation"
+		},
+		"otherPublishers": {
+			"jp": "gemzi"
+		}
+	},
+	"Star_Soldier:_Vanishing_Earth": {
+		"id": "Star_Soldier:_Vanishing_Earth",
+		"title": "Star Soldier: Vanishing Earth",
+		"developers": [
+			"Hudson Soft"
+		],
+		"publisher": "Electro Brain",
+		"releaseDates": {
+			"jp": "1998-07-10",
+			"na": "1998-12-15",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Star_Soldier:_Vanishing_Earth",
+		"otherPublishers": {
+			"jp": "Hudson Soft"
+		}
+	},
+	"Virtual_Pool_64": {
+		"id": "Virtual_Pool_64",
+		"title": "Virtual Pool 64",
+		"developers": [
+			"Celeris"
+		],
+		"publisher": "Crave Entertainment",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-12-17",
+			"pal": "1999-02-26"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Virtual_Pool_64"
+	},
+	"South_Park_(video_game)": {
+		"id": "South_Park_(video_game)",
+		"title": "South Park",
+		"developers": [
+			"Iguana Entertainment"
+		],
+		"publisher": "Acclaim Entertainment",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-12-21",
+			"pal": "1999-05-03"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/South_Park_(video_game)"
+	},
+	"BattleTanx": {
+		"id": "BattleTanx",
+		"title": "BattleTanx",
+		"developers": [
+			"The 3DO Company"
+		],
+		"publisher": "The 3DO Company",
+		"releaseDates": {
+			"jp": null,
+			"na": "1998-12-29",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/BattleTanx"
+	},
+	"Magical_Tetris_Challenge": {
+		"id": "Magical_Tetris_Challenge",
+		"title": "Magical Tetris Challenge",
+		"developers": [
+			"Capcom"
+		],
+		"publisher": "CapcomJP/NA",
+		"releaseDates": {
+			"jp": "1998-11-20",
+			"na": "1999-01-14",
+			"pal": "1999-09-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Magical_Tetris_Challenge",
+		"otherPublishers": {
+			"pal": "Activision"
+		}
+	},
+	"Castlevania_(1999_video_game)": {
+		"id": "Castlevania_(1999_video_game)",
+		"title": "Castlevania",
+		"developers": [
+			"Konami Computer Entertainment Kobe"
+		],
+		"publisher": "Konami",
+		"releaseDates": {
+			"jp": "1999-03-11",
+			"na": "1999-01-26",
+			"pal": "1999-05-14"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Castlevania_(1999_video_game)"
+	},
+	"Penny_Racers_(1998_video_game)": {
+		"id": "Penny_Racers_(1998_video_game)",
+		"title": "Penny Racers",
+		"developers": [
+			"Locomotive Corporation"
+		],
+		"publisher": "THQ",
+		"releaseDates": {
+			"jp": "1998|07|17}",
+			"na": "1999-02-04",
+			"pal": "1999-03-05"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Penny_Racers_(1998_video_game)",
+		"otherTitles": {
+			"jp": "Choro Q 64"
+		},
+		"otherPublishers": {
+			"jp": "Takara"
+		}
+	},
+	"Mario_Party_(video_game)": {
+		"id": "Mario_Party_(video_game)",
+		"title": "Mario Party",
+		"developers": [
+			"Hudson Soft"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": "1998-12-18",
+			"na": "1999-02-08",
+			"pal": "1999-03-09"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Mario_Party_(video_game)"
+	},
+	"WCW_Nitro_(video_game)": {
+		"id": "WCW_Nitro_(video_game)",
+		"title": "WCW Nitro",
+		"developers": [
+			"Inland Productions"
+		],
+		"publisher": "THQ",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-02-09",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/WCW_Nitro_(video_game)"
+	},
+	"Snowboard_Kids_2": {
+		"id": "Snowboard_Kids_2",
+		"title": "Snowboard Kids 2",
+		"developers": [
+			"Racdym"
+		],
+		"publisher": "Atlus",
+		"releaseDates": {
+			"jp": "1999-02-19",
+			"na": "1999-03-01",
+			"pal": "1999-04-30"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Snowboard_Kids_2"
+	},
+	"Vigilante_8": {
+		"id": "Vigilante_8",
+		"title": "Vigilante 8",
+		"developers": [
+			"Luxoflux"
+		],
+		"publisher": "Activision",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-03-17",
+			"pal": "1999-03-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Vigilante_8"
+	},
+	"California_Speed_(video_game)": {
+		"id": "California_Speed_(video_game)",
+		"title": "California Speed",
+		"developers": [
+			"Atari Games",
+			"Midway Games"
+		],
+		"publisher": "Midway",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-03-18",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/California_Speed_(video_game)"
+	},
+	"Beetle_Adventure_Racing": {
+		"id": "Beetle_Adventure_Racing",
+		"title": "Beetle Adventure Racing!",
+		"developers": [
+			"Paradigm Entertainment",
+			"EA Canada"
+		],
+		"publisher": "Electronic Arts",
+		"releaseDates": {
+			"jp": "1999-11-26",
+			"na": "1999-03-23",
+			"pal": "1999-09-04"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Beetle_Adventure_Racing",
+		"otherTitles": {
+			"aus": "HSV Adventure Racing"
+		},
+		"otherPublishers": {
+			"jp": "Square EA"
+		}
+	},
+	"Triple_Play_2000": {
+		"id": "Triple_Play_2000",
+		"title": "Triple Play 2000",
+		"developers": [
+			"Treyarch Invention"
+		],
+		"publisher": "EA Sports",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-03-24",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Triple_Play_2000"
+	},
+	"Micro_Machines_V3": {
+		"id": "Micro_Machines_V3",
+		"title": "Micro Machines 64 Turbo",
+		"developers": [
+			"Codemasters"
+		],
+		"publisher": "Midway",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-03-29",
+			"pal": "1999-04-23"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Micro_Machines_V3",
+		"otherPublishers": {
+			"pal": "Codemasters"
+		}
+	},
+	"Lode_Runner_3-D": {
+		"id": "Lode_Runner_3-D",
+		"title": "Lode Runner 3-D",
+		"developers": [
+			"Big Bang"
+		],
+		"publisher": "Infogrames",
+		"releaseDates": {
+			"jp": "1999-07-30",
+			"na": "1999-03-30",
+			"pal": "1999-01-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Lode_Runner_3-D",
+		"otherPublishers": {
+			"jp": "Banpresto"
+		}
+	},
+	"Rampage_2:_Universal_Tour": {
+		"id": "Rampage_2:_Universal_Tour",
+		"title": "Rampage 2: Universal Tour",
+		"developers": [
+			"Avalanche Software"
+		],
+		"publisher": "Midway",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-03-31",
+			"pal": "1999-05-21"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Rampage_2:_Universal_Tour",
+		"otherPublishers": {
+			"pal": "GT Interactive"
+		}
+	},
+	"The_Bombing_Islands_Charlie_Blast's_Territory": {
+		"id": "The_Bombing_Islands_Charlie_Blast's_Territory",
+		"title": "Charlie Blast's Territory",
+		"developers": [
+			"Realtime Associates"
+		],
+		"publisher": "Kemco",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-04-02",
+			"pal": "1999-06-18"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/The_Bombing_Islands#Charlie_Blast's_Territory"
+	},
+	"Puzzle_Bobble_3": {
+		"id": "Puzzle_Bobble_3",
+		"title": "Bust-A-Move 99",
+		"developers": [
+			"Distinctive Developments"
+		],
+		"publisher": "Acclaim Entertainment",
+		"releaseDates": {
+			"jp": "1999-03-05",
+			"na": "1999-04-05",
+			"pal": "1998-11-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Puzzle_Bobble_3",
+		"otherTitles": {
+			"pal": "Bust-A-Move 3 DX",
+			"jp": "Puzzle Bobble 64"
+		},
+		"otherPublishers": {
+			"jp": "Taito"
+		}
+	},
+	"NHL_Blades_of_Steel_'99": {
+		"id": "NHL_Blades_of_Steel_'99",
+		"title": "NHL Blades of Steel '99",
+		"developers": [
+			"Konami Computer Entertainment Osaka"
+		],
+		"publisher": "Konami",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-04-05",
+			"pal": "1999-09-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/NHL_Blades_of_Steel_'99",
+		"otherTitles": {
+			"pal": "NHL Pro 99"
+		}
+	},
+	"All-Star_Baseball_2000": {
+		"id": "All-Star_Baseball_2000",
+		"title": "All-Star Baseball 2000",
+		"developers": [
+			"Iguana Entertainment"
+		],
+		"publisher": "Acclaim Sports",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-04-07",
+			"pal": "1999-05-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/All-Star_Baseball_2000"
+	},
+	"NBA_In_The_Zone_'99": {
+		"id": "NBA_In_The_Zone_'99",
+		"title": "NBA In The Zone '99",
+		"developers": [
+			"Konami Computer Entertainment Osaka"
+		],
+		"publisher": "Konami",
+		"releaseDates": {
+			"jp": "1999-06-03",
+			"na": "1999-04-08",
+			"pal": "1999-01-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/NBA_In_The_Zone_'99",
+		"otherTitles": {
+			"pal": "NBA Pro '99"
+		}
+	},
+	"Bottom_of_the_9th": {
+		"id": "Bottom_of_the_9th",
+		"title": "Bottom of the 9th",
+		"developers": [
+			"Konami Computer Entertainment Chicago"
+		],
+		"publisher": "Konami",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-04-14",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Bottom_of_the_9th"
+	},
+	"Chameleon_Twist_2": {
+		"id": "Chameleon_Twist_2",
+		"title": "Chameleon Twist 2",
+		"developers": [
+			"Japan System Supply"
+		],
+		"publisher": "Sunsoft",
+		"releaseDates": {
+			"jp": "1998-12-25",
+			"na": "1999-04-14",
+			"pal": "1999-01-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Chameleon_Twist_2",
+		"otherPublishers": {
+			"jp": "Japan System Supply"
+		}
+	},
+	"Super_Smash_Bros._(video_game)": {
+		"id": "Super_Smash_Bros._(video_game)",
+		"title": "Super Smash Bros.",
+		"developers": [
+			"HAL Laboratory"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": "1999-01-21",
+			"na": "1999-04-26",
+			"pal": "1999-11-19"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Super_Smash_Bros._(video_game)"
+	},
+	"Ken_Griffey_Jr.'s_Slugfest": {
+		"id": "Ken_Griffey_Jr.'s_Slugfest",
+		"title": "Ken Griffey Jr.'s Slugfest",
+		"developers": [
+			"Angel Studios"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-05-10",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Ken_Griffey_Jr.'s_Slugfest"
+	},
+	"Star_Wars_Episode_I:_Racer": {
+		"id": "Star_Wars_Episode_I:_Racer",
+		"title": "Star Wars Episode I: Racer",
+		"developers": [
+			"LucasArts"
+		],
+		"publisher": "LucasArts",
+		"releaseDates": {
+			"jp": "1999-07-21",
+			"na": "1999-05-18",
+			"pal": "1999-06-04"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Star_Wars_Episode_I:_Racer"
+	},
+	"Superman_64": {
+		"id": "Superman_64",
+		"title": "Superman: The New Superman Adventures",
+		"developers": [
+			"Titus Interactive"
+		],
+		"publisher": "Titus Interactive",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-05-28",
+			"pal": "1999-07-23"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Superman_64",
+		"otherTitles": {
+			"pal": "Superman"
+		}
+	},
+	"A_Bug's_Life_(video_game)": {
+		"id": "A_Bug's_Life_(video_game)",
+		"title": "A Bug's Life",
+		"developers": [
+			"Traveller's Tales"
+		],
+		"publisher": "Activision",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-06-01",
+			"pal": "1999-01-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/A_Bug's_Life_(video_game)"
+	},
+	"Fighting_Force": {
+		"id": "Fighting_Force",
+		"title": "Fighting Force 64",
+		"developers": [
+			"Core Design"
+		],
+		"publisher": "Crave Entertainment",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-06-01",
+			"pal": "1999-12-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Fighting_Force"
+	},
+	"Shadowgate_64:_Trials_of_the_Four_Towers": {
+		"id": "Shadowgate_64:_Trials_of_the_Four_Towers",
+		"title": "Shadowgate 64: Trials of the Four Towers",
+		"developers": [
+			"TNS Co.",
+			"Infinite Ventures"
+		],
+		"publisher": "Kemco",
+		"releaseDates": {
+			"jp": "1999-08-13",
+			"na": "1999-06-09",
+			"pal": "1999-07-30"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Shadowgate_64:_Trials_of_the_Four_Towers"
+	},
+	"World_Driver_Championship": {
+		"id": "World_Driver_Championship",
+		"title": "World Driver Championship",
+		"developers": [
+			"Boss Game Studios"
+		],
+		"publisher": "Midway",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-06-15",
+			"pal": "1999-11-05"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/World_Driver_Championship"
+	},
+	"Rugrats:_Scavenger_Hunt": {
+		"id": "Rugrats:_Scavenger_Hunt",
+		"title": "Rugrats: Scavenger Hunt",
+		"developers": [
+			"Realtime Associates"
+		],
+		"publisher": "THQ",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-06-28",
+			"pal": "1999-08-10"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Rugrats:_Scavenger_Hunt",
+		"otherTitles": {
+			"pal": "Rugrats: Treasure Hunt"
+		}
+	},
+	"Command_&_Conquer_(1995_video_game)_Release": {
+		"id": "Command_&_Conquer_(1995_video_game)_Release",
+		"title": "Command & Conquer",
+		"developers": [
+			"Looking Glass Studios"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-06-29",
+			"pal": "1999-07-30"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Command_&_Conquer_(1995_video_game)#Release"
+	},
+	"Starshot:_Space_Circus_Fever": {
+		"id": "Starshot:_Space_Circus_Fever",
+		"title": "Starshot: Space Circus Fever",
+		"developers": [
+			"Infogrames"
+		],
+		"publisher": "Infogrames",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-06-29",
+			"pal": "1998-12-04"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Starshot:_Space_Circus_Fever"
+	},
+	"Quake_II_Ports": {
+		"id": "Quake_II_Ports",
+		"title": "Quake II",
+		"developers": [
+			"Raster Productions"
+		],
+		"publisher": "Activision",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-07-07",
+			"pal": "1999-01-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Quake_II#Ports"
+	},
+	"Mario_Golf_(video_game)": {
+		"id": "Mario_Golf_(video_game)",
+		"title": "Mario Golf",
+		"developers": [
+			"Camelot Software Planning"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": "1999-06-11",
+			"na": "1999-07-26",
+			"pal": "1999-09-14"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Mario_Golf_(video_game)"
+	},
+	"Pokémon_Snap": {
+		"id": "Pokémon_Snap",
+		"title": "Pokémon Snap",
+		"developers": [
+			"HAL Laboratory"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": "1999-03-21",
+			"na": "1999-07-26",
+			"pal": "2000-03-23"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Pokémon_Snap"
+	},
+	"In-Fisherman_Bass_Hunter_64": {
+		"id": "In-Fisherman_Bass_Hunter_64",
+		"title": "In-Fisherman Bass Hunter 64",
+		"developers": [
+			"Gearhead Entertainment"
+		],
+		"publisher": "Take-Two Interactive",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-07-30",
+			"pal": "1999-10-22"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/In-Fisherman_Bass_Hunter_64",
+		"otherTitles": {
+			"pal": "Bass Hunter 64"
+		}
+	},
+	"Monster_Truck_Madness_64": {
+		"id": "Monster_Truck_Madness_64",
+		"title": "Monster Truck Madness 64",
+		"developers": [
+			"Edge of Reality"
+		],
+		"publisher": "Rockstar Games",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-07-30",
+			"pal": "1999-10-29"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Monster_Truck_Madness_64"
+	},
+	"The_New_Tetris": {
+		"id": "The_New_Tetris",
+		"title": "The New Tetris",
+		"developers": [
+			"H2O Entertainment",
+			"Blue Planet Software"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-08-02",
+			"pal": "1999-10-15"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/The_New_Tetris"
+	},
+	"NFL_Blitz_2000": {
+		"id": "NFL_Blitz_2000",
+		"title": "NFL Blitz 2000",
+		"developers": [
+			"Midway Games"
+		],
+		"publisher": "Midway",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-08-18",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/NFL_Blitz_2000"
+	},
+	"Re-Volt": {
+		"id": "Re-Volt",
+		"title": "Re-Volt",
+		"developers": [
+			"Acclaim Studios London"
+		],
+		"publisher": "Acclaim Entertainment",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-08-18",
+			"pal": "1999-09-03"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Re-Volt"
+	},
+	"NFL_Quarterback_Club_2000": {
+		"id": "NFL_Quarterback_Club_2000",
+		"title": "NFL Quarterback Club 2000",
+		"developers": [
+			"Acclaim Studios Austin"
+		],
+		"publisher": "Acclaim Sports",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-08-26",
+			"pal": "1999-09-24"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/NFL_Quarterback_Club_2000"
+	},
+	"All_Star_Tennis_'99": {
+		"id": "All_Star_Tennis_'99",
+		"title": "All Star Tennis '99",
+		"developers": [
+			"Smart Dog"
+		],
+		"publisher": "Ubi Soft",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-08-31",
+			"pal": "1999-01-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/All_Star_Tennis_'99",
+		"otherTitles": {
+			"fra": "Yannick Noah All Star Tennis '99"
+		}
+	},
+	"Duke_Nukem:_Zero_Hour": {
+		"id": "Duke_Nukem:_Zero_Hour",
+		"title": "Duke Nukem: Zero Hour",
+		"developers": [
+			"Eurocom"
+		],
+		"publisher": "GT Interactive",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-08-31",
+			"pal": "1999-09-24"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Duke_Nukem:_Zero_Hour"
+	},
+	"Gauntlet_Legends_Ports": {
+		"id": "Gauntlet_Legends_Ports",
+		"title": "Gauntlet Legends",
+		"developers": [
+			"Atari Games"
+		],
+		"publisher": "Midway",
+		"releaseDates": {
+			"jp": "2000-04-07",
+			"na": "1999-08-31",
+			"pal": "1999-12-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Gauntlet_Legends#Ports",
+		"otherPublishers": {
+			"jp": "Epoch Co."
+		}
+	},
+	"Hybrid_Heaven": {
+		"id": "Hybrid_Heaven",
+		"title": "Hybrid Heaven",
+		"developers": [
+			"Konami Computer Entertainment Osaka"
+		],
+		"publisher": "Konami",
+		"releaseDates": {
+			"jp": "1999-08-05",
+			"na": "1999-08-31",
+			"pal": "1999-09-24"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Hybrid_Heaven"
+	},
+	"Madden_NFL_2000": {
+		"id": "Madden_NFL_2000",
+		"title": "Madden NFL 2000",
+		"developers": [
+			"EA Tiburon"
+		],
+		"publisher": "EA Sports",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-08-31",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Madden_NFL_2000"
+	},
+	"Shadow_Man_(video_game)": {
+		"id": "Shadow_Man_(video_game)",
+		"title": "Shadow Man",
+		"developers": [
+			"Acclaim Studios Teesside"
+		],
+		"publisher": "Acclaim Entertainment",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-08-31",
+			"pal": "1999-09-03"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Shadow_Man_(video_game)"
+	},
+	"Tonic_Trouble": {
+		"id": "Tonic_Trouble",
+		"title": "Tonic Trouble",
+		"developers": [
+			"Ubi Soft Montreal"
+		],
+		"publisher": "Ubi Soft",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-08-31",
+			"pal": "1999-08-31"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Tonic_Trouble"
+	},
+	"WWF_Attitude": {
+		"id": "WWF_Attitude",
+		"title": "WWF Attitude",
+		"developers": [
+			"Acclaim Studios Salt Lake City"
+		],
+		"publisher": "Acclaim Sports",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-08-31",
+			"pal": "1999-08-09"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/WWF_Attitude"
+	},
+	"Monaco_Grand_Prix_(video_game)": {
+		"id": "Monaco_Grand_Prix_(video_game)",
+		"title": "Monaco Grand Prix",
+		"developers": [
+			"Ubi Soft Paris"
+		],
+		"publisher": "Ubi Soft",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-09-01",
+			"pal": "1999-06-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Monaco_Grand_Prix_(video_game)",
+		"otherTitles": {
+			"pal": "Racing Simulation: Monaco Grand Prix"
+		}
+	},
+	"NASCAR_2000": {
+		"id": "NASCAR_2000",
+		"title": "NASCAR 2000",
+		"developers": [
+			"Stormfront Studios"
+		],
+		"publisher": "EA Sports",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-09-13",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/NASCAR_2000"
+	},
+	"Hot_Wheels_Turbo_Racing": {
+		"id": "Hot_Wheels_Turbo_Racing",
+		"title": "Hot Wheels Turbo Racing",
+		"developers": [
+			"Stormfront Studios"
+		],
+		"publisher": "Electronic Arts",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-09-14",
+			"pal": "1999-05-11"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Hot_Wheels_Turbo_Racing"
+	},
+	"Goemon's_Great_Adventure": {
+		"id": "Goemon's_Great_Adventure",
+		"title": "Goemon's Great Adventure",
+		"developers": [
+			"Konami Computer Entertainment Osaka"
+		],
+		"publisher": "Konami",
+		"releaseDates": {
+			"jp": "1998-12-23",
+			"na": "1999-09-15",
+			"pal": "1999-06-18"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Goemon's_Great_Adventure",
+		"otherTitles": {
+			"pal": "Mystical Ninja 2 Starring Goemon"
+		}
+	},
+	"V-Rally_(video_game)_Ports_and_adaptations": {
+		"id": "V-Rally_(video_game)_Ports_and_adaptations",
+		"title": "V-Rally: Edition '99",
+		"developers": [
+			"Eden Studios"
+		],
+		"publisher": "Infogrames",
+		"releaseDates": {
+			"jp": "1999-10-14",
+			"na": "1999-09-15",
+			"pal": "1998-12-11"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/V-Rally_(video_game)#Ports_and_adaptations",
+		"otherPublishers": {
+			"jp": "Spike"
+		}
+	},
+	"Road_Rash_64": {
+		"id": "Road_Rash_64",
+		"title": "Road Rash 64",
+		"developers": [
+			"Pacific Coast Power & Light"
+		],
+		"publisher": "THQ",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-09-22",
+			"pal": "1999-12-17"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Road_Rash_64"
+	},
+	"WCW_Mayhem_(video_game)": {
+		"id": "WCW_Mayhem_(video_game)",
+		"title": "WCW Mayhem",
+		"developers": [
+			"Kodiak Interactive"
+		],
+		"publisher": "Electronic Arts",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-09-23",
+			"pal": "1999-09-24"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/WCW_Mayhem_(video_game)"
+	},
+	"Army_Men:_Sarge's_Heroes": {
+		"id": "Army_Men:_Sarge's_Heroes",
+		"title": "Army Men: Sarge's Heroes",
+		"developers": [
+			"The 3DO Company"
+		],
+		"publisher": "The 3DO Company",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-09-28",
+			"pal": "2000-04-14"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Army_Men:_Sarge's_Heroes"
+	},
+	"Gex_3:_Deep_Cover_Gecko": {
+		"id": "Gex_3:_Deep_Cover_Gecko",
+		"title": "Gex 3: Deep Cover Gecko",
+		"developers": [
+			"Gratuitous Games"
+		],
+		"publisher": "Crave Entertainment",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-09-28",
+			"pal": "2000-07-24"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Gex_3:_Deep_Cover_Gecko"
+	},
+	"Destruction_Derby_64": {
+		"id": "Destruction_Derby_64",
+		"title": "Destruction Derby 64",
+		"developers": [
+			"Looking Glass Studios"
+		],
+		"publisher": "THQ",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-09-30",
+			"pal": "1999-10-12"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Destruction_Derby_64"
+	},
+	"Jet_Force_Gemini": {
+		"id": "Jet_Force_Gemini",
+		"title": "Jet Force Gemini",
+		"developers": [
+			"Rare"
+		],
+		"publisher": "Rare",
+		"releaseDates": {
+			"jp": "1999-12-01",
+			"na": "1999-10-11",
+			"pal": "1999-10-29"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Jet_Force_Gemini",
+		"otherTitles": {
+			"jp": "Star Twins"
+		}
+	},
+	"BattleTanx:_Global_Assault": {
+		"id": "BattleTanx:_Global_Assault",
+		"title": "BattleTanx: Global Assault",
+		"developers": [
+			"The 3DO Company"
+		],
+		"publisher": "The 3DO Company",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-10-12",
+			"pal": "2000-04-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/BattleTanx:_Global_Assault"
+	},
+	"Knockout_Kings_2000": {
+		"id": "Knockout_Kings_2000",
+		"title": "Knockout Kings 2000",
+		"developers": [
+			"Black Ops Entertainment"
+		],
+		"publisher": "EA Sports",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-10-12",
+			"pal": "1999-10-10"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Knockout_Kings_2000",
+		"otherTitles": {
+			"pal": "Box Champions 2000"
+		}
+	},
+	"WinBack": {
+		"id": "WinBack",
+		"title": "WinBack: Covert Operations",
+		"developers": [
+			"Omega Force"
+		],
+		"publisher": "Koei",
+		"releaseDates": {
+			"jp": "1999-09-23",
+			"na": "1999-10-19",
+			"pal": "2000-07-07"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/WinBack",
+		"otherTitles": {
+			"pal": "Operation: WinBack"
+		},
+		"otherPublishers": {
+			"jp": "Koei",
+			"pal": "Virgin Interactive Entertainment"
+		}
+	},
+	"Lego_Racers_(video_game)": {
+		"id": "Lego_Racers_(video_game)",
+		"title": "Lego Racers",
+		"developers": [
+			"High Voltage Software"
+		],
+		"publisher": "Lego Media",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-10-22",
+			"pal": "1999-11-05"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Lego_Racers_(video_game)"
+	},
+	"NBA_Live_2000": {
+		"id": "NBA_Live_2000",
+		"title": "NBA Live 2000",
+		"developers": [
+			"NuFX"
+		],
+		"publisher": "EA Sports",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-10-29",
+			"pal": "1999-12-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/NBA_Live_2000"
+	},
+	"Earthworm_Jim_3D": {
+		"id": "Earthworm_Jim_3D",
+		"title": "Earthworm Jim 3D",
+		"developers": [
+			"VIS Interactive"
+		],
+		"publisher": "Rockstar Games",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-11-04",
+			"pal": "1999-12-17"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Earthworm_Jim_3D",
+		"otherPublishers": {
+			"pal": "Interplay Entertainment"
+		}
+	},
+	"Paperboy_(video_game)_Legacy": {
+		"id": "Paperboy_(video_game)_Legacy",
+		"title": "Paperboy",
+		"developers": [
+			"High Voltage Software"
+		],
+		"publisher": "Midway",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-11-04",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Paperboy_(video_game)#Legacy"
+	},
+	"NBA_Courtside_2_Featuring_Kobe_Bryant": {
+		"id": "NBA_Courtside_2_Featuring_Kobe_Bryant",
+		"title": "NBA Courtside 2 Featuring Kobe Bryant",
+		"developers": [
+			"Left Field Productions"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-11-08",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/NBA_Courtside_2_Featuring_Kobe_Bryant"
+	},
+	"Rayman_2:_The_Great_Escape": {
+		"id": "Rayman_2:_The_Great_Escape",
+		"title": "Rayman 2: The Great Escape",
+		"developers": [
+			"Ubi Pictures"
+		],
+		"publisher": "Ubi Soft",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-11-09",
+			"pal": "1999-10-29"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Rayman_2:_The_Great_Escape"
+	},
+	"Sesame_Street_video_games_Elmo's_Letter_Adventure": {
+		"id": "Sesame_Street_video_games_Elmo's_Letter_Adventure",
+		"title": "Elmo's Letter Adventure",
+		"developers": [
+			"Realtime Associates"
+		],
+		"publisher": "NewKidCo",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-11-15",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Sesame_Street_video_games#Elmo's_Letter_Adventure"
+	},
+	"NBA_Showtime:_NBA_on_NBC": {
+		"id": "NBA_Showtime:_NBA_on_NBC",
+		"title": "NBA Showtime: NBA on NBC",
+		"developers": [
+			"Eurocom"
+		],
+		"publisher": "Midway",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-11-16",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/NBA_Showtime:_NBA_on_NBC"
+	},
+	"Ready_2_Rumble_Boxing": {
+		"id": "Ready_2_Rumble_Boxing",
+		"title": "Ready 2 Rumble Boxing",
+		"developers": [
+			"Point of View"
+		],
+		"publisher": "Midway",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-11-16",
+			"pal": "1999-12-10"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Ready_2_Rumble_Boxing"
+	},
+	"Resident_Evil_2_Nintendo_64": {
+		"id": "Resident_Evil_2_Nintendo_64",
+		"title": "Resident Evil 2",
+		"developers": [
+			"Angel Studios",
+			"Capcom Production Studio 3",
+			"Factor 5"
+		],
+		"publisher": "Capcom",
+		"releaseDates": {
+			"jp": "2000-01-28",
+			"na": "1999-11-16",
+			"pal": "2000-02-09"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Resident_Evil_2#Nintendo_64",
+		"otherPublishers": {
+			"jp": "Capcom",
+			"pal": "Virgin Interactive Entertainment"
+		}
+	},
+	"Toy_Story_2:_Buzz_Lightyear_to_the_Rescue": {
+		"id": "Toy_Story_2:_Buzz_Lightyear_to_the_Rescue",
+		"title": "Toy Story 2: Buzz Lightyear to the Rescue!",
+		"developers": [
+			"Traveller's Tales"
+		],
+		"publisher": "Activision",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-11-16",
+			"pal": "2000-02-04"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Toy_Story_2:_Buzz_Lightyear_to_the_Rescue"
+	},
+	"Rocket:_Robot_on_Wheels": {
+		"id": "Rocket:_Robot_on_Wheels",
+		"title": "Rocket: Robot on Wheels",
+		"developers": [
+			"Sucker Punch Productions"
+		],
+		"publisher": "Ubi Soft",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-11-17",
+			"pal": "1999-12-17"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Rocket:_Robot_on_Wheels"
+	},
+	"Tom_Clancy's_Rainbow_Six_(video_game)": {
+		"id": "Tom_Clancy's_Rainbow_Six_(video_game)",
+		"title": "Tom Clancy's Rainbow Six",
+		"developers": [
+			"Saffire"
+		],
+		"publisher": "Red Storm Entertainment",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-11-17",
+			"pal": "1999-12-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Tom_Clancy's_Rainbow_Six_(video_game)"
+	},
+	"WWF_WrestleMania_2000_(video_game)": {
+		"id": "WWF_WrestleMania_2000_(video_game)",
+		"title": "WWF WrestleMania 2000",
+		"developers": [
+			"AKI Corporation"
+		],
+		"publisher": "THQ",
+		"releaseDates": {
+			"jp": "2000-09-15",
+			"na": "1999-11-18",
+			"pal": "1999-12-10"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/WWF_WrestleMania_2000_(video_game)",
+		"otherPublishers": {
+			"jp": "Asmik Ace"
+		}
+	},
+	"Donkey_Kong_64": {
+		"id": "Donkey_Kong_64",
+		"title": "Donkey Kong 64",
+		"developers": [
+			"Rare"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": "1999-12-10",
+			"na": "1999-11-22",
+			"pal": "1999-12-06"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Donkey_Kong_64"
+	},
+	"Turok:_Rage_Wars": {
+		"id": "Turok:_Rage_Wars",
+		"title": "Turok: Rage Wars",
+		"developers": [
+			"Acclaim Studios Austin"
+		],
+		"publisher": "Acclaim Entertainment",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-11-23",
+			"pal": "1999-12-26"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Turok:_Rage_Wars"
+	},
+	"Namco_Museum_Namco_Museum_64_and_Namco_Museum_(1999-2002)": {
+		"id": "Namco_Museum_Namco_Museum_64_and_Namco_Museum_(1999-2002)",
+		"title": "Namco Museum 64",
+		"developers": [
+			"Mass Media"
+		],
+		"publisher": "Namco",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-11-29",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Namco_Museum#Namco_Museum_64_and_Namco_Museum_(1999-2002)"
+	},
+	"Sesame_Street_video_games_Elmo's_Number_Journey": {
+		"id": "Sesame_Street_video_games_Elmo's_Number_Journey",
+		"title": "Elmo's Number Journey",
+		"developers": [
+			"Realtime Associates"
+		],
+		"publisher": "NewKidCo",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-11-30",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Sesame_Street_video_games#Elmo's_Number_Journey"
+	},
+	"NBA_Jam_2000": {
+		"id": "NBA_Jam_2000",
+		"title": "NBA Jam 2000",
+		"developers": [
+			"Acclaim Studios Salt Lake City"
+		],
+		"publisher": "Acclaim Sports",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-11-30",
+			"pal": "2000-01-21"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/NBA_Jam_2000"
+	},
+	"Nuclear_Strike": {
+		"id": "Nuclear_Strike",
+		"title": "Nuclear Strike 64",
+		"developers": [
+			"Pacific Coast Power & Light"
+		],
+		"publisher": "THQ",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-11-30",
+			"pal": "2000-03-03"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Nuclear_Strike"
+	},
+	"List_of_Space_Invaders_video_games_Home_console_games": {
+		"id": "List_of_Space_Invaders_video_games_Home_console_games",
+		"title": "Space Invaders",
+		"developers": [
+			"Z-Axis"
+		],
+		"publisher": "Activision",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-11-30",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/List_of_Space_Invaders_video_games#Home_console_games"
+	},
+	"Supercross_2000": {
+		"id": "Supercross_2000",
+		"title": "Supercross 2000",
+		"developers": [
+			"MBL Research"
+		],
+		"publisher": "EA Sports",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-12-03",
+			"pal": "2000-02-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Supercross_2000"
+	},
+	"Top_Gear_Rally_2": {
+		"id": "Top_Gear_Rally_2",
+		"title": "Top Gear Rally 2",
+		"developers": [
+			"Saffire"
+		],
+		"publisher": "Kemco",
+		"releaseDates": {
+			"jp": "2000-02-04",
+			"na": "1999-12-03",
+			"pal": "2000-02-28"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Top_Gear_Rally_2"
+	},
+	"Xena:_Warrior_Princess:_The_Talisman_of_Fate": {
+		"id": "Xena:_Warrior_Princess:_The_Talisman_of_Fate",
+		"title": "Xena: Warrior Princess: The Talisman of Fate",
+		"developers": [
+			"Saffire"
+		],
+		"publisher": "Titus Interactive",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-12-06",
+			"pal": "1999-12-17"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Xena:_Warrior_Princess:_The_Talisman_of_Fate",
+		"otherTitles": {
+			"pal": "Xena: Warrior Princess"
+		}
+	},
+	"Castlevania:_Legacy_of_Darkness": {
+		"id": "Castlevania:_Legacy_of_Darkness",
+		"title": "Castlevania: Legacy of Darkness",
+		"developers": [
+			"Konami Computer Entertainment Kobe"
+		],
+		"publisher": "Konami",
+		"releaseDates": {
+			"jp": "1999-12-25",
+			"na": "1999-12-08",
+			"pal": "2000-03-03"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Castlevania:_Legacy_of_Darkness"
+	},
+	"South_Park:_Chef's_Luv_Shack": {
+		"id": "South_Park:_Chef's_Luv_Shack",
+		"title": "South Park: Chef's Luv Shack",
+		"developers": [
+			"Acclaim Studios Austin"
+		],
+		"publisher": "Acclaim Entertainment",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-12-08",
+			"pal": "1999-12-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/South_Park:_Chef's_Luv_Shack"
+	},
+	"Armorines:_Project_S.W.A.R.M.": {
+		"id": "Armorines:_Project_S.W.A.R.M.",
+		"title": "Armorines: Project S.W.A.R.M.",
+		"developers": [
+			"Acclaim Studios London"
+		],
+		"publisher": "Acclaim Entertainment",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-12-09",
+			"pal": "1999-12-17"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Armorines:_Project_S.W.A.R.M.",
+		"otherTitles": {
+			"pal": "Armorines"
+		}
+	},
+	"Asteroids_(video_game)_Re-releases": {
+		"id": "Asteroids_(video_game)_Re-releases",
+		"title": "Asteroids Hyper 64",
+		"developers": [
+			"Syrox Developments"
+		],
+		"publisher": "Crave Entertainment",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-12-14",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Asteroids_(video_game)#Re-releases"
+	},
+	"Roadsters_(video_game)": {
+		"id": "Roadsters_(video_game)",
+		"title": "Roadsters",
+		"developers": [
+			"Titus Interactive"
+		],
+		"publisher": "Titus Interactive",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-12-14",
+			"pal": "1999-12-17"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Roadsters_(video_game)"
+	},
+	"Bass_Masters_2000": {
+		"id": "Bass_Masters_2000",
+		"title": "Bass Masters 2000",
+		"developers": [
+			"Mass Media"
+		],
+		"publisher": "THQ",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-12-16",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Bass_Masters_2000"
+	},
+	"Monopoly_(1999_video_game)": {
+		"id": "Monopoly_(1999_video_game)",
+		"title": "Monopoly",
+		"developers": [
+			"Mind's Eye Productions"
+		],
+		"publisher": "Hasbro Interactive",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-12-18",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Monopoly_(1999_video_game)"
+	},
+	"Brunswick_Circuit_Pro_Bowling": {
+		"id": "Brunswick_Circuit_Pro_Bowling",
+		"title": "Brunswick Circuit Pro Bowling",
+		"developers": [
+			"Point of View"
+		],
+		"publisher": "THQ",
+		"releaseDates": {
+			"jp": null,
+			"na": "1999-12-22",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Brunswick_Circuit_Pro_Bowling"
+	},
+	"Harvest_Moon_64": {
+		"id": "Harvest_Moon_64",
+		"title": "Harvest Moon 64",
+		"developers": [
+			"Victor Interactive Software"
+		],
+		"publisher": "Natsume Inc.",
+		"releaseDates": {
+			"jp": "1999-02-05",
+			"na": "1999-12-22",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Harvest_Moon_64",
+		"otherPublishers": {
+			"jp": "Pack-In-Soft"
+		}
+	},
+	"Mario_Party_2": {
+		"id": "Mario_Party_2",
+		"title": "Mario Party 2",
+		"developers": [
+			"Hudson Soft"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": "1999-12-17",
+			"na": "2000-01-24",
+			"pal": "2000-10-13"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Mario_Party_2"
+	},
+	"Vigilante_8:_2nd_Offense": {
+		"id": "Vigilante_8:_2nd_Offense",
+		"title": "Vigilante 8: 2nd Offense",
+		"developers": [
+			"Luxoflux"
+		],
+		"publisher": "Activision",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-02-01",
+			"pal": "2000-02-25"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Vigilante_8:_2nd_Offense"
+	},
+	"Ridge_Racer_64": {
+		"id": "Ridge_Racer_64",
+		"title": "Ridge Racer 64",
+		"developers": [
+			"Nintendo Software Technology"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-02-14",
+			"pal": "2000-07-04"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Ridge_Racer_64"
+	},
+	"Tarzan_(video_game)": {
+		"id": "Tarzan_(video_game)",
+		"title": "Tarzan",
+		"developers": [
+			"Eurocom"
+		],
+		"publisher": "Activision",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-02-15",
+			"pal": "2000-04-21"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Tarzan_(video_game)"
+	},
+	"ECW_Hardcore_Revolution": {
+		"id": "ECW_Hardcore_Revolution",
+		"title": "ECW Hardcore Revolution",
+		"developers": [
+			"Acclaim Studios Salt Lake City"
+		],
+		"publisher": "Acclaim Entertainment",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-02-17",
+			"pal": "2000-03-03"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/ECW_Hardcore_Revolution"
+	},
+	"NBA_In_The_Zone_2000": {
+		"id": "NBA_In_The_Zone_2000",
+		"title": "NBA In The Zone 2000",
+		"developers": [
+			"Konami Computer Entertainment Osaka"
+		],
+		"publisher": "Konami",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-02-18",
+			"pal": "2000-05-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/NBA_In_The_Zone_2000"
+	},
+	"Jeremy_McGrath_Supercross_2000": {
+		"id": "Jeremy_McGrath_Supercross_2000",
+		"title": "Jeremy McGrath Supercross 2000",
+		"developers": [
+			"Acclaim Studios Salt Lake City"
+		],
+		"publisher": "Acclaim Sports",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-02-28",
+			"pal": "2000-09-19"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Jeremy_McGrath_Supercross_2000"
+	},
+	"South_Park_Rally": {
+		"id": "South_Park_Rally",
+		"title": "South Park Rally",
+		"developers": [
+			"Tantalus Interactive"
+		],
+		"publisher": "Acclaim Entertainment",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-02-28",
+			"pal": "2000-03-03"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/South_Park_Rally"
+	},
+	"Hydro_Thunder": {
+		"id": "Hydro_Thunder",
+		"title": "Hydro Thunder",
+		"developers": [
+			"Eurocom"
+		],
+		"publisher": "Midway",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-03-06",
+			"pal": "2000-05-14"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Hydro_Thunder"
+	},
+	"Pokémon_Stadium": {
+		"id": "Pokémon_Stadium",
+		"title": "Pokémon Stadium",
+		"developers": [
+			"Nintendo EAD"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": "1999-04-30",
+			"na": "2000-03-06",
+			"pal": "2000-03-23"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Pokémon_Stadium",
+		"otherTitles": {
+			"jp": "Pokémon Stadium 2"
+		}
+	},
+	"CyberTiger": {
+		"id": "CyberTiger",
+		"title": "CyberTiger",
+		"developers": [
+			"Saffire"
+		],
+		"publisher": "Electronic Arts",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-03-08",
+			"pal": "2000-05-05"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/CyberTiger"
+	},
+	"Tony_Hawk's_Pro_Skater_(video_game)": {
+		"id": "Tony_Hawk's_Pro_Skater_(video_game)",
+		"title": "Tony Hawk's Pro Skater",
+		"developers": [
+			"Edge of Reality"
+		],
+		"publisher": "Activision",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-03-15",
+			"pal": "2000-03-24"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Tony_Hawk's_Pro_Skater_(video_game)",
+		"otherTitles": {
+			"pal": "Tony Hawk's Skateboarding"
+		}
+	},
+	"Worms_Armageddon": {
+		"id": "Worms_Armageddon",
+		"title": "Worms Armageddon",
+		"developers": [
+			"Infogrames Lyon House"
+		],
+		"publisher": "Infogrames",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-03-23",
+			"pal": "1999-12-11"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Worms_Armageddon"
+	},
+	"Top_Gear_Hyper_Bike": {
+		"id": "Top_Gear_Hyper_Bike",
+		"title": "Top Gear Hyper-Bike",
+		"developers": [
+			"Snowblind Studios"
+		],
+		"publisher": "Kemco",
+		"releaseDates": {
+			"jp": "2000-03-17",
+			"na": "2000-03-27",
+			"pal": "2000-01-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Top_Gear_Hyper_Bike"
+	},
+	"All-Star_Baseball_2001": {
+		"id": "All-Star_Baseball_2001",
+		"title": "All-Star Baseball 2001",
+		"developers": [
+			"High Voltage Software"
+		],
+		"publisher": "Acclaim Sports",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-03-31",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/All-Star_Baseball_2001"
+	},
+	"Battlezone_(1998_video_game)_Nintendo_64_port": {
+		"id": "Battlezone_(1998_video_game)_Nintendo_64_port",
+		"title": "Battlezone: Rise of the Black Dogs",
+		"developers": [
+			"Climax Development"
+		],
+		"publisher": "Crave Entertainment",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-04-14",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Battlezone_(1998_video_game)#Nintendo_64_port"
+	},
+	"Excitebike_64": {
+		"id": "Excitebike_64",
+		"title": "Excitebike 64",
+		"developers": [
+			"Left Field Productions"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": "2000-06-23",
+			"na": "2000-05-02",
+			"pal": "2001-06-08"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Excitebike_64"
+	},
+	"Perfect_Dark": {
+		"id": "Perfect_Dark",
+		"title": "Perfect Dark",
+		"developers": [
+			"Rare"
+		],
+		"publisher": "Rare",
+		"releaseDates": {
+			"jp": "2000-10-21",
+			"na": "2000-05-22",
+			"pal": "2000-06-30"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Perfect_Dark"
+	},
+	"International_Track_&_Field_2000": {
+		"id": "International_Track_&_Field_2000",
+		"title": "International Track & Field 2000",
+		"developers": [
+			"Konami Computer Entertainment Osaka"
+		],
+		"publisher": "Konami",
+		"releaseDates": {
+			"jp": "2000-07-13",
+			"na": "2000-05-28",
+			"pal": "2000-09-06"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/International_Track_&_Field_2000",
+		"otherTitles": {
+			"pal": "International Track & Field: Summer Games",
+			"jp": "Ganbare! Nippon! Olympics 2000"
+		}
+	},
+	"Bomberman_64:_The_Second_Attack!": {
+		"id": "Bomberman_64:_The_Second_Attack!",
+		"title": "Bomberman 64: The Second Attack!",
+		"developers": [
+			"Hudson Soft"
+		],
+		"publisher": "Vatical Entertainment",
+		"releaseDates": {
+			"jp": "1999-12-03",
+			"na": "2000-05-29",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Bomberman_64:_The_Second_Attack!",
+		"otherTitles": {
+			"jp": "Baku Bomberman 2"
+		},
+		"otherPublishers": {
+			"jp": "Hudson Soft"
+		}
+	},
+	"Indy_Racing_2000": {
+		"id": "Indy_Racing_2000",
+		"title": "Indy Racing 2000",
+		"developers": [
+			"Paradigm Entertainment"
+		],
+		"publisher": "Infogrames",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-06-07",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Indy_Racing_2000"
+	},
+	"StarCraft_(video_game)_Nintendo_64_version": {
+		"id": "StarCraft_(video_game)_Nintendo_64_version",
+		"title": "StarCraft 64",
+		"developers": [
+			"Blizzard Entertainment",
+			"Mass Media"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-06-13",
+			"pal": "2001-05-25"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/StarCraft_(video_game)#Nintendo_64_version"
+	},
+	"PGA_European_Tour_Golf_PGA_European_Tour": {
+		"id": "PGA_European_Tour_Golf_PGA_European_Tour",
+		"title": "PGA European Tour",
+		"developers": [
+			"Infogrames Sheffield House"
+		],
+		"publisher": "Infogrames",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-06-15",
+			"pal": "2000-05-01"
+		},
+		"otherTitles": {
+			"default": "PGA European Tour Golf"
+		}
+	},
+	"Fighters_Destiny_Sequel": {
+		"id": "Fighters_Destiny_Sequel",
+		"title": "Fighter Destiny 2",
+		"developers": [
+			"Genki",
+			"Opus Corp."
+		],
+		"publisher": "SouthPeak Interactive",
+		"releaseDates": {
+			"jp": "1999-08-27",
+			"na": "2000-06-22",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Fighters_Destiny#Sequel",
+		"otherPublishers": {
+			"jp": "Imagineer"
+		}
+	},
+	"Kirby_64:_The_Crystal_Shards": {
+		"id": "Kirby_64:_The_Crystal_Shards",
+		"title": "Kirby 64: The Crystal Shards",
+		"developers": [
+			"HAL Laboratory"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": "2000-03-24",
+			"na": "2000-06-26",
+			"pal": "2001-06-22"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Kirby_64:_The_Crystal_Shards"
+	},
+	"Rally_Challenge_2000": {
+		"id": "Rally_Challenge_2000",
+		"title": "Rally Challenge 2000",
+		"developers": [
+			"Genki"
+		],
+		"publisher": "SouthPeak Interactive",
+		"releaseDates": {
+			"jp": "1999-08-06",
+			"na": "2000-06-30",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Rally_Challenge_2000",
+		"otherTitles": {
+			"jp": "Rally '99"
+		},
+		"otherPublishers": {
+			"jp": "Imagineer"
+		}
+	},
+	"Super_Bowling": {
+		"id": "Super_Bowling",
+		"title": "Super Bowling",
+		"developers": [
+			"Athena"
+		],
+		"publisher": "UFO Interactive Games",
+		"releaseDates": {
+			"jp": "1999-03-26",
+			"na": "2000-07-12",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Super_Bowling",
+		"otherPublishers": {
+			"jp": "Athena"
+		}
+	},
+	"Transformers:_Beast_Wars_Transmetals": {
+		"id": "Transformers:_Beast_Wars_Transmetals",
+		"title": "Transformers: Beast Wars Transmetals",
+		"developers": [
+			"Locomotive Corporation"
+		],
+		"publisher": "Bay Area Multimedia",
+		"releaseDates": {
+			"jp": "1999-10-01",
+			"na": "2000-07-12",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Transformers:_Beast_Wars_Transmetals",
+		"otherPublishers": {
+			"jp": "Takara"
+		}
+	},
+	"Army_Men:_Air_Attack": {
+		"id": "Army_Men:_Air_Attack",
+		"title": "Army Men: Air Combat",
+		"developers": [
+			"The 3DO Company"
+		],
+		"publisher": "The 3DO Company",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-07-18",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Army_Men:_Air_Attack"
+	},
+	"Carmageddon_II:_Carpocalypse_Now": {
+		"id": "Carmageddon_II:_Carpocalypse_Now",
+		"title": "Carmageddon 64",
+		"developers": [
+			"Software Creations"
+		],
+		"publisher": "Titus Interactive",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-07-26",
+			"pal": "1999-01-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Carmageddon_II:_Carpocalypse_Now",
+		"otherPublishers": {
+			"pal": "Sales Curve Interactive"
+		}
+	},
+	"Daikatana": {
+		"id": "Daikatana",
+		"title": "Daikatana",
+		"developers": [
+			"Ion Storm"
+		],
+		"publisher": "Kemco",
+		"releaseDates": {
+			"jp": "2000-03-31",
+			"na": "2000-08-01",
+			"pal": "2000-05-05"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Daikatana"
+	},
+	"International_Superstar_Soccer_2000": {
+		"id": "International_Superstar_Soccer_2000",
+		"title": "International Superstar Soccer 2000",
+		"developers": [
+			"Konami Computer Entertainment Osaka"
+		],
+		"publisher": "Konami",
+		"releaseDates": {
+			"jp": "1999-07-29",
+			"na": "2000-08-03",
+			"pal": "2000-10-06"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/International_Superstar_Soccer_2000",
+		"otherTitles": {
+			"jp": "Jikkyō J-League 1999: Perfect Striker 2"
+		}
+	},
+	"Duck_Dodgers_Starring_Daffy_Duck": {
+		"id": "Duck_Dodgers_Starring_Daffy_Duck",
+		"title": "Duck Dodgers Starring Daffy Duck",
+		"developers": [
+			"Paradigm Entertainment"
+		],
+		"publisher": "Infogrames",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-08-15",
+			"pal": "2000-10-27"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Duck_Dodgers_Starring_Daffy_Duck",
+		"otherTitles": {
+			"pal": "Daffy Duck Starring As Duck Dodgers"
+		}
+	},
+	"Hercules:_The_Legendary_Journeys_(video_game)": {
+		"id": "Hercules:_The_Legendary_Journeys_(video_game)",
+		"title": "Hercules: The Legendary Journeys",
+		"developers": [
+			"Player 1"
+		],
+		"publisher": "Titus Interactive",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-08-18",
+			"pal": "2000-10-06"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Hercules:_The_Legendary_Journeys_(video_game)"
+	},
+	"NFL_QB_Club_2001": {
+		"id": "NFL_QB_Club_2001",
+		"title": "NFL QB Club 2001",
+		"developers": [
+			"High Voltage Software"
+		],
+		"publisher": "Acclaim Sports",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-08-24",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/NFL_QB_Club_2001"
+	},
+	"Mario_Tennis": {
+		"id": "Mario_Tennis",
+		"title": "Mario Tennis",
+		"developers": [
+			"Camelot Software Planning"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": "2000-07-21",
+			"na": "2000-08-28",
+			"pal": "2000-11-03"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Mario_Tennis"
+	},
+	"Turok_3:_Shadow_of_Oblivion": {
+		"id": "Turok_3:_Shadow_of_Oblivion",
+		"title": "Turok 3: Shadow of Oblivion",
+		"developers": [
+			"Acclaim Studios Austin"
+		],
+		"publisher": "Acclaim Entertainment",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-08-31",
+			"pal": "2000-09-08"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Turok_3:_Shadow_of_Oblivion"
+	},
+	"San_Francisco_Rush_2049": {
+		"id": "San_Francisco_Rush_2049",
+		"title": "San Francisco Rush 2049",
+		"developers": [
+			"Midway Games West"
+		],
+		"publisher": "Midway",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-09-06",
+			"pal": "2000-11-17"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/San_Francisco_Rush_2049"
+	},
+	"Madden_NFL_2001": {
+		"id": "Madden_NFL_2001",
+		"title": "Madden NFL 2001",
+		"developers": [
+			"EA Tiburon"
+		],
+		"publisher": "EA Sports",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-09-07",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Madden_NFL_2001"
+	},
+	"NFL_Blitz_2001": {
+		"id": "NFL_Blitz_2001",
+		"title": "NFL Blitz 2001",
+		"developers": [
+			"Midway Games"
+		],
+		"publisher": "Midway",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-09-12",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/NFL_Blitz_2001"
+	},
+	"Rat_Attack!": {
+		"id": "Rat_Attack!",
+		"title": "Rat Attack!",
+		"developers": [
+			"Pure Entertainment"
+		],
+		"publisher": "Mindscape",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-09-12",
+			"pal": "2000-04-21"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Rat_Attack!"
+	},
+	"Pokémon_Puzzle_League": {
+		"id": "Pokémon_Puzzle_League",
+		"title": "Pokémon Puzzle League",
+		"developers": [
+			"Nintendo Software Technology"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-09-25",
+			"pal": "2001-03-02"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Pokémon_Puzzle_League"
+	},
+	"Army_Men:_Sarge's_Heroes_2": {
+		"id": "Army_Men:_Sarge's_Heroes_2",
+		"title": "Army Men: Sarge's Heroes 2",
+		"developers": [
+			"The 3DO Company"
+		],
+		"publisher": "The 3DO Company",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-09-27",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Army_Men:_Sarge's_Heroes_2"
+	},
+	"Power_Rangers_Lightspeed_Rescue_(video_game)": {
+		"id": "Power_Rangers_Lightspeed_Rescue_(video_game)",
+		"title": "Power Rangers Lightspeed Rescue",
+		"developers": [
+			"Mass Media"
+		],
+		"publisher": "THQ",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-09-27",
+			"pal": "2000-12-08"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Power_Rangers_Lightspeed_Rescue_(video_game)"
+	},
+	"Stunt_Racer_64": {
+		"id": "Stunt_Racer_64",
+		"title": "Stunt Racer 64",
+		"developers": [
+			"Boss Game Studios"
+		],
+		"publisher": "Midway",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-10-03",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Stunt_Racer_64"
+	},
+	"Ogre_Battle_64": {
+		"id": "Ogre_Battle_64",
+		"title": "Ogre Battle 64: Person of Lordly Caliber",
+		"developers": [
+			"Quest Corporation"
+		],
+		"publisher": "Atlus",
+		"releaseDates": {
+			"jp": "1999-07-14",
+			"na": "2000-10-05",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Ogre_Battle_64",
+		"otherPublishers": {
+			"jp": "Nintendo"
+		}
+	},
+	"Big_Mountain_2000": {
+		"id": "Big_Mountain_2000",
+		"title": "Big Mountain 2000",
+		"developers": [
+			"Imagineer"
+		],
+		"publisher": "SouthPeak Interactive",
+		"releaseDates": {
+			"jp": "1998-12-26",
+			"na": "2000-10-10",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Big_Mountain_2000",
+		"otherPublishers": {
+			"jp": "Imagineer"
+		}
+	},
+	"Cruis'n_Exotica": {
+		"id": "Cruis'n_Exotica",
+		"title": "Cruis'n Exotica",
+		"developers": [
+			"Gratuitous Games"
+		],
+		"publisher": "Midway",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-10-17",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Cruis'n_Exotica"
+	},
+	"The_World_Is_Not_Enough_(Nintendo_64_video_game)": {
+		"id": "The_World_Is_Not_Enough_(Nintendo_64_video_game)",
+		"title": "The World Is Not Enough",
+		"developers": [
+			"Eurocom"
+		],
+		"publisher": "EA Games",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-10-17",
+			"pal": "2000-12-08"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/The_World_Is_Not_Enough_(Nintendo_64_video_game)"
+	},
+	"The_Legend_of_Zelda:_Majora's_Mask": {
+		"id": "The_Legend_of_Zelda:_Majora's_Mask",
+		"title": "The Legend of Zelda: Majora's Mask",
+		"developers": [
+			"Nintendo EAD"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": "2000-04-27",
+			"na": "2000-10-26",
+			"pal": "2000-11-17"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Majora's_Mask"
+	},
+	"Tigger's_Honey_Hunt": {
+		"id": "Tigger's_Honey_Hunt",
+		"title": "Tigger's Honey Hunt",
+		"developers": [
+			"DokiDenki Studio"
+		],
+		"publisher": "NewKidCo",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-10-27",
+			"pal": "2001-04-06"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Tigger's_Honey_Hunt",
+		"otherPublishers": {
+			"pal": "Ubi Soft"
+		}
+	},
+	"Hey_You,_Pikachu!": {
+		"id": "Hey_You,_Pikachu!",
+		"title": "Hey You, Pikachu!",
+		"developers": [
+			"Ambrella"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": "1998-12-12",
+			"na": "2000-11-06",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Hey_You,_Pikachu!"
+	},
+	"Rugrats_in_Paris:_The_Movie_(video_game)": {
+		"id": "Rugrats_in_Paris:_The_Movie_(video_game)",
+		"title": "Rugrats in Paris - The Movie",
+		"developers": [
+			"Avalanche Software"
+		],
+		"publisher": "THQ",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-11-08",
+			"pal": "2001-03-30"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Rugrats_in_Paris:_The_Movie_(video_game)"
+	},
+	"Tom_and_Jerry_in_Fists_of_Furry": {
+		"id": "Tom_and_Jerry_in_Fists_of_Furry",
+		"title": "Tom and Jerry in Fists of Furry",
+		"developers": [
+			"VIS Entertainment"
+		],
+		"publisher": "NewKidCo",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-11-08",
+			"pal": "2000-01-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Tom_and_Jerry_in_Fists_of_Furry",
+		"otherPublishers": {
+			"pal": "Ubi Soft"
+		}
+	},
+	"Michael_Owen's_WLS_2000": {
+		"id": "Michael_Owen's_WLS_2000",
+		"title": "Mia Hamm Soccer 64",
+		"developers": [
+			"Silicon Dreams Studio"
+		],
+		"publisher": "SouthPeak Interactive",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-11-09",
+			"pal": "2000-11-10"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Michael_Owen's_WLS_2000",
+		"otherTitles": {
+			"pal": "Michael Owen's WLS 2000"
+		},
+		"otherPublishers": {
+			"pal": "THQ"
+		}
+	},
+	"Mickey's_Speedway_USA": {
+		"id": "Mickey's_Speedway_USA",
+		"title": "Mickey's Speedway USA",
+		"developers": [
+			"Rare"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": "2001-01-21",
+			"na": "2000-11-13",
+			"pal": "2000-12-01"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Mickey's_Speedway_USA"
+	},
+	"Ms._Pac-Man_Maze_Madness": {
+		"id": "Ms._Pac-Man_Maze_Madness",
+		"title": "Ms. Pac-Man Maze Madness",
+		"developers": [
+			"Mass Media"
+		],
+		"publisher": "Namco",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-11-13",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Ms._Pac-Man_Maze_Madness"
+	},
+	"Ready_2_Rumble_Boxing:_Round_2": {
+		"id": "Ready_2_Rumble_Boxing:_Round_2",
+		"title": "Ready 2 Rumble Boxing: Round 2",
+		"developers": [
+			"Point of View"
+		],
+		"publisher": "Midway",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-11-13",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Ready_2_Rumble_Boxing:_Round_2"
+	},
+	"Midway's_Greatest_Arcade_Hits": {
+		"id": "Midway's_Greatest_Arcade_Hits",
+		"title": "Midway's Greatest Arcade Hits: Volume 1",
+		"developers": [
+			"Digital Eclipse"
+		],
+		"publisher": "Midway",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-11-14",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Midway's_Greatest_Arcade_Hits"
+	},
+	"WWF_No_Mercy_(video_game)": {
+		"id": "WWF_No_Mercy_(video_game)",
+		"title": "WWF No Mercy",
+		"developers": [
+			"Asmik Ace Entertainment",
+			"AKI Corporation"
+		],
+		"publisher": "THQ",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-11-14",
+			"pal": "2000-12-15"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/WWF_No_Mercy_(video_game)"
+	},
+	"Blues_Brothers_2000_(video_game)": {
+		"id": "Blues_Brothers_2000_(video_game)",
+		"title": "Blues Brothers 2000",
+		"developers": [
+			"Player 1"
+		],
+		"publisher": "Titus Interactive",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-11-17",
+			"pal": "2000-10-13"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Blues_Brothers_2000_(video_game)"
+	},
+	"Banjo-Tooie": {
+		"id": "Banjo-Tooie",
+		"title": "Banjo-Tooie",
+		"developers": [
+			"Rare"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": "2000-11-27",
+			"na": "2000-11-20",
+			"pal": "2001-04-12"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Banjo-Tooie"
+	},
+	"Spider-Man_(2000_video_game)": {
+		"id": "Spider-Man_(2000_video_game)",
+		"title": "Spider-Man",
+		"developers": [
+			"Edge of Reality"
+		],
+		"publisher": "Activision",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-11-21",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Spider-Man_(2000_video_game)"
+	},
+	"Scooby-Doo!_Classic_Creep_Capers": {
+		"id": "Scooby-Doo!_Classic_Creep_Capers",
+		"title": "Scooby-Doo! Classic Creep Capers",
+		"developers": [
+			"Terraglyph Interactive Studios"
+		],
+		"publisher": "THQ",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-11-29",
+			"pal": "2001-03-30"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Scooby-Doo!_Classic_Creep_Capers"
+	},
+	"WCW_Backstage_Assault": {
+		"id": "WCW_Backstage_Assault",
+		"title": "WCW Backstage Assault",
+		"developers": [
+			"Kodiak Interactive"
+		],
+		"publisher": "Electronic Arts",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-12-12",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/WCW_Backstage_Assault"
+	},
+	"Batman_Beyond:_Return_of_the_Joker_(video_game)": {
+		"id": "Batman_Beyond:_Return_of_the_Joker_(video_game)",
+		"title": "Batman Beyond: Return of the Joker",
+		"developers": [
+			"Kemco"
+		],
+		"publisher": "Ubi Soft",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-12-13",
+			"pal": "2000-12-15"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Batman_Beyond:_Return_of_the_Joker_(video_game)",
+		"otherTitles": {
+			"pal": "Batman of the Future: Return of the Joker"
+		}
+	},
+	"Indiana_Jones_and_the_Infernal_Machine": {
+		"id": "Indiana_Jones_and_the_Infernal_Machine",
+		"title": "Indiana Jones and the Infernal Machine",
+		"developers": [
+			"Factor 5"
+		],
+		"publisher": "LucasArts",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-12-15",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Infernal_Machine"
+	},
+	"Star_Wars_Episode_I:_Battle_for_Naboo": {
+		"id": "Star_Wars_Episode_I:_Battle_for_Naboo",
+		"title": "Star Wars Episode I: Battle for Naboo",
+		"developers": [
+			"Factor 5",
+			"LucasArts"
+		],
+		"publisher": "LucasArts",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-12-15",
+			"pal": "2001-03-30"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Star_Wars_Episode_I:_Battle_for_Naboo",
+		"otherPublishers": {
+			"pal": "THQ"
+		}
+	},
+	"Donald_Duck:_Goin'_Quackers": {
+		"id": "Donald_Duck:_Goin'_Quackers",
+		"title": "Donald Duck: Goin' Quackers",
+		"developers": [
+			"Ubi Soft Casablanca"
+		],
+		"publisher": "Ubi Soft",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-12-20",
+			"pal": "2000-12-08"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Donald_Duck:_Goin'_Quackers",
+		"otherTitles": {
+			"default": "Donald Duck: Quack Attack"
+		}
+	},
+	"Polaris_SnoCross": {
+		"id": "Polaris_SnoCross",
+		"title": "Polaris SnoCross",
+		"developers": [
+			"Vicarious Visions"
+		],
+		"publisher": "Vatical Entertainment",
+		"releaseDates": {
+			"jp": null,
+			"na": "2000-12-27",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Polaris_SnoCross"
+	},
+	"Mega_Man_Legends_(video_game)": {
+		"id": "Mega_Man_Legends_(video_game)",
+		"title": "Mega Man 64",
+		"developers": [
+			"Capcom Production Studio 2"
+		],
+		"publisher": "Capcom",
+		"releaseDates": {
+			"jp": "2000-11-22",
+			"na": "2001-01-10",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Mega_Man_Legends_(video_game)"
+	},
+	"Paper_Mario_(video_game)": {
+		"id": "Paper_Mario_(video_game)",
+		"title": "Paper Mario",
+		"developers": [
+			"Intelligent Systems"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": "2000-08-11",
+			"na": "2001-02-05",
+			"pal": "2001-10-05"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Paper_Mario_(video_game)"
+	},
+	"Conker's_Bad_Fur_Day": {
+		"id": "Conker's_Bad_Fur_Day",
+		"title": "Conker's Bad Fur Day",
+		"developers": [
+			"Rare"
+		],
+		"publisher": "Rare",
+		"releaseDates": {
+			"jp": null,
+			"na": "2001-03-05",
+			"pal": "2001-04-06"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Conker's_Bad_Fur_Day",
+		"otherPublishers": {
+			"pal": "THQ"
+		}
+	},
+	"Aidyn_Chronicles:_The_First_Mage": {
+		"id": "Aidyn_Chronicles:_The_First_Mage",
+		"title": "Aidyn Chronicles: The First Mage",
+		"developers": [
+			"H2O Entertainment"
+		],
+		"publisher": "THQ",
+		"releaseDates": {
+			"jp": null,
+			"na": "2001-03-20",
+			"pal": "2001-08-03"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Aidyn_Chronicles:_The_First_Mage"
+	},
+	"Pokémon_Stadium_2": {
+		"id": "Pokémon_Stadium_2",
+		"title": "Pokémon Stadium 2",
+		"developers": [
+			"Nintendo EAD"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": "2000-12-14",
+			"na": "2001-03-26",
+			"pal": "2001-04-07"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Pokémon_Stadium_2",
+		"otherTitles": {
+			"jp": "Pokémon Stadium Gold Silver"
+		}
+	},
+	"Dr._Mario_64": {
+		"id": "Dr._Mario_64",
+		"title": "Dr. Mario 64",
+		"developers": [
+			"Nintendo"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": null,
+			"na": "2001-04-09",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Dr._Mario_64"
+	},
+	"Mario_Party_3": {
+		"id": "Mario_Party_3",
+		"title": "Mario Party 3",
+		"developers": [
+			"Hudson Soft"
+		],
+		"publisher": "Nintendo",
+		"releaseDates": {
+			"jp": "2000-12-07",
+			"na": "2001-05-07",
+			"pal": "2001-09-03"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Mario_Party_3"
+	},
+	"Tony_Hawk's_Pro_Skater_2": {
+		"id": "Tony_Hawk's_Pro_Skater_2",
+		"title": "Tony Hawk's Pro Skater 2",
+		"developers": [
+			"Edge of Reality"
+		],
+		"publisher": "Activision",
+		"releaseDates": {
+			"jp": null,
+			"na": "2001-08-21",
+			"pal": "2001-10-12"
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Tony_Hawk's_Pro_Skater_2"
+	},
+	"Madden_NFL_2002": {
+		"id": "Madden_NFL_2002",
+		"title": "Madden NFL 2002",
+		"developers": [
+			"Budcat Creations"
+		],
+		"publisher": "EA Sports",
+		"releaseDates": {
+			"jp": null,
+			"na": "2001-09-13",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Madden_NFL_2002"
+	},
+	"The_Powerpuff_Girls:_Chemical_X-Traction": {
+		"id": "The_Powerpuff_Girls:_Chemical_X-Traction",
+		"title": "The Powerpuff Girls: Chemical X-Traction",
+		"developers": [
+			"VIS Entertainment",
+			"Asylum Entertainment"
+		],
+		"publisher": "BAM! Entertainment",
+		"releaseDates": {
+			"jp": null,
+			"na": "2001-11-19",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/The_Powerpuff_Girls:_Chemical_X-Traction"
+	},
+	"Razor_Freestyle_Scooter": {
+		"id": "Razor_Freestyle_Scooter",
+		"title": "Razor Freestyle Scooter",
+		"developers": [
+			"Titanium Studios"
+		],
+		"publisher": "Crave Entertainment",
+		"releaseDates": {
+			"jp": null,
+			"na": "2001-11-27",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Razor_Freestyle_Scooter"
+	},
+	"NFL_Blitz_Installments": {
+		"id": "NFL_Blitz_Installments",
+		"title": "NFL Blitz Special Edition",
+		"developers": [
+			"Point of View"
+		],
+		"publisher": "Midway",
+		"releaseDates": {
+			"jp": null,
+			"na": "2001-11-28",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/NFL_Blitz#Installments"
+	},
+	"Tony_Hawk's_Pro_Skater_3": {
+		"id": "Tony_Hawk's_Pro_Skater_3",
+		"title": "Tony Hawk's Pro Skater 3",
+		"developers": [
+			"Edge of Reality"
+		],
+		"publisher": "Activision",
+		"releaseDates": {
+			"jp": null,
+			"na": "2002-08-20",
+			"pal": null
+		},
+		"wikiUrl": "https://en.wikipedia.org/wiki/Tony_Hawk's_Pro_Skater_3"
+	}
+}

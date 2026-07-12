@@ -1,1 +1,70 @@
 @import 'tailwindcss';
+@plugin '@tailwindcss/typography';
+@plugin '@iconify/tailwind4';
+
+@theme {
+	--color-logo: var(--logo-color);
+	--color-logo-number: var(--logo-number-color);
+	--color-foreground: var(--foreground-color);
+	--color-background: var(--background-color);
+	--color-table: var(--table-color);
+}
+
+@layer base {
+	:root {
+		--logo-color: #0124a6;
+		--logo-number-color: #ff2d1e;
+		--foreground-color: #000000;
+		--background-color: #ffffff;
+		--table-color: #f0f2f1;
+	}
+
+	@media (prefers-color-scheme: dark) {
+		:root {
+			--logo-color: #f0f2f1;
+			--logo-number-color: #f0f2f1;
+			--foreground-color: #f0f2f1;
+			--background-color: #1b1a1ce0;
+			--table-color: #2c2a2b;
+		}
+	}
+
+	body {
+		font-family: 'Open Sans', sans-serif;
+		font-optical-sizing: auto;
+		font-weight: 400;
+		font-style: normal;
+		font-variation-settings: 'wdth' 100;
+
+		@apply bg-fixed text-foreground;
+		background-image:
+			linear-gradient(90deg, #ff2d1e00 74.9%, #ff2d1e36 75%, #ff2d1e36 100%),
+			linear-gradient(0deg, var(--color-background) 0%, var(--color-background) 100%),
+			url('/bg.jpg');
+		background-blend-mode: multiply;
+		background-size: 100% 100%;
+	}
+	body.n64-mode {
+		filter: blur(2px);
+	}
+
+	table {
+		@apply w-full border-collapse text-sm;
+	}
+	thead th {
+		@apply sticky -top-1 z-10;
+	}
+	th,
+	td {
+		@apply border border-foreground/8 p-2;
+	}
+	th {
+		@apply bg-table uppercase;
+	}
+	tr:nth-child(even) {
+		@apply bg-table/75 hover:bg-table;
+	}
+	tr:nth-child(odd) {
+		@apply bg-table/65 hover:bg-table;
+	}
+}

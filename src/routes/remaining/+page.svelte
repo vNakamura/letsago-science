@@ -1,19 +1,16 @@
 <script lang="ts">
+	import RemainingGameRow from '$lib/components/RemainingGameRow.svelte';
 	import TableColumnHeader from '$lib/components/TableColumnHeader.svelte';
-	import GameRow from '$lib/components/GameRow.svelte';
 	import type { GameWikiData } from '$lib/types';
 
 	type Row = {
-		rank: number;
+		id: string;
 		game: GameWikiData;
-		ep: number;
-		ytid: string;
-		seconds: number;
 	};
-	type SortKey = 'rank' | 'game' | 'ep' | 'seconds' | 'publisher' | 'releaseDateNA';
+	type SortKey = 'title' | 'publisher' | 'releaseDateNA';
 
 	let { data } = $props();
-	let sortKey = $state<SortKey>('rank');
+	let sortKey = $state<SortKey>('title');
 	let sortAsc = $state(true);
 
 	function handleSort(key: SortKey) {
@@ -26,44 +23,36 @@
 	}
 
 	const comparators: Record<SortKey, (a: Row, b: Row) => number> = {
-		rank: (a, b) => a.rank - b.rank,
-		game: (a, b) => a.game.title.localeCompare(b.game.title),
-		ep: (a, b) => a.ep - b.ep,
-		seconds: (a, b) => a.ep - b.ep || a.seconds - b.seconds,
+		title: (a, b) => a.game.title.localeCompare(b.game.title),
 		publisher: (a, b) => (a.game.publisher ?? '').localeCompare(b.game.publisher ?? ''),
-		releaseDateNA: (a, b) =>
-			(a.game.releaseDateNA ?? '').localeCompare(b.game.releaseDateNA ?? '')
+		releaseDateNA: (a, b) => (a.game.releaseDateNA ?? '').localeCompare(b.game.releaseDateNA ?? '')
 	};
 
 	let items = $derived.by(() => {
-		if (!sortKey) return data.list as Row[];
 		const compare = comparators[sortKey];
 		const sorted = [...(data.list as Row[])].sort(compare);
 		return sortAsc ? sorted : sorted.reverse();
 	});
 </script>
 
+<h2 class="mb-6 text-xl text-foreground/60">{items.length} games remaining</h2>
+
 <table>
 	<thead>
 		<tr>
-			<TableColumnHeader key="rank" {sortKey} {sortAsc} onSort={handleSort}>Rank</TableColumnHeader>
-			<TableColumnHeader key="game" {sortKey} {sortAsc} onSort={handleSort}>Game</TableColumnHeader>
+			<TableColumnHeader key="title" {sortKey} {sortAsc} onSort={handleSort}>Game</TableColumnHeader
+			>
 			<TableColumnHeader key="publisher" {sortKey} {sortAsc} onSort={handleSort}
 				>Publisher</TableColumnHeader
 			>
 			<TableColumnHeader key="releaseDateNA" {sortKey} {sortAsc} onSort={handleSort}
 				>Release Date</TableColumnHeader
 			>
-			<TableColumnHeader key="ep" {sortKey} {sortAsc} onSort={handleSort}>Episode</TableColumnHeader
-			>
-			<TableColumnHeader key="seconds" {sortKey} {sortAsc} onSort={handleSort}
-				>Timestamp</TableColumnHeader
-			>
 		</tr>
 	</thead>
 	<tbody>
-		{#each items as row (row.rank)}
-			<GameRow {...row} />
+		{#each items as row (row.id)}
+			<RemainingGameRow {...row} />
 		{/each}
 	</tbody>
 </table>
