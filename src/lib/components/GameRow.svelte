@@ -28,8 +28,8 @@
 
 <tr>
 	<td class="text-center text-lg font-bold">
-		{#if rank < 4}
-			<img src={`/rank${rank}.png`} alt={`Rank ${rank}`} class="inline-block rounded-lg" />
+		{#if rank <= 4}
+			<img src={`/rank_${rank}.png`} alt={`Rank ${rank}`} class="inline-block rounded-lg" />
 		{:else}
 			{rank}
 		{/if}
