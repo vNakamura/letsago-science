@@ -67,4 +67,8 @@
 	tr:nth-child(odd) {
 		@apply bg-table/65 hover:bg-table;
 	}
+
+	a:hover {
+		@apply underline underline-offset-3;
+	}
 }

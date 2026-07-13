@@ -100,3 +100,39 @@ Some titles differ too much to match automatically. These are logged to the cons
 	"007 - GoldenEye (USA).png": "GoldenEye_007_(1997_video_game)"
 }
 ```
+
+### Retro Achievements
+
+Achievement counts and links are sourced from the [RetroAchievements API](https://retroachievements.org/) and stored as JSON in `src/lib/data/gameAchievements.json`.
+
+#### Requirements
+
+You'll need a RetroAchievements API key (from your [RetroAchievements settings page](https://retroachievements.org/settings)), set as the `RETRO_ACHIEVEMENTS_API_KEY` environment variable in a local `.env` file (already gitignored):
+
+```sh
+RETRO_ACHIEVEMENTS_API_KEY=your-key-here
+```
+
+#### Updating the Retro Achievements Data
+
+1. Fetch the current Nintendo 64 game list from the API and write it to `src/lib/data/retroAchievements.json`:
+
+```sh
+pnpm parse-retroachievements
+```
+
+   This calls `API_GetGameList.php` with `i=2` (Nintendo 64 console ID), `f=1` (only games with achievements), and `o=280` (an offset that skips most of the alphabetically-earlier Hacks/Homebrews/Prototypes/Unlicensed entries the API otherwise returns first). Any remaining non-commercial entries (titles prefixed `~Homebrew~`/`~Prototype~`/`~Unlicensed~`) and bonus/alternate achievement sets (titles containing `[Subset`) are filtered out.
+
+2. Match the fetched games against `games.json` by normalized title, same approach as screenshot matching, and write the result to `src/lib/data/gameAchievements.json`, mapping each game's `id` to its RetroAchievements `id` and achievement count:
+
+```sh
+pnpm match-retroachievements
+```
+
+Some titles differ too much to match automatically (e.g. RetroAchievements titles a game `007: The World Is Not Enough` while the Wikipedia title is `The World Is Not Enough`). These are logged to the console as `RetroAchievements games with no match`. Add manual matches to `src/lib/data/retroAchievementsOverrides.json`, mapping the RetroAchievements title to the game's `id`:
+
+```json
+{
+	"007: The World Is Not Enough": "The_World_Is_Not_Enough_(Nintendo_64_video_game)"
+}
+```

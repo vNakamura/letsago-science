@@ -87,7 +87,7 @@
 	<img
 		src="/only-for.png"
 		alt="Only for Nintendo 64"
-		class="w-24 opacity-10 transition-opacity hover:opacity-100"
+		class="w-24 opacity-10 transition-opacity hover:opacity-100 dark:opacity-5"
 		class:opacity-100={n64Mode}
 	/>
 	<input type="checkbox" bind:checked={n64Mode} class="hidden" />

@@ -1,0 +1,947 @@
+[
+	{
+		"id": 10135,
+		"title": "007: The World Is Not Enough",
+		"numAchievements": 100
+	},
+	{
+		"id": 10136,
+		"title": "1080° Snowboarding",
+		"numAchievements": 39
+	},
+	{
+		"id": 10137,
+		"title": "A Bug's Life",
+		"numAchievements": 84
+	},
+	{
+		"id": 10147,
+		"title": "Army Men: Air Combat",
+		"numAchievements": 33
+	},
+	{
+		"id": 10148,
+		"title": "Army Men: Sarge's Heroes",
+		"numAchievements": 65
+	},
+	{
+		"id": 10149,
+		"title": "Army Men: Sarge's Heroes 2",
+		"numAchievements": 59
+	},
+	{
+		"id": 10210,
+		"title": "Banjo-Kazooie",
+		"numAchievements": 60
+	},
+	{
+		"id": 10211,
+		"title": "Banjo-Tooie",
+		"numAchievements": 110
+	},
+	{
+		"id": 10591,
+		"title": "BattleTanx",
+		"numAchievements": 75
+	},
+	{
+		"id": 10156,
+		"title": "BattleTanx: Global Assault",
+		"numAchievements": 54
+	},
+	{
+		"id": 10170,
+		"title": "Beetle Adventure Racing!",
+		"numAchievements": 37
+	},
+	{
+		"id": 10452,
+		"title": "Bio F.R.E.A.K.S.",
+		"numAchievements": 47
+	},
+	{
+		"id": 10162,
+		"title": "Blast Corps",
+		"numAchievements": 24
+	},
+	{
+		"id": 10453,
+		"title": "Blues Brothers 2000",
+		"numAchievements": 22
+	},
+	{
+		"id": 10265,
+		"title": "Body Harvest",
+		"numAchievements": 65
+	},
+	{
+		"id": 10120,
+		"title": "Bomberman 64",
+		"numAchievements": 69
+	},
+	{
+		"id": 12493,
+		"title": "Bomberman 64 (Japan)",
+		"numAchievements": 63
+	},
+	{
+		"id": 10330,
+		"title": "Bomberman 64: The Second Attack!",
+		"numAchievements": 50
+	},
+	{
+		"id": 10285,
+		"title": "Bomberman Hero",
+		"numAchievements": 43
+	},
+	{
+		"id": 10407,
+		"title": "Buck Bumble",
+		"numAchievements": 55
+	},
+	{
+		"id": 10326,
+		"title": "Bust-A-Move '99",
+		"numAchievements": 143
+	},
+	{
+		"id": 12815,
+		"title": "California Speed",
+		"numAchievements": 27
+	},
+	{
+		"id": 10385,
+		"title": "Carmageddon 64",
+		"numAchievements": 230
+	},
+	{
+		"id": 10667,
+		"title": "Castlevania",
+		"numAchievements": 52
+	},
+	{
+		"id": 10159,
+		"title": "Castlevania: Legacy of Darkness",
+		"numAchievements": 43
+	},
+	{
+		"id": 10607,
+		"title": "Chameleon Twist",
+		"numAchievements": 32
+	},
+	{
+		"id": 10283,
+		"title": "Chameleon Twist 2",
+		"numAchievements": 31
+	},
+	{
+		"id": 11600,
+		"title": "Charlie Blasts Territory",
+		"numAchievements": 13
+	},
+	{
+		"id": 22859,
+		"title": "Clay Fighter 63 1/3",
+		"numAchievements": 38
+	},
+	{
+		"id": 10586,
+		"title": "Clay Fighter: Sculptor's Cut",
+		"numAchievements": 44
+	},
+	{
+		"id": 10386,
+		"title": "Command & Conquer",
+		"numAchievements": 82
+	},
+	{
+		"id": 10164,
+		"title": "Conker's Bad Fur Day",
+		"numAchievements": 69
+	},
+	{
+		"id": 10457,
+		"title": "Cruis'n Exotica",
+		"numAchievements": 102
+	},
+	{
+		"id": 10085,
+		"title": "Cruis'n USA",
+		"numAchievements": 43
+	},
+	{
+		"id": 10166,
+		"title": "Cruis'n World",
+		"numAchievements": 76
+	},
+	{
+		"id": 10574,
+		"title": "Custom Robo",
+		"numAchievements": 40
+	},
+	{
+		"id": 11530,
+		"title": "Dance Dance Revolution: Disney Dancing Museum",
+		"numAchievements": 44
+	},
+	{
+		"id": 12986,
+		"title": "Densha de Go! 64",
+		"numAchievements": 63
+	},
+	{
+		"id": 10158,
+		"title": "Destruction Derby 64",
+		"numAchievements": 44
+	},
+	{
+		"id": 10202,
+		"title": "Diddy Kong Racing",
+		"numAchievements": 94
+	},
+	{
+		"id": 16231,
+		"title": "Donald Duck: Goin' Quackers",
+		"numAchievements": 64
+	},
+	{
+		"id": 10075,
+		"title": "Donkey Kong 64",
+		"numAchievements": 128
+	},
+	{
+		"id": 10080,
+		"title": "Doom 64",
+		"numAchievements": 88
+	},
+	{
+		"id": 10593,
+		"title": "Doraemon: Nobita to 3 Tsu no Seireiseki",
+		"numAchievements": 45
+	},
+	{
+		"id": 10835,
+		"title": "Doubutsu no Mori",
+		"numAchievements": 72
+	},
+	{
+		"id": 11200,
+		"title": "Dr. Mario 64",
+		"numAchievements": 26
+	},
+	{
+		"id": 10608,
+		"title": "Duck Dodgers - Starring: Daffy Duck",
+		"numAchievements": 37
+	},
+	{
+		"id": 10121,
+		"title": "Duke Nukem 64",
+		"numAchievements": 132
+	},
+	{
+		"id": 10127,
+		"title": "Duke Nukem: Zero Hour",
+		"numAchievements": 106
+	},
+	{
+		"id": 10348,
+		"title": "Earthworm Jim 3D",
+		"numAchievements": 72
+	},
+	{
+		"id": 10869,
+		"title": "Excitebike 64",
+		"numAchievements": 71
+	},
+	{
+		"id": 10609,
+		"title": "Extreme-G",
+		"numAchievements": 39
+	},
+	{
+		"id": 10460,
+		"title": "Extreme-G XG2",
+		"numAchievements": 39
+	},
+	{
+		"id": 10133,
+		"title": "F-Zero X",
+		"numAchievements": 74
+	},
+	{
+		"id": 10200,
+		"title": "FIFA 98: Road to World Cup",
+		"numAchievements": 32
+	},
+	{
+		"id": 10429,
+		"title": "Fighters Destiny",
+		"numAchievements": 75
+	},
+	{
+		"id": 10129,
+		"title": "Fighting Force 64",
+		"numAchievements": 90
+	},
+	{
+		"id": 10466,
+		"title": "Forsaken 64",
+		"numAchievements": 63
+	},
+	{
+		"id": 10282,
+		"title": "Getter Love!! Cho Renai Party Game",
+		"numAchievements": 74
+	},
+	{
+		"id": 10223,
+		"title": "Gex 3: Deep Cover Gecko",
+		"numAchievements": 55
+	},
+	{
+		"id": 10101,
+		"title": "Gex 64: Enter the Gecko",
+		"numAchievements": 32
+	},
+	{
+		"id": 10309,
+		"title": "Glover",
+		"numAchievements": 49
+	},
+	{
+		"id": 10198,
+		"title": "Goemon's Great Adventure",
+		"numAchievements": 86
+	},
+	{
+		"id": 10073,
+		"title": "GoldenEye 007",
+		"numAchievements": 141
+	},
+	{
+		"id": 10887,
+		"title": "Harukanaru Augusta: Masters '98",
+		"numAchievements": 20
+	},
+	{
+		"id": 10157,
+		"title": "Harvest Moon 64",
+		"numAchievements": 80
+	},
+	{
+		"id": 10468,
+		"title": "Hercules: The Legendary Journeys",
+		"numAchievements": 23
+	},
+	{
+		"id": 10093,
+		"title": "Hexen",
+		"numAchievements": 66
+	},
+	{
+		"id": 10912,
+		"title": "Hot Wheels: Turbo Racing",
+		"numAchievements": 63
+	},
+	{
+		"id": 10683,
+		"title": "Hybrid Heaven",
+		"numAchievements": 99
+	},
+	{
+		"id": 10383,
+		"title": "Hydro Thunder",
+		"numAchievements": 39
+	},
+	{
+		"id": 10795,
+		"title": "Iggy's Reckin' Balls",
+		"numAchievements": 60
+	},
+	{
+		"id": 10165,
+		"title": "Indiana Jones and the Infernal Machine",
+		"numAchievements": 77
+	},
+	{
+		"id": 30,
+		"title": "Jet Force Gemini",
+		"numAchievements": 63
+	},
+	{
+		"id": 11828,
+		"title": "John Romero's Daikatana",
+		"numAchievements": 21
+	},
+	{
+		"id": 10473,
+		"title": "Killer Instinct Gold",
+		"numAchievements": 78
+	},
+	{
+		"id": 10246,
+		"title": "Kirby 64: The Crystal Shards",
+		"numAchievements": 38
+	},
+	{
+		"id": 10168,
+		"title": "LEGO Racers",
+		"numAchievements": 53
+	},
+	{
+		"id": 10476,
+		"title": "Lode Runner 3-D",
+		"numAchievements": 39
+	},
+	{
+		"id": 10934,
+		"title": "MACE: The Dark Age",
+		"numAchievements": 75
+	},
+	{
+		"id": 10871,
+		"title": "Magical Tetris Challenge",
+		"numAchievements": 34
+	},
+	{
+		"id": 10259,
+		"title": "Mario Golf",
+		"numAchievements": 115
+	},
+	{
+		"id": 10078,
+		"title": "Mario Kart 64",
+		"numAchievements": 72
+	},
+	{
+		"id": 10263,
+		"title": "Mario Party",
+		"numAchievements": 56
+	},
+	{
+		"id": 10264,
+		"title": "Mario Party 2",
+		"numAchievements": 45
+	},
+	{
+		"id": 10108,
+		"title": "Mario Party 3",
+		"numAchievements": 72
+	},
+	{
+		"id": 10024,
+		"title": "Mario Tennis",
+		"numAchievements": 97
+	},
+	{
+		"id": 10115,
+		"title": "Mega Man 64",
+		"numAchievements": 61
+	},
+	{
+		"id": 10256,
+		"title": "Mickey's Speedway USA",
+		"numAchievements": 72
+	},
+	{
+		"id": 10485,
+		"title": "Milo's Astro Lanes",
+		"numAchievements": 30
+	},
+	{
+		"id": 10083,
+		"title": "Mischief Makers",
+		"numAchievements": 55
+	},
+	{
+		"id": 10486,
+		"title": "Mission: Impossible",
+		"numAchievements": 37
+	},
+	{
+		"id": 10587,
+		"title": "Monopoly",
+		"numAchievements": 16
+	},
+	{
+		"id": 10393,
+		"title": "Monster Truck Madness 64",
+		"numAchievements": 24
+	},
+	{
+		"id": 10116,
+		"title": "Mortal Kombat 4",
+		"numAchievements": 130
+	},
+	{
+		"id": 10926,
+		"title": "Mortal Kombat Mythologies: Sub-Zero",
+		"numAchievements": 56
+	},
+	{
+		"id": 10114,
+		"title": "Mortal Kombat Trilogy",
+		"numAchievements": 45
+	},
+	{
+		"id": 10487,
+		"title": "MRC: Multi-Racing Championship",
+		"numAchievements": 25
+	},
+	{
+		"id": 10394,
+		"title": "Ms. Pac-Man Maze Madness",
+		"numAchievements": 40
+	},
+	{
+		"id": 10081,
+		"title": "Mystical Ninja Starring Goemon",
+		"numAchievements": 44
+	},
+	{
+		"id": 10489,
+		"title": "Namco Museum 64",
+		"numAchievements": 64
+	},
+	{
+		"id": 10875,
+		"title": "Nightmare Creatures",
+		"numAchievements": 71
+	},
+	{
+		"id": 10086,
+		"title": "Nuclear Strike 64",
+		"numAchievements": 36
+	},
+	{
+		"id": 10382,
+		"title": "Ogre Battle 64: Person of Lordly Caliber",
+		"numAchievements": 116
+	},
+	{
+		"id": 10154,
+		"title": "Paper Mario",
+		"numAchievements": 87
+	},
+	{
+		"id": 10660,
+		"title": "Paperboy",
+		"numAchievements": 88
+	},
+	{
+		"id": 10110,
+		"title": "Perfect Dark",
+		"numAchievements": 130
+	},
+	{
+		"id": 10277,
+		"title": "Pilotwings 64",
+		"numAchievements": 50
+	},
+	{
+		"id": 10650,
+		"title": "Pocket Monsters Stadium",
+		"numAchievements": 19
+	},
+	{
+		"id": 10270,
+		"title": "Pokémon Puzzle League",
+		"numAchievements": 52
+	},
+	{
+		"id": 10155,
+		"title": "Pokémon Snap",
+		"numAchievements": 51
+	},
+	{
+		"id": 10181,
+		"title": "Pokémon Stadium",
+		"numAchievements": 72
+	},
+	{
+		"id": 10258,
+		"title": "Pokémon Stadium 2",
+		"numAchievements": 109
+	},
+	{
+		"id": 13113,
+		"title": "Puyo Puyo Sun 64",
+		"numAchievements": 29
+	},
+	{
+		"id": 10347,
+		"title": "Quake 64",
+		"numAchievements": 95
+	},
+	{
+		"id": 10128,
+		"title": "Quake II",
+		"numAchievements": 69
+	},
+	{
+		"id": 10216,
+		"title": "Quest 64",
+		"numAchievements": 32
+	},
+	{
+		"id": 14721,
+		"title": "Rakugakids",
+		"numAchievements": 42
+	},
+	{
+		"id": 10329,
+		"title": "Rampage 2: Universal Tour",
+		"numAchievements": 25
+	},
+	{
+		"id": 10087,
+		"title": "Rampage: World Tour",
+		"numAchievements": 33
+	},
+	{
+		"id": 10269,
+		"title": "Rayman 2: The Great Escape",
+		"numAchievements": 49
+	},
+	{
+		"id": 10271,
+		"title": "Re-Volt",
+		"numAchievements": 144
+	},
+	{
+		"id": 10077,
+		"title": "Resident Evil 2",
+		"numAchievements": 120
+	},
+	{
+		"id": 10186,
+		"title": "Ridge Racer 64",
+		"numAchievements": 40
+	},
+	{
+		"id": 10238,
+		"title": "Road Rash 64",
+		"numAchievements": 52
+	},
+	{
+		"id": 11514,
+		"title": "Robotron 64",
+		"numAchievements": 31
+	},
+	{
+		"id": 10900,
+		"title": "Rocket: Robot on Wheels",
+		"numAchievements": 33
+	},
+	{
+		"id": 10511,
+		"title": "Rugrats in Paris: The Movie",
+		"numAchievements": 36
+	},
+	{
+		"id": 10430,
+		"title": "Rugrats: Scavenger Hunt",
+		"numAchievements": 31
+	},
+	{
+		"id": 11626,
+		"title": "Rush 2: Extreme Racing USA",
+		"numAchievements": 67
+	},
+	{
+		"id": 10333,
+		"title": "San Francisco Rush 2049",
+		"numAchievements": 65
+	},
+	{
+		"id": 10360,
+		"title": "San Francisco Rush: Extreme Racing",
+		"numAchievements": 50
+	},
+	{
+		"id": 10646,
+		"title": "Scooby-Doo! Classic Creep Capers",
+		"numAchievements": 20
+	},
+	{
+		"id": 10685,
+		"title": "Sesame Street: Elmo's Letter Adventure",
+		"numAchievements": 16
+	},
+	{
+		"id": 10459,
+		"title": "Sesame Street: Elmo's Number Journey",
+		"numAchievements": 18
+	},
+	{
+		"id": 10255,
+		"title": "Shadow Man",
+		"numAchievements": 74
+	},
+	{
+		"id": 10614,
+		"title": "Shadowgate 64: Trials of the Four Towers",
+		"numAchievements": 42
+	},
+	{
+		"id": 21718,
+		"title": "SimCity 64 (64DD)",
+		"numAchievements": 23
+	},
+	{
+		"id": 10119,
+		"title": "Sin and Punishment",
+		"numAchievements": 74
+	},
+	{
+		"id": 10199,
+		"title": "Snowboard Kids",
+		"numAchievements": 25
+	},
+	{
+		"id": 10247,
+		"title": "Snowboard Kids 2",
+		"numAchievements": 44
+	},
+	{
+		"id": 10328,
+		"title": "South Park",
+		"numAchievements": 53
+	},
+	{
+		"id": 10392,
+		"title": "South Park Rally",
+		"numAchievements": 61
+	},
+	{
+		"id": 10627,
+		"title": "South Park: Chef's Luv Shack",
+		"numAchievements": 75
+	},
+	{
+		"id": 10307,
+		"title": "Space Station Silicon Valley",
+		"numAchievements": 68
+	},
+	{
+		"id": 10337,
+		"title": "Spider-Man",
+		"numAchievements": 37
+	},
+	{
+		"id": 10248,
+		"title": "Star Fox 64",
+		"numAchievements": 50
+	},
+	{
+		"id": 10636,
+		"title": "Star Soldier: Vanishing Earth",
+		"numAchievements": 25
+	},
+	{
+		"id": 10163,
+		"title": "Star Wars - Episode I: Battle for Naboo",
+		"numAchievements": 47
+	},
+	{
+		"id": 10161,
+		"title": "Star Wars - Episode I: Racer",
+		"numAchievements": 53
+	},
+	{
+		"id": 10648,
+		"title": "Star Wars: Rogue Squadron",
+		"numAchievements": 49
+	},
+	{
+		"id": 10153,
+		"title": "Star Wars: Shadows of the Empire",
+		"numAchievements": 38
+	},
+	{
+		"id": 10272,
+		"title": "StarCraft 64",
+		"numAchievements": 76
+	},
+	{
+		"id": 14337,
+		"title": "Starshot: Space Circus Fever",
+		"numAchievements": 15
+	},
+	{
+		"id": 10003,
+		"title": "Super Mario 64",
+		"numAchievements": 114
+	},
+	{
+		"id": 10082,
+		"title": "Super Smash Bros.",
+		"numAchievements": 59
+	},
+	{
+		"id": 10310,
+		"title": "Superman: The New Superman Aventures",
+		"numAchievements": 50
+	},
+	{
+		"id": 10298,
+		"title": "Tarzan",
+		"numAchievements": 45
+	},
+	{
+		"id": 10171,
+		"title": "Tetris 64",
+		"numAchievements": 40
+	},
+	{
+		"id": 10172,
+		"title": "Tetrisphere",
+		"numAchievements": 39
+	},
+	{
+		"id": 10679,
+		"title": "The Legend of Zelda: Majora's Mask",
+		"numAchievements": 96
+	},
+	{
+		"id": 10113,
+		"title": "The Legend of Zelda: Ocarina of Time",
+		"numAchievements": 97
+	},
+	{
+		"id": 12984,
+		"title": "The New Tetris",
+		"numAchievements": 27
+	},
+	{
+		"id": 10313,
+		"title": "The Powerpuff Girls: Chemical X-Traction",
+		"numAchievements": 32
+	},
+	{
+		"id": 10514,
+		"title": "Tigger's Honey Hunt",
+		"numAchievements": 19
+	},
+	{
+		"id": 10515,
+		"title": "Tom and Jerry in Fists of Furry",
+		"numAchievements": 36
+	},
+	{
+		"id": 10308,
+		"title": "Tonic Trouble",
+		"numAchievements": 62
+	},
+	{
+		"id": 10124,
+		"title": "Tony Hawk's Pro Skater",
+		"numAchievements": 35
+	},
+	{
+		"id": 10125,
+		"title": "Tony Hawk's Pro Skater 2",
+		"numAchievements": 35
+	},
+	{
+		"id": 10126,
+		"title": "Tony Hawk's Pro Skater 3",
+		"numAchievements": 49
+	},
+	{
+		"id": 10517,
+		"title": "Top Gear Rally",
+		"numAchievements": 52
+	},
+	{
+		"id": 10118,
+		"title": "Toy Story 2: Buzz Lightyear to the Rescue!",
+		"numAchievements": 63
+	},
+	{
+		"id": 10520,
+		"title": "Turok 2: Seeds of Evil",
+		"numAchievements": 42
+	},
+	{
+		"id": 10615,
+		"title": "Turok 3: Shadow of Oblivion",
+		"numAchievements": 51
+	},
+	{
+		"id": 10182,
+		"title": "Turok: Dinosaur Hunter",
+		"numAchievements": 52
+	},
+	{
+		"id": 10519,
+		"title": "Turok: Rage Wars",
+		"numAchievements": 26
+	},
+	{
+		"id": 10089,
+		"title": "Vigilante 8",
+		"numAchievements": 36
+	},
+	{
+		"id": 10617,
+		"title": "Wave Race 64",
+		"numAchievements": 73
+	},
+	{
+		"id": 10530,
+		"title": "WCW vs. nWo: World Tour",
+		"numAchievements": 31
+	},
+	{
+		"id": 10448,
+		"title": "WCW/nWo Revenge",
+		"numAchievements": 42
+	},
+	{
+		"id": 10531,
+		"title": "Wetrix",
+		"numAchievements": 40
+	},
+	{
+		"id": 11608,
+		"title": "WinBack: Covert Operations",
+		"numAchievements": 166
+	},
+	{
+		"id": 10532,
+		"title": "Wipeout 64",
+		"numAchievements": 50
+	},
+	{
+		"id": 10091,
+		"title": "World Driver Championship",
+		"numAchievements": 67
+	},
+	{
+		"id": 10534,
+		"title": "WWF Attitude",
+		"numAchievements": 37
+	},
+	{
+		"id": 10331,
+		"title": "WWF No Mercy",
+		"numAchievements": 36
+	},
+	{
+		"id": 10325,
+		"title": "WWF War Zone",
+		"numAchievements": 64
+	},
+	{
+		"id": 10332,
+		"title": "WWF WrestleMania 2000",
+		"numAchievements": 39
+	},
+	{
+		"id": 10173,
+		"title": "Yoshi's Story",
+		"numAchievements": 93
+	}
+]

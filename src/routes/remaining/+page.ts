@@ -3,9 +3,10 @@ import Papa from 'papaparse';
 import csvRaw from '$lib/data/list.csv?raw';
 import games from '$lib/data/games.json';
 import gameScreenshots from '$lib/data/gameScreenshots.json';
+import gameAchievements from '$lib/data/gameAchievements.json';
 import { SCREENSHOT_BASE_URL, pickScreenshotFilename } from '$lib/screenshots';
 import { pickOtherRegions } from '$lib/regions';
-import type { GamesJsonEntry } from '$lib/types';
+import type { GameAchievementsEntry, GamesJsonEntry } from '$lib/types';
 
 type CsvRow = { wiki_id: string };
 
@@ -23,6 +24,9 @@ export async function load() {
 			const screenshotFilename = pickScreenshotFilename(
 				gameScreenshots[game.id as keyof typeof gameScreenshots]
 			);
+			const raEntry = gameAchievements[game.id as keyof typeof gameAchievements] as
+				| GameAchievementsEntry
+				| undefined;
 
 			return {
 				id: game.id,
@@ -37,7 +41,11 @@ export async function load() {
 					wikiUrl: game.wikiUrl ?? null,
 					screenshotUrl: screenshotFilename
 						? `${SCREENSHOT_BASE_URL}${encodeURIComponent(screenshotFilename)}`
-						: null
+						: null,
+					retroAchievementsUrl: raEntry
+						? `https://retroachievements.org/game/${raEntry.id}`
+						: null,
+					achievementCount: raEntry?.numAchievements ?? null
 				}
 			};
 		})

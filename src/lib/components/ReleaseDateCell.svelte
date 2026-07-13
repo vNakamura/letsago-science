@@ -6,7 +6,7 @@
 	let { game }: { game: GameWikiData } = $props();
 </script>
 
-<div class="flex flex-col items-center gap-1">
+<div class="flex flex-col items-center">
 	<span>{formatDate(game.releaseDateNA)}</span>
 	{#if game.otherReleaseDates}
 		{#each Object.entries(game.otherReleaseDates) as [region, date] (region)}

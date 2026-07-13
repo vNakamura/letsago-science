@@ -16,7 +16,9 @@
 		"cf-typegen": "wrangler types src/worker-configuration.d.ts",
 		"parse-games": "node scripts/parseGames.js",
 		"parse-screenshots": "node scripts/parseScreenshots.js",
-		"match-screenshots": "node scripts/matchScreenshots.js"
+		"match-screenshots": "node scripts/matchScreenshots.js",
+		"parse-retroachievements": "node --env-file=.env scripts/parseRetroAchievements.js",
+		"match-retroachievements": "node scripts/matchRetroAchievements.js"
 	},
 	"devDependencies": {
 		"@eslint/js": "^10.0.1",

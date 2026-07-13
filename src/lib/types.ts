@@ -9,6 +9,9 @@ export type GamesJsonEntry = {
 	otherPublishers?: Record<string, string>;
 };
 
+export type RetroAchievementsEntry = { id: number; title: string; numAchievements: number };
+export type GameAchievementsEntry = { id: number; numAchievements: number };
+
 export type GameWikiData = {
 	title: string;
 	otherTitles: Record<string, string> | null;
@@ -19,4 +22,6 @@ export type GameWikiData = {
 	otherReleaseDates: Record<string, string> | null;
 	wikiUrl: string | null;
 	screenshotUrl: string | null;
+	retroAchievementsUrl: string | null;
+	achievementCount: number | null;
 };
