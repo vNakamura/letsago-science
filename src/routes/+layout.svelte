@@ -42,7 +42,7 @@
 
 	<title>{title}</title>
 </svelte:head>
-<div class="mx-auto flex min-h-screen w-full max-w-300 flex-col gap-4 p-4">
+<div class="mx-auto flex min-h-screen w-full max-w-300 flex-col gap-4 p-2 md:p-4">
 	<header class="flex flex-wrap items-center justify-start gap-8 py-16">
 		<h1 class="w-80 text-logo" aria-label={mainTitle}>
 			<LogoSVG />

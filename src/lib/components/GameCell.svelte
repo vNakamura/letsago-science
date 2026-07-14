@@ -8,14 +8,14 @@
 	let hasLinks = $derived(game.wikiUrl || game.retroAchievementsUrl);
 </script>
 
-<div class="flex items-center gap-2">
+<div class="flex items-start gap-2">
 	{#if game.screenshotUrl}
 		<img src={game.screenshotUrl} alt="" loading="lazy" class="h-16 w-auto rounded-md" />
 	{/if}
 	<div class="flex flex-col">
 		<span class="text-md font-bold">{game.title}</span>
 		{#if game.otherTitles}
-			<span class="flex items-center gap-1 text-xs"
+			<span class="flex items-center gap-1 text-xs max-md:hidden"
 				><span class="icon-[ion--globe]"></span>
 				<span class="text-xs text-ellipsis text-foreground/60" title={aka}>{aka}</span>
 			</span>
@@ -27,27 +27,29 @@
 			>
 		{/if}
 		{#if hasLinks}
-			<span class="flex items-center gap-2 text-xs"
-				><span class="icon-[ion--link]"></span>
-				{#if game.wikiUrl}
-					<a
-						href={game.wikiUrl}
-						rel="external"
-						target="_blank"
-						class="flex items-center gap-1 text-foreground/60"
-						><span class="icon-[ion--newspaper]"></span>Wikipedia
-					</a>{/if}
-				{#if game.retroAchievementsUrl}
-					<a
-						href={game.retroAchievementsUrl}
-						rel="external"
-						target="_blank"
-						class="flex items-center gap-1 text-foreground/60"
-					>
-						<span class="icon-[ion--trophy]"></span>
-						{game.achievementCount} achievements
-					</a>
-				{/if}
+			<span class="flex-start flex gap-1">
+				<span class="icon-[ion--link]"></span>
+				<span class="flex flex-col items-start text-xs md:flex-row md:gap-2">
+					{#if game.wikiUrl}
+						<a
+							href={game.wikiUrl}
+							rel="external"
+							target="_blank"
+							class="flex items-center gap-1 text-foreground/60"
+							><span class="icon-[ion--newspaper]"></span>Wikipedia
+						</a>{/if}
+					{#if game.retroAchievementsUrl}
+						<a
+							href={game.retroAchievementsUrl}
+							rel="external"
+							target="_blank"
+							class="flex items-center gap-1 text-foreground/60"
+						>
+							<span class="icon-[ion--trophy]"></span>
+							{game.achievementCount} achievements
+						</a>
+					{/if}
+				</span>
 			</span>
 		{/if}
 	</div>

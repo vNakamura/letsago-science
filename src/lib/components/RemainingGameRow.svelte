@@ -11,10 +11,10 @@
 	<td>
 		<GameCell {game} />
 	</td>
-	<td>
+	<td class="max-md:hidden">
 		<PublisherCell {game} />
 	</td>
-	<td>
+	<td class="max-md:hidden">
 		<ReleaseDateCell {game} />
 	</td>
 </tr>

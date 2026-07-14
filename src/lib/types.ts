@@ -25,3 +25,5 @@ export type GameWikiData = {
 	retroAchievementsUrl: string | null;
 	achievementCount: number | null;
 };
+
+export type SortKey = 'rank' | 'game' | 'ep' | 'seconds' | 'publisher' | 'releaseDateNA';

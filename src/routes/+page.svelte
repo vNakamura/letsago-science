@@ -1,7 +1,7 @@
 <script lang="ts">
 	import TableColumnHeader from '$lib/components/TableColumnHeader.svelte';
 	import GameRow from '$lib/components/GameRow.svelte';
-	import type { GameWikiData } from '$lib/types';
+	import type { GameWikiData, SortKey } from '$lib/types';
 
 	type Row = {
 		rank: number;
@@ -10,7 +10,6 @@
 		ytid: string;
 		seconds: number;
 	};
-	type SortKey = 'rank' | 'game' | 'ep' | 'seconds' | 'publisher' | 'releaseDateNA';
 
 	let { data } = $props();
 	let sortKey = $state<SortKey>('rank');
@@ -28,11 +27,12 @@
 	const comparators: Record<SortKey, (a: Row, b: Row) => number> = {
 		rank: (a, b) => a.rank - b.rank,
 		game: (a, b) => a.game.title.localeCompare(b.game.title),
-		ep: (a, b) => a.ep - b.ep,
+		ep: (a, b) => a.ep - b.ep || a.rank - b.rank,
 		seconds: (a, b) => a.ep - b.ep || a.seconds - b.seconds,
-		publisher: (a, b) => (a.game.publisher ?? '').localeCompare(b.game.publisher ?? ''),
+		publisher: (a, b) =>
+			(a.game.publisher ?? '').localeCompare(b.game.publisher ?? '') || a.rank - b.rank,
 		releaseDateNA: (a, b) =>
-			(a.game.releaseDateNA ?? '').localeCompare(b.game.releaseDateNA ?? '')
+			(a.game.releaseDateNA ?? '').localeCompare(b.game.releaseDateNA ?? '') || a.rank - b.rank
 	};
 
 	let items = $derived.by(() => {
@@ -45,19 +45,38 @@
 
 <table>
 	<thead>
-		<tr>
-			<TableColumnHeader key="rank" {sortKey} {sortAsc} onSort={handleSort}>Rank</TableColumnHeader>
-			<TableColumnHeader key="game" {sortKey} {sortAsc} onSort={handleSort}>Game</TableColumnHeader>
-			<TableColumnHeader key="publisher" {sortKey} {sortAsc} onSort={handleSort}
-				>Publisher</TableColumnHeader
+		<tr class="sticky -top-1 z-10">
+			<TableColumnHeader key="rank" {sortKey} {sortAsc} onSort={handleSort}>
+				<span class="max-md:hidden">Rank</span>
+				<span class="md:hidden">#</span>
+			</TableColumnHeader>
+			<TableColumnHeader key="game" {sortKey} {sortAsc} onSort={handleSort} twClasses="text-left"
+				>Game</TableColumnHeader
 			>
-			<TableColumnHeader key="releaseDateNA" {sortKey} {sortAsc} onSort={handleSort}
-				>Release Date</TableColumnHeader
+			<TableColumnHeader
+				key="publisher"
+				{sortKey}
+				{sortAsc}
+				onSort={handleSort}
+				twClasses="text-left max-lg:hidden">Publisher</TableColumnHeader
 			>
-			<TableColumnHeader key="ep" {sortKey} {sortAsc} onSort={handleSort}>Episode</TableColumnHeader
+			<TableColumnHeader
+				key="releaseDateNA"
+				{sortKey}
+				{sortAsc}
+				onSort={handleSort}
+				twClasses="text-right max-md:hidden"
+				>Release<span class="max-lg:hidden"> Date</span></TableColumnHeader
 			>
-			<TableColumnHeader key="seconds" {sortKey} {sortAsc} onSort={handleSort}
-				>Timestamp</TableColumnHeader
+			<TableColumnHeader key="ep" {sortKey} {sortAsc} onSort={handleSort} twClasses="text-right"
+				>Episode</TableColumnHeader
+			>
+			<TableColumnHeader
+				key="seconds"
+				{sortKey}
+				{sortAsc}
+				onSort={handleSort}
+				twClasses="text-right max-md:hidden">Timestamp</TableColumnHeader
 			>
 		</tr>
 	</thead>

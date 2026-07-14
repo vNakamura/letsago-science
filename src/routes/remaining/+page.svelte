@@ -1,16 +1,15 @@
 <script lang="ts">
 	import RemainingGameRow from '$lib/components/RemainingGameRow.svelte';
 	import TableColumnHeader from '$lib/components/TableColumnHeader.svelte';
-	import type { GameWikiData } from '$lib/types';
+	import type { GameWikiData, SortKey } from '$lib/types';
 
 	type Row = {
 		id: string;
 		game: GameWikiData;
 	};
-	type SortKey = 'title' | 'publisher' | 'releaseDateNA';
 
 	let { data } = $props();
-	let sortKey = $state<SortKey>('title');
+	let sortKey = $state<SortKey>('game');
 	let sortAsc = $state(true);
 
 	function handleSort(key: SortKey) {
@@ -23,7 +22,7 @@
 	}
 
 	const comparators: Record<SortKey, (a: Row, b: Row) => number> = {
-		title: (a, b) => a.game.title.localeCompare(b.game.title),
+		game: (a, b) => a.game.title.localeCompare(b.game.title),
 		publisher: (a, b) => (a.game.publisher ?? '').localeCompare(b.game.publisher ?? ''),
 		releaseDateNA: (a, b) => (a.game.releaseDateNA ?? '').localeCompare(b.game.releaseDateNA ?? '')
 	};
@@ -40,13 +39,22 @@
 <table>
 	<thead>
 		<tr>
-			<TableColumnHeader key="title" {sortKey} {sortAsc} onSort={handleSort}>Game</TableColumnHeader
+			<TableColumnHeader key="game" {sortKey} {sortAsc} onSort={handleSort} twClasses="md:text-left"
+				>Game</TableColumnHeader
 			>
-			<TableColumnHeader key="publisher" {sortKey} {sortAsc} onSort={handleSort}
-				>Publisher</TableColumnHeader
+			<TableColumnHeader
+				key="publisher"
+				{sortKey}
+				{sortAsc}
+				onSort={handleSort}
+				twClasses="text-left max-md:hidden">Publisher</TableColumnHeader
 			>
-			<TableColumnHeader key="releaseDateNA" {sortKey} {sortAsc} onSort={handleSort}
-				>Release Date</TableColumnHeader
+			<TableColumnHeader
+				key="releaseDateNA"
+				{sortKey}
+				{sortAsc}
+				onSort={handleSort}
+				twClasses="text-right max-md:hidden">Release Date</TableColumnHeader
 			>
 		</tr>
 	</thead>
