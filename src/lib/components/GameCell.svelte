@@ -1,8 +1,9 @@
 <script lang="ts">
 	import type { GameWikiData } from '$lib/types';
 	import { formatOtherRegions } from '$lib/regions';
+	import { handleImageFallback } from '$lib/screenshots';
 
-	let { game }: { game: GameWikiData } = $props();
+	let { game, onZoom }: { game: GameWikiData; onZoom?: (game: GameWikiData) => void } = $props();
 	let aka = $derived(game.otherTitles && formatOtherRegions(game.otherTitles));
 	let devs = $derived(game.developers.join(', '));
 	let hasLinks = $derived(game.wikiUrl || game.retroAchievementsUrl);
@@ -10,7 +11,25 @@
 
 <div class="flex items-start gap-2">
 	{#if game.screenshotUrl}
-		<img src={game.screenshotUrl} alt="" loading="lazy" class="h-16 w-auto rounded-md" />
+		<button
+			type="button"
+			onclick={() => onZoom?.(game)}
+			class="group relative shrink-0 cursor-pointer"
+			aria-label={`Zoom ${game.title} screenshots`}
+		>
+			<img
+				src={game.screenshotUrl}
+				alt=""
+				loading="lazy"
+				class="h-16 w-auto rounded-md"
+				onerror={handleImageFallback(game.screenshotFallbackUrl)}
+			/>
+			<div
+				class="pointer-none: absolute inset-0 flex items-center justify-center rounded-md bg-black/50 opacity-0 transition-opacity group-hover:opacity-100"
+			>
+				<span class="icon-[lucide--zoom-in] text-lg text-white"></span>
+			</div>
+		</button>
 	{/if}
 	<div class="flex flex-col">
 		<span class="text-md font-bold">{game.title}</span>

@@ -63,36 +63,54 @@ for (const game of naGames) {
 	}
 }
 
-const matched = {};
-const unmatched = [];
+function matchType(filenames) {
+	const matched = {};
+	const unmatched = [];
 
-for (const filename of screenshots) {
-	if (overrides[filename]) {
-		(matched[overrides[filename]] ??= []).push(filename);
-		continue;
+	for (const filename of filenames) {
+		if (overrides[filename]) {
+			(matched[overrides[filename]] ??= []).push(filename);
+			continue;
+		}
+
+		const key = normalize(reconstructTitle(filename));
+		const gameId = titleIndex.get(key);
+		if (gameId) {
+			(matched[gameId] ??= []).push(filename);
+		} else {
+			unmatched.push(filename);
+		}
 	}
 
-	const key = normalize(reconstructTitle(filename));
-	const gameId = titleIndex.get(key);
-	if (gameId) {
-		(matched[gameId] ??= []).push(filename);
-	} else {
-		unmatched.push(filename);
-	}
+	for (const list of Object.values(matched)) list.sort();
+	return { matched, unmatched };
 }
 
-for (const list of Object.values(matched)) list.sort();
+const matched = {};
+const results = {};
+for (const type of Object.keys(screenshots)) {
+	results[type] = matchType(screenshots[type]);
+	for (const [gameId, filenames] of Object.entries(results[type].matched)) {
+		(matched[gameId] ??= {})[type] = filenames;
+	}
+}
 
 const outputPath = './src/lib/data/gameScreenshots.json';
 writeFileSync(outputPath, JSON.stringify(matched, null, '\t'));
 
-const matchedGameCount = Object.keys(matched).length;
+const { matched: titlesMatched, unmatched: titlesUnmatched } = results.titles;
 console.log(
-	`Matched ${screenshots.length - unmatched.length}/${screenshots.length} screenshots to ${matchedGameCount}/${naGames.length} NA games.`
+	`Matched ${screenshots.titles.length - titlesUnmatched.length}/${screenshots.titles.length} titles to ${Object.keys(titlesMatched).length}/${naGames.length} NA games.`
 );
+for (const [type, { matched: typeMatched, unmatched: typeUnmatched }] of Object.entries(results)) {
+	if (type === 'titles') continue;
+	console.log(
+		`Matched ${screenshots[type].length - typeUnmatched.length}/${screenshots[type].length} ${type} to ${Object.keys(typeMatched).length}/${naGames.length} NA games.`
+	);
+}
 
-const unmatchedGames = naGames.filter((game) => !matched[game.id]);
+const unmatchedGames = naGames.filter((game) => !titlesMatched[game.id]);
 if (unmatchedGames.length) {
-	console.log(`\n${unmatchedGames.length} NA games with no matched screenshot:`);
+	console.log(`\n${unmatchedGames.length} NA games with no matched title screenshot:`);
 	for (const game of unmatchedGames) console.log(`  ${game.title} (${game.id})`);
 }

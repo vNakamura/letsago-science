@@ -1,7 +1,8 @@
 <script lang="ts">
 	import TableColumnHeader from '$lib/components/TableColumnHeader.svelte';
 	import GameRow from '$lib/components/GameRow.svelte';
-	import type { GameWikiData, SortKey } from '$lib/types';
+	import ImageZoomModal from '$lib/components/ImageZoomModal.svelte';
+	import type { GameWikiData, RankedSortKey } from '$lib/types';
 
 	type Row = {
 		rank: number;
@@ -12,10 +13,11 @@
 	};
 
 	let { data } = $props();
-	let sortKey = $state<SortKey>('rank');
+	let sortKey = $state<RankedSortKey>('rank');
 	let sortAsc = $state(true);
+	let zoomGame = $state<GameWikiData | null>(null);
 
-	function handleSort(key: SortKey) {
+	function handleSort(key: RankedSortKey) {
 		if (sortKey === key) {
 			sortAsc = !sortAsc;
 		} else {
@@ -24,7 +26,7 @@
 		}
 	}
 
-	const comparators: Record<SortKey, (a: Row, b: Row) => number> = {
+	const comparators: Record<RankedSortKey, (a: Row, b: Row) => number> = {
 		rank: (a, b) => a.rank - b.rank,
 		game: (a, b) => a.game.title.localeCompare(b.game.title),
 		ep: (a, b) => a.ep - b.ep || a.rank - b.rank,
@@ -82,7 +84,9 @@
 	</thead>
 	<tbody>
 		{#each items as row (row.rank)}
-			<GameRow {...row} />
+			<GameRow {...row} onZoom={(game) => (zoomGame = game)} />
 		{/each}
 	</tbody>
 </table>
+
+<ImageZoomModal game={zoomGame} onClose={() => (zoomGame = null)} />

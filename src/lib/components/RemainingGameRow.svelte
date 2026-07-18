@@ -4,12 +4,12 @@
 	import PublisherCell from './PublisherCell.svelte';
 	import ReleaseDateCell from './ReleaseDateCell.svelte';
 
-	let { game }: { game: GameWikiData } = $props();
+	let { game, onZoom }: { game: GameWikiData; onZoom?: (game: GameWikiData) => void } = $props();
 </script>
 
 <tr>
 	<td>
-		<GameCell {game} />
+		<GameCell {game} {onZoom} />
 	</td>
 	<td class="max-md:hidden">
 		<PublisherCell {game} />

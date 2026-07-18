@@ -1,7 +1,6 @@
-<script lang="ts">
+<script lang="ts" generics="T extends string">
 	import SortIndicator from '$lib/components/SortIndicator.svelte';
 	import type { Snippet } from 'svelte';
-	import type { SortKey } from '$lib/types';
 	let {
 		key,
 		sortKey,
@@ -10,10 +9,10 @@
 		children,
 		twClasses = ''
 	}: {
-		key: SortKey;
-		sortKey: SortKey;
+		key: T;
+		sortKey: T;
 		sortAsc: boolean;
-		onSort: (key: SortKey) => void;
+		onSort: (key: T) => void;
 		children: Snippet;
 		twClasses?: string;
 	} = $props();

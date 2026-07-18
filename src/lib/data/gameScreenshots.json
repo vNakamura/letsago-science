@@ -1,1338 +1,4613 @@
 {
-	"The_World_Is_Not_Enough_(Nintendo_64_video_game)": [
-		"007 - The World Is Not Enough (USA).png"
-	],
-	"1080°_Snowboarding": [
-		"1080 Snowboarding (Japan, USA) (En,Ja).png"
-	],
-	"Aero_Fighters_Assault": [
-		"AeroFighters Assault (USA).png"
-	],
-	"AeroGauge": [
-		"AeroGauge (Europe) (En,Fr,De).png",
-		"AeroGauge (Japan) (Demo) (Kiosk).png",
-		"AeroGauge (Japan) (Rev 1).png",
-		"AeroGauge (USA).png"
-	],
-	"Aidyn_Chronicles:_The_First_Mage": [
-		"Aidyn Chronicles - The First Mage (Europe).png",
-		"Aidyn Chronicles - The First Mage (USA) (Beta) (2000-02-10).png",
-		"Aidyn Chronicles - The First Mage (USA) (Beta) (2000-05-09).png",
-		"Aidyn Chronicles - The First Mage (USA) (Rev 1).png",
-		"Aidyn Chronicles - The First Mage (USA).png"
-	],
-	"All_Star_Tennis_'99": [
-		"All Star Tennis '99 (Europe) (En,Fr,De,Es,It).png",
-		"All Star Tennis 99 (USA).png"
-	],
-	"All-Star_Baseball_2000": [
-		"All-Star Baseball 2000 (Europe).png",
-		"All-Star Baseball 2000 (USA).png"
-	],
-	"All-Star_Baseball_2001": [
-		"All-Star Baseball 2001 (USA).png"
-	],
-	"All-Star_Baseball_99": [
-		"All-Star Baseball 99 (Europe).png",
-		"All-Star Baseball 99 (USA).png"
-	],
-	"Armorines:_Project_S.W.A.R.M.": [
-		"Armorines - Project S.W.A.R.M. (Europe).png",
-		"Armorines - Project S.W.A.R.M. (Germany).png",
-		"Armorines - Project S.W.A.R.M. (USA).png"
-	],
-	"Army_Men:_Air_Attack": [
-		"Army Men - Air Combat (USA).png"
-	],
-	"Army_Men:_Sarge's_Heroes": [
-		"Army Men - Sarge's Heroes (Europe) (En,Fr,De).png",
-		"Army Men - Sarge's Heroes (USA).png"
-	],
-	"Army_Men:_Sarge's_Heroes_2": [
-		"Army Men - Sarge's Heroes 2 (USA).png"
-	],
-	"Asteroids_(video_game)_Re-releases": [
-		"Asteroids Hyper 64 (USA).png"
-	],
-	"Automobili_Lamborghini_(video_game)": [
-		"Automobili Lamborghini (Europe).png",
-		"Automobili Lamborghini (USA).png",
-		"Super Speed Race 64 (Japan).png"
-	],
-	"Bomberman_64_(1997_video_game)": [
-		"Baku Bomberman (Japan).png",
-		"Bomberman 64 (Europe).png",
-		"Bomberman 64 (Japan).png",
-		"Bomberman 64 (USA).png"
-	],
-	"Bomberman_64:_The_Second_Attack!": [
-		"Baku Bomberman 2 (Japan).png",
-		"Bomberman 64 - The Second Attack! (USA).png"
-	],
-	"Banjo-Kazooie_(video_game)": [
-		"Banjo-Kazooie (Europe) (En,Fr,De).png",
-		"Banjo-Kazooie (USA) (Rev 1).png",
-		"Banjo-Kazooie (USA).png"
-	],
-	"Banjo-Tooie": [
-		"Banjo-Tooie (Australia).png",
-		"Banjo-Tooie (Europe) (En,Fr,De,Es).png",
-		"Banjo-Tooie (USA).png"
-	],
-	"Bass_Masters_2000": [
-		"Bassmasters 2000 (USA).png"
-	],
-	"Batman_Beyond:_Return_of_the_Joker_(video_game)": [
-		"Batman Beyond - Return of the Joker (USA).png",
-		"Batman of the Future - Return of the Joker (Europe) (En,Fr,De).png"
-	],
-	"BattleTanx": [
-		"BattleTanx (USA).png"
-	],
-	"BattleTanx:_Global_Assault": [
-		"BattleTanx - Global Assault (Europe) (En,Fr,De).png",
-		"BattleTanx - Global Assault (USA).png"
-	],
-	"Battlezone_(1998_video_game)_Nintendo_64_port": [
-		"Battlezone - Rise of the Black Dogs (USA).png"
-	],
-	"Beetle_Adventure_Racing": [
-		"Beetle Adventure Racing! (Europe) (En,Fr,De).png",
-		"Beetle Adventure Racing! (Japan).png",
-		"Beetle Adventure Racing! (USA) (En,Fr,De).png",
-		"HSV Adventure Racing! (Australia).png"
-	],
-	"Big_Mountain_2000": [
-		"Big Mountain 2000 (USA).png"
-	],
-	"Bio_F.R.E.A.K.S.": [
-		"Bio F.R.E.A.K.S. (Europe).png",
-		"Bio F.R.E.A.K.S. (USA).png"
-	],
-	"Blast_Corps": [
-		"Blast Corps (Europe) (En,De).png",
-		"Blast Corps (USA) (Rev 1).png",
-		"Blast Corps (USA).png"
-	],
-	"Blues_Brothers_2000_(video_game)": [
-		"Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl).png",
-		"Blues Brothers 2000 (USA).png"
-	],
-	"Body_Harvest": [
-		"Body Harvest (Europe) (En,Fr,De).png",
-		"Body Harvest (USA).png"
-	],
-	"Bomberman_Hero": [
-		"Bomberman Hero (Europe).png",
-		"Bomberman Hero (USA).png"
-	],
-	"Bottom_of_the_9th": [
-		"Bottom of the 9th (USA).png"
-	],
-	"Brunswick_Circuit_Pro_Bowling": [
-		"Brunswick Circuit Pro Bowling (USA).png"
-	],
-	"Buck_Bumble": [
-		"Buck Bumble (Europe) (En,Fr,De,Es,It).png",
-		"Buck Bumble (Japan).png",
-		"Buck Bumble (USA).png"
-	],
-	"A_Bug's_Life_(video_game)": [
-		"Bug's Life, A (Europe).png",
-		"Bug's Life, A (France).png",
-		"Bug's Life, A (Germany).png",
-		"Bug's Life, A (Italy).png",
-		"Bug's Life, A (USA).png"
-	],
-	"Puzzle_Bobble_3": [
-		"Bust-A-Move '99 (USA).png",
-		"Bust-A-Move 3 DX (Europe).png",
-		"Puzzle Bobble 64 (Japan).png"
-	],
-	"Puzzle_Bobble_2": [
-		"Bust-A-Move 2 - Arcade Edition (Europe).png",
-		"Bust-A-Move 2 - Arcade Edition (USA).png"
-	],
-	"California_Speed_(video_game)": [
-		"California Speed (Europe) (Proto).png",
-		"California Speed (USA).png"
-	],
-	"Carmageddon_II:_Carpocalypse_Now": [
-		"Carmageddon 64 (Europe) (En,Fr,De,Es).png",
-		"Carmageddon 64 (Europe) (En,Fr,Es,It).png",
-		"Carmageddon 64 (USA).png"
-	],
-	"Castlevania_(1999_video_game)": [
-		"Castlevania (Europe) (En,Fr,De).png",
-		"Castlevania (USA) (Rev 1).png",
-		"Castlevania (USA) (Rev 2).png",
-		"Castlevania (USA).png"
-	],
-	"Castlevania:_Legacy_of_Darkness": [
-		"Castlevania - Legacy of Darkness (Europe) (En,Fr,De).png",
-		"Castlevania - Legacy of Darkness (USA).png"
-	],
-	"Chameleon_Twist": [
-		"Chameleon Twist (Europe).png",
-		"Chameleon Twist (Japan).png",
-		"Chameleon Twist (USA) (Rev 1).png",
-		"Chameleon Twist (USA).png"
-	],
-	"Chameleon_Twist_2": [
-		"Chameleon Twist 2 (Europe).png",
-		"Chameleon Twist 2 (Japan).png",
-		"Chameleon Twist 2 (USA).png"
-	],
-	"The_Bombing_Islands_Charlie_Blast's_Territory": [
-		"Charlie Blast's Territory (Europe).png",
-		"Charlie Blast's Territory (USA).png"
-	],
-	"Chopper_Attack": [
-		"Chopper Attack (Europe).png",
-		"Chopper Attack (USA).png"
-	],
-	"Penny_Racers_(1998_video_game)": [
-		"Choro Q 64 (Japan).png",
-		"Penny Racers (Europe).png",
-		"Penny Racers (USA).png"
-	],
-	"ClayFighter_63⅓_ClayFighter:_Sculptor's_Cut": [
-		"Clay Fighter - Sculptor's Cut (USA).png"
-	],
-	"ClayFighter_63⅓": [
-		"Clay Fighter 63 1-3 (USA).png"
-	],
-	"Command_&_Conquer_(1995_video_game)_Release": [
-		"Command _ Conquer (Europe) (En,Fr).png",
-		"Command _ Conquer (Germany).png",
-		"Command _ Conquer (USA).png"
-	],
-	"Conker's_Bad_Fur_Day": [
-		"Conker's Bad Fur Day (Europe).png",
-		"Conker's Bad Fur Day (USA) (Beta) (2000-10-25).png",
-		"Conker's Bad Fur Day (USA) (Beta) (ECTS 2000) (2000-08-26).png",
-		"Conker's Bad Fur Day (USA).png"
-	],
-	"Cruis'n_Exotica": [
-		"Cruis'n Exotica (USA).png"
-	],
-	"Cruis'n_USA": [
-		"Cruis'n USA (Europe).png",
-		"Cruis'n USA (USA) (Rev 1).png",
-		"Cruis'n USA (USA) (Rev 2).png",
-		"Cruis'n USA (USA) (Wii Virtual Console).png",
-		"Cruis'n USA (USA).png"
-	],
-	"Cruis'n_World": [
-		"Cruis'n World (Europe) (Rev 1).png",
-		"Cruis'n World (Europe).png",
-		"Cruis'n World (USA).png"
-	],
-	"CyberTiger": [
-		"CyberTiger (Europe).png",
-		"CyberTiger (USA).png"
-	],
-	"Duck_Dodgers_Starring_Daffy_Duck": [
-		"Daffy Duck Starring as Duck Dodgers (Europe) (En,Fr,De,Es,It,Nl).png",
-		"Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta) (2000-03-07).png",
-		"Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es).png"
-	],
-	"Dark_Rift": [
-		"Dark Rift (Europe).png",
-		"Dark Rift (USA).png"
-	],
-	"G.A.S.P!!_Fighters'_NEXTream": [
-		"Deadly Arts (USA).png",
-		"G.A.S.P!! Fighters' NEXTream (Europe).png",
-		"G.A.S.P!! Fighters' NEXTream (Japan).png"
-	],
-	"Destruction_Derby_64": [
-		"Destruction Derby 64 (Europe) (En,Fr,De).png",
-		"Destruction Derby 64 (USA).png"
-	],
-	"Diddy_Kong_Racing": [
-		"Diddy Kong Racing (Europe) (En,Fr,De) (Rev 1).png",
-		"Diddy Kong Racing (Europe) (En,Fr,De).png",
-		"Diddy Kong Racing (Japan).png",
-		"Diddy Kong Racing (USA) (En,Fr) (Rev 1).png",
-		"Diddy Kong Racing (USA) (En,Fr).png"
-	],
-	"Donald_Duck:_Goin'_Quackers": [
-		"Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It).png",
-		"Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It).png"
-	],
-	"Donkey_Kong_64": [
-		"Donkey Kong 64 (Europe) (En,Fr,De,Es).png",
-		"Donkey Kong 64 (Japan).png",
-		"Donkey Kong 64 (USA) (Demo) (Kiosk).png",
-		"Donkey Kong 64 (USA).png"
-	],
-	"Doom_64": [
-		"Doom 64 (Europe).png",
-		"Doom 64 (Japan).png",
-		"Doom 64 (USA) (Rev 1).png",
-		"Doom 64 (USA).png"
-	],
-	"Dr._Mario_64": [
-		"Dr. Mario 64 (USA).png"
-	],
-	"Dual_Heroes": [
-		"Dual Heroes (Europe).png",
-		"Dual Heroes (Japan).png",
-		"Dual Heroes (USA).png"
-	],
-	"Duke_Nukem:_Zero_Hour": [
-		"Duke Nukem - Zero Hour (Europe).png",
-		"Duke Nukem - Zero Hour (France).png",
-		"Duke Nukem - Zero Hour (USA).png"
-	],
-	"Duke_Nukem_3D_Console_versions_and_add-ons": [
-		"Duke Nukem 64 (Europe) (Beta).png",
-		"Duke Nukem 64 (Europe).png",
-		"Duke Nukem 64 (France).png",
-		"Duke Nukem 64 (USA).png"
-	],
-	"ECW_Hardcore_Revolution": [
-		"ECW Hardcore Revolution (Europe).png",
-		"ECW Hardcore Revolution (Germany).png",
-		"ECW Hardcore Revolution (USA).png"
-	],
-	"Earthworm_Jim_3D": [
-		"Earthworm Jim 3D (Europe) (En,Fr,De,Es,It).png",
-		"Earthworm Jim 3D (USA).png"
-	],
-	"Excitebike_64": [
-		"Excitebike 64 (Europe).png",
-		"Excitebike 64 (Japan).png",
-		"Excitebike 64 (USA) (Demo) (Kiosk).png",
-		"Excitebike 64 (USA) (Rev 1).png",
-		"Excitebike 64 (USA).png"
-	],
-	"Extreme-G": [
-		"Extreme-G (Europe) (En,Fr,De,Es,It).png",
-		"Extreme-G (Japan).png",
-		"Extreme-G (USA).png"
-	],
-	"Extreme-G_2": [
-		"Extreme-G XG2 (USA).png"
-	],
-	"F-1_World_Grand_Prix": [
-		"F-1 World Grand Prix (Europe) (Beta).png",
-		"F-1 World Grand Prix (Europe).png",
-		"F-1 World Grand Prix (France).png",
-		"F-1 World Grand Prix (Germany).png",
-		"F-1 World Grand Prix (Japan).png",
-		"F-1 World Grand Prix (USA).png"
-	],
-	"F-Zero_X": [
-		"F-Zero X (Europe).png",
-		"F-Zero X (Japan).png",
-		"F-Zero X (USA).png"
-	],
-	"F1_Pole_Position_64": [
-		"F1 Pole Position 64 (Europe) (En,Fr,De).png",
-		"F1 Pole Position 64 (USA) (En,Fr,De).png",
-		"Human Grand Prix - The New Generation (Japan).png"
-	],
-	"FIFA:_Road_to_World_Cup_98": [
-		"FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv).png",
-		"FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv).png"
-	],
-	"FIFA_Soccer_64": [
-		"FIFA 64 (Europe) (En,Fr,De).png",
-		"FIFA Soccer 64 (USA) (En,Fr,De).png"
-	],
-	"FIFA_99": [
-		"FIFA 99 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).png",
-		"FIFA 99 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv).png"
-	],
-	"Fighters_Destiny_Sequel": [
-		"Fighter Destiny 2 (USA).png"
-	],
-	"Fighters_Destiny": [
-		"Fighters Destiny (Europe).png",
-		"Fighters Destiny (France).png",
-		"Fighters Destiny (Germany).png",
-		"Fighters Destiny (USA).png"
-	],
-	"Fighting_Force": [
-		"Fighting Force 64 (Europe).png",
-		"Fighting Force 64 (USA).png"
-	],
-	"Flying_Dragon": [
-		"Flying Dragon (Europe).png",
-		"Flying Dragon (USA).png"
-	],
-	"Forsaken_64": [
-		"Forsaken (Europe) (En,Fr,Es,It).png",
-		"Forsaken (Germany).png",
-		"Forsaken 64 (USA).png"
-	],
-	"Fox_Sports_College_Hoops_'99": [
-		"Fox Sports College Hoops '99 (USA).png"
-	],
-	"GT_64:_Championship_Edition": [
-		"GT 64 - Championship Edition (Europe) (En,Fr,De).png",
-		"GT 64 - Championship Edition (USA).png"
-	],
-	"International_Track_&_Field_2000": [
-		"Ganbare! Nippon! Olympics 2000 (Japan).png",
-		"International Track _ Field - Summer Games (Europe) (En,Fr,De).png",
-		"International Track _ Field 2000 (USA).png"
-	],
-	"Gauntlet_Legends_Ports": [
-		"Gauntlet Legends (Europe).png",
-		"Gauntlet Legends (Japan).png",
-		"Gauntlet Legends (USA).png"
-	],
-	"Gex_3:_Deep_Cover_Gecko": [
-		"Gex 3 - Deep Cover Gecko (Europe) (En,Es,It).png",
-		"Gex 3 - Deep Cover Gecko (Europe) (Fr,De).png",
-		"Gex 3 - Deep Cover Gecko (USA).png"
-	],
-	"Gex:_Enter_the_Gecko": [
-		"Gex 64 - Enter the Gecko (Europe).png",
-		"Gex 64 - Enter the Gecko (USA).png"
-	],
-	"Glover_(video_game)": [
-		"Glover (Europe) (En,Fr,De).png",
-		"Glover (USA) (Proto) (1998-09-04).png",
-		"Glover (USA).png"
-	],
-	"Goemon's_Great_Adventure": [
-		"Goemon's Great Adventure (USA).png",
-		"Mystical Ninja 2 Starring Goemon (Europe) (En,Fr,De).png"
-	],
-	"Golden_Nugget_64": [
-		"Golden Nugget 64 (USA).png"
-	],
-	"GoldenEye_007_(1997_video_game)": [
-		"GoldenEye 007 (Europe).png",
-		"GoldenEye 007 (Japan).png",
-		"GoldenEye 007 (USA).png",
-		"GoldenEye 007 (USA, Europe) (Switch Online).png"
-	],
-	"Harvest_Moon_64": [
-		"Harvest Moon 64 (USA).png"
-	],
-	"Hercules:_The_Legendary_Journeys_(video_game)": [
-		"Hercules - The Legendary Journeys (Europe) (En,Fr,De,Es,It,Nl).png",
-		"Hercules - The Legendary Journeys (USA).png"
-	],
-	"Hexen:_Beyond_Heretic_Console_versions": [
-		"Hexen (Europe).png",
-		"Hexen (France).png",
-		"Hexen (Germany).png",
-		"Hexen (Japan).png",
-		"Hexen (USA).png"
-	],
-	"Hey_You,_Pikachu!": [
-		"Hey You, Pikachu! (USA).png"
-	],
-	"Quest_64": [
-		"Holy Magic Century (Europe).png",
-		"Holy Magic Century (France).png",
-		"Holy Magic Century (Germany).png",
-		"Quest 64 (USA).png"
-	],
-	"Hot_Wheels_Turbo_Racing": [
-		"Hot Wheels - Turbo Racing (Europe) (En,Fr,De).png",
-		"Hot Wheels - Turbo Racing (USA).png"
-	],
-	"Hybrid_Heaven": [
-		"Hybrid Heaven (Europe) (En,Fr,De).png",
-		"Hybrid Heaven (Japan).png",
-		"Hybrid Heaven (USA).png"
-	],
-	"Hydro_Thunder": [
-		"Hydro Thunder (Europe).png",
-		"Hydro Thunder (France).png",
-		"Hydro Thunder (USA).png"
-	],
-	"Iggy's_Reckin'_Balls": [
-		"Iggy's Reckin' Balls (Europe).png",
-		"Iggy's Reckin' Balls (USA).png"
-	],
-	"In-Fisherman_Bass_Hunter_64": [
-		"In-Fisherman - Bass Hunter 64 (Europe).png",
-		"In-Fisherman - Bass Hunter 64 (USA).png"
-	],
-	"Indiana_Jones_and_the_Infernal_Machine": [
-		"Indiana Jones and the Infernal Machine (USA).png"
-	],
-	"Indy_Racing_2000": [
-		"Indy Racing 2000 (USA).png"
-	],
-	"International_Superstar_Soccer_98": [
-		"International Superstar Soccer '98 (Europe).png",
-		"International Superstar Soccer '98 (USA).png"
-	],
-	"International_Superstar_Soccer_2000": [
-		"International Superstar Soccer 2000 (Europe) (En,De).png",
-		"International Superstar Soccer 2000 (Europe) (Fr,It).png",
-		"International Superstar Soccer 2000 (USA) (En,Es) (Rev 1).png",
-		"International Superstar Soccer 2000 (USA) (En,Es).png"
-	],
-	"International_Superstar_Soccer_64": [
-		"International Superstar Soccer 64 (Europe).png",
-		"International Superstar Soccer 64 (USA).png"
-	],
-	"Jeopardy!_(franchise)_Consoles": [
-		"Jeopardy! (USA).png"
-	],
-	"Jeremy_McGrath_Supercross_2000": [
-		"Jeremy McGrath Supercross 2000 (Europe).png",
-		"Jeremy McGrath Supercross 2000 (USA).png"
-	],
-	"Jet_Force_Gemini": [
-		"Jet Force Gemini (Europe) (En,Fr,De,Es).png",
-		"Jet Force Gemini (USA) (Demo) (Kiosk).png",
-		"Jet Force Gemini (USA).png",
-		"Star Twins (Japan).png"
-	],
-	"Daikatana": [
-		"John Romero's Daikatana (USA).png"
-	],
-	"Ken_Griffey_Jr.'s_Slugfest": [
-		"Ken Griffey Jr.'s Slugfest (USA).png"
-	],
-	"Killer_Instinct_Gold": [
-		"Killer Instinct Gold (Europe).png",
-		"Killer Instinct Gold (USA) (Rev 1).png",
-		"Killer Instinct Gold (USA) (Rev 2).png",
-		"Killer Instinct Gold (USA).png"
-	],
-	"Twisted_Edge_Extreme_Snowboarding": [
-		"King Hill 64 - Extreme Snowboarding (Japan).png",
-		"Twisted Edge - Extreme Snowboarding (USA).png",
-		"Twisted Edge - Snowboarding (Europe).png"
-	],
-	"Kirby_64:_The_Crystal_Shards": [
-		"Kirby 64 - The Crystal Shards (Europe).png",
-		"Kirby 64 - The Crystal Shards (USA).png"
-	],
-	"Knife_Edge:_Nose_Gunner": [
-		"Knife Edge - Nose Gunner (Europe).png",
-		"Knife Edge - Nose Gunner (Japan).png",
-		"Knife Edge - Nose Gunner (USA).png"
-	],
-	"Knockout_Kings_2000": [
-		"Knockout Kings 2000 (Europe).png",
-		"Knockout Kings 2000 (USA).png"
-	],
-	"Kobe_Bryant_in_NBA_Courtside": [
-		"Kobe Bryant in NBA Courtside (Europe).png",
-		"Kobe Bryant in NBA Courtside (USA).png"
-	],
-	"Lego_Racers_(video_game)": [
-		"LEGO Racers (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).png",
-		"LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).png"
-	],
-	"The_Legend_of_Zelda:_Majora's_Mask": [
-		"Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Debug).png",
-		"Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Wii Virtual Console).png",
-		"Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1).png",
-		"Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es).png",
-		"Legend of Zelda, The - Majora's Mask (Europe) (GameCube).png",
-		"Legend of Zelda, The - Majora's Mask (USA) (Demo) (Kiosk).png",
-		"Legend of Zelda, The - Majora's Mask (USA) (GameCube).png",
-		"Legend of Zelda, The - Majora's Mask (USA).png"
-	],
-	"The_Legend_of_Zelda:_Ocarina_of_Time": [
-		"Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De) (Rev 1).png",
-		"Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De).png",
-		"Legend of Zelda, The - Ocarina of Time (Europe) (GameCube).png",
-		"Legend of Zelda, The - Ocarina of Time (USA) (GameCube).png",
-		"Legend of Zelda, The - Ocarina of Time (USA) (Rev 1).png",
-		"Legend of Zelda, The - Ocarina of Time (USA) (Rev 2).png",
-		"Legend of Zelda, The - Ocarina of Time (USA).png"
-	],
-	"Lode_Runner_3-D": [
-		"Lode Runner 3-D (Europe) (En,Fr,De,Es,It).png",
-		"Lode Runner 3-D (Japan).png",
-		"Lode Runner 3-D (USA).png"
-	],
-	"Star_Fox_64": [
-		"Lylat Wars (Australia) (En,Fr,De).png",
-		"Star Fox 64 (Japan) (Rev 1) (Wii Virtual Console).png",
-		"Star Fox 64 (Japan).png",
-		"Star Fox 64 (USA) (Rev 1).png",
-		"Star Fox 64 (USA).png"
-	],
-	"MRC:_Multi-Racing_Championship": [
-		"MRC - Multi-Racing Championship (Europe) (En,Fr,De).png",
-		"MRC - Multi-Racing Championship (Japan).png",
-		"MRC - Multi-Racing Championship (USA).png"
-	],
-	"Mace:_The_Dark_Age": [
-		"Mace - The Dark Age (Europe).png",
-		"Mace - The Dark Age (USA).png"
-	],
-	"Madden_Football_64": [
-		"Madden Football 64 (Europe).png",
-		"Madden Football 64 (USA).png"
-	],
-	"Madden_NFL_2000": [
-		"Madden NFL 2000 (USA).png"
-	],
-	"Madden_NFL_2001": [
-		"Madden NFL 2001 (USA).png"
-	],
-	"Madden_NFL_2002": [
-		"Madden NFL 2002 (USA).png"
-	],
-	"Madden_NFL_99": [
-		"Madden NFL 99 (Europe).png",
-		"Madden NFL 99 (USA) (Rev 1).png",
-		"Madden NFL 99 (USA).png"
-	],
-	"Magical_Tetris_Challenge": [
-		"Magical Tetris Challenge (Europe).png",
-		"Magical Tetris Challenge (Germany).png",
-		"Magical Tetris Challenge (USA).png"
-	],
-	"Major_League_Baseball_Featuring_Ken_Griffey_Jr.": [
-		"Major League Baseball featuring Ken Griffey Jr. (Australia).png",
-		"Major League Baseball featuring Ken Griffey Jr. (USA).png"
-	],
-	"Mario_Golf_(video_game)": [
-		"Mario Golf (Europe).png",
-		"Mario Golf (USA).png"
-	],
-	"Mario_Kart_64": [
-		"Mario Kart 64 (Europe) (Rev 1).png",
-		"Mario Kart 64 (Europe).png",
-		"Mario Kart 64 (Japan) (Rev 1).png",
-		"Mario Kart 64 (Japan).png",
-		"Mario Kart 64 (USA).png"
-	],
-	"Mario_Party_(video_game)": [
-		"Mario Party (Europe) (En,Fr,De).png",
-		"Mario Party (Japan).png",
-		"Mario Party (USA).png"
-	],
-	"Mario_Party_2": [
-		"Mario Party 2 (Europe) (En,Fr,De,Es,It) (Wii Virtual Console).png",
-		"Mario Party 2 (Europe) (En,Fr,De,Es,It).png",
-		"Mario Party 2 (Japan) (Wii Virtual Console).png",
-		"Mario Party 2 (Japan).png",
-		"Mario Party 2 (USA) (Wii Virtual Console).png",
-		"Mario Party 2 (USA).png"
-	],
-	"Mario_Party_3": [
-		"Mario Party 3 (Europe) (En,Fr,De,Es).png",
-		"Mario Party 3 (Japan).png",
-		"Mario Party 3 (USA).png"
-	],
-	"Mario_Tennis": [
-		"Mario Tennis (Europe) (Wii Virtual Console).png",
-		"Mario Tennis (Europe).png",
-		"Mario Tennis (USA) (Wii Virtual Console).png",
-		"Mario Tennis (USA).png"
-	],
-	"Mega_Man_Legends_(video_game)": [
-		"Mega Man 64 (USA) (Beta).png",
-		"Mega Man 64 (USA).png"
-	],
-	"Michael_Owen's_WLS_2000": [
-		"Mia Hamm Soccer 64 (USA) (En,Es).png",
-		"Michael Owen's WLS 2000 (Europe).png"
-	],
-	"Mickey's_Speedway_USA": [
-		"Mickey's Speedway USA (Europe) (En,Fr,De,Es,It).png",
-		"Mickey's Speedway USA (USA).png"
-	],
-	"Micro_Machines_V3": [
-		"Micro Machines 64 Turbo (Europe) (En,Fr,De,Es,It).png",
-		"Micro Machines 64 Turbo (USA).png"
-	],
-	"Midway's_Greatest_Arcade_Hits": [
-		"Midway's Greatest Arcade Hits - Volume 1 (USA).png"
-	],
-	"Mike_Piazza's_Strike_Zone": [
-		"Mike Piazza's Strike Zone (USA).png"
-	],
-	"Milo's_Astro_Lanes": [
-		"Milo's Astro Lanes (Europe).png",
-		"Milo's Astro Lanes (USA).png"
-	],
-	"Mischief_Makers": [
-		"Mischief Makers (Europe).png",
-		"Mischief Makers (USA) (Rev 1).png",
-		"Mischief Makers (USA).png"
-	],
-	"Mission:_Impossible_(1998_video_game)": [
-		"Mission - Impossible (Europe).png",
-		"Mission - Impossible (France).png",
-		"Mission - Impossible (Germany).png",
-		"Mission - Impossible (Italy).png",
-		"Mission - Impossible (Spain) (Rev 1).png",
-		"Mission - Impossible (Spain).png",
-		"Mission - Impossible (USA).png"
-	],
-	"Monaco_Grand_Prix_(video_game)": [
-		"Monaco Grand Prix (USA).png"
-	],
-	"Monopoly_(1999_video_game)": [
-		"Monopoly (USA).png"
-	],
-	"Monster_Truck_Madness_64": [
-		"Monster Truck Madness 64 (Europe) (En,Fr,De,Es,It).png",
-		"Monster Truck Madness 64 (USA).png"
-	],
-	"Mortal_Kombat_4": [
-		"Mortal Kombat 4 (Europe).png",
-		"Mortal Kombat 4 (USA).png"
-	],
-	"Mortal_Kombat_Mythologies:_Sub-Zero": [
-		"Mortal Kombat Mythologies - Sub-Zero (Europe).png",
-		"Mortal Kombat Mythologies - Sub-Zero (USA).png"
-	],
-	"Mortal_Kombat_Trilogy": [
-		"Mortal Kombat Trilogy (Europe).png",
-		"Mortal Kombat Trilogy (USA) (Rev 1).png",
-		"Mortal Kombat Trilogy (USA) (Rev 2).png",
-		"Mortal Kombat Trilogy (USA).png"
-	],
-	"Ms._Pac-Man_Maze_Madness": [
-		"Ms. Pac-Man - Maze Madness (USA).png"
-	],
-	"Mystical_Ninja_Starring_Goemon": [
-		"Mystical Ninja Starring Goemon (Europe).png",
-		"Mystical Ninja Starring Goemon (USA).png"
-	],
-	"NASCAR_2000": [
-		"NASCAR 2000 (USA).png"
-	],
-	"NASCAR_99": [
-		"NASCAR 99 (Europe) (En,Fr,De).png",
-		"NASCAR 99 (USA).png"
-	],
-	"NBA_Courtside_2_Featuring_Kobe_Bryant": [
-		"NBA Courtside 2 featuring Kobe Bryant (USA).png"
-	],
-	"NBA_Hangtime": [
-		"NBA Hangtime (Europe).png",
-		"NBA Hangtime (USA).png"
-	],
-	"NBA_Jam_2000": [
-		"NBA Jam 2000 (Europe).png",
-		"NBA Jam 2000 (USA).png"
-	],
-	"NBA_Jam_99": [
-		"NBA Jam 99 (Europe).png",
-		"NBA Jam 99 (USA).png"
-	],
-	"NBA_Live_2000": [
-		"NBA Live 2000 (Europe) (En,Fr,De,Es).png",
-		"NBA Live 2000 (USA) (En,Fr,De,Es).png"
-	],
-	"NBA_Live_99": [
-		"NBA Live 99 (Europe) (En,Fr,De,Es,It).png",
-		"NBA Live 99 (USA) (En,Fr,De,Es,It).png"
-	],
-	"NBA_In_The_Zone_'98": [
-		"NBA Pro 98 (Europe).png",
-		"NBA in the Zone '98 (Japan).png",
-		"NBA in the Zone '98 (USA).png"
-	],
-	"NBA_In_The_Zone_'99": [
-		"NBA Pro 99 (Europe).png",
-		"NBA in the Zone '99 (USA).png"
-	],
-	"NBA_Showtime:_NBA_on_NBC": [
-		"NBA Showtime - NBA on NBC (USA).png"
-	],
-	"NBA_In_The_Zone_2000": [
-		"NBA in the Zone 2000 (Europe).png",
-		"NBA in the Zone 2000 (USA).png"
-	],
-	"NFL_Blitz_(1997_video_game)": [
-		"NFL Blitz (USA).png"
-	],
-	"NFL_Blitz_Installments": [
-		"NFL Blitz - Special Edition (USA).png"
-	],
-	"NFL_Blitz_2000": [
-		"NFL Blitz 2000 (USA) (Rev 1).png",
-		"NFL Blitz 2000 (USA).png"
-	],
-	"NFL_Blitz_2001": [
-		"NFL Blitz 2001 (USA).png"
-	],
-	"NFL_QB_Club_2001": [
-		"NFL QB Club 2001 (USA).png"
-	],
-	"NFL_Quarterback_Club_2000": [
-		"NFL Quarterback Club 2000 (Europe).png",
-		"NFL Quarterback Club 2000 (USA).png"
-	],
-	"NFL_Quarterback_Club_98": [
-		"NFL Quarterback Club 98 (Europe).png",
-		"NFL Quarterback Club 98 (USA).png"
-	],
-	"NFL_Quarterback_Club_99": [
-		"NFL Quarterback Club 99 (Europe).png",
-		"NFL Quarterback Club 99 (USA).png"
-	],
-	"NHL_99": [
-		"NHL 99 (Europe) (En,De,Sv,Fi).png",
-		"NHL 99 (USA).png"
-	],
-	"NHL_Blades_of_Steel_'99": [
-		"NHL Blades of Steel '99 (USA).png",
-		"NHL Pro 99 (Europe).png"
-	],
-	"NHL_Breakaway_98": [
-		"NHL Breakaway 98 (Europe).png",
-		"NHL Breakaway 98 (USA).png"
-	],
-	"NHL_Breakaway_99": [
-		"NHL Breakaway 99 (Europe).png",
-		"NHL Breakaway 99 (USA).png"
-	],
-	"Nagano_Winter_Olympics_'98": [
-		"Nagano Winter Olympics '98 (Europe).png",
-		"Nagano Winter Olympics '98 (USA).png"
-	],
-	"Namco_Museum_Namco_Museum_64_and_Namco_Museum_(1999-2002)": [
-		"Namco Museum 64 (USA).png"
-	],
-	"The_New_Tetris": [
-		"New Tetris, The (Europe).png",
-		"New Tetris, The (USA).png"
-	],
-	"Nightmare_Creatures": [
-		"Nightmare Creatures (USA).png"
-	],
-	"Nuclear_Strike": [
-		"Nuclear Strike 64 (Europe) (En,Fr).png",
-		"Nuclear Strike 64 (Germany).png",
-		"Nuclear Strike 64 (USA).png"
-	],
-	"Off_Road_Challenge": [
-		"Off Road Challenge (Europe).png",
-		"Off Road Challenge (USA).png"
-	],
-	"Ogre_Battle_64": [
-		"Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1) (Wii Virtual Console).png",
-		"Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1).png",
-		"Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev 1).png",
-		"Ogre Battle 64 - Person of Lordly Caliber (USA).png",
-		"Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Rev 1) (Wii Virtual Console).png"
-	],
-	"Olympic_Hockey_'98": [
-		"Olympic Hockey 98 (Europe) (En,Fr,De,Es).png",
-		"Olympic Hockey 98 (Japan).png",
-		"Olympic Hockey 98 (USA).png"
-	],
-	"WinBack": [
-		"Operation WinBack (Europe) (En,Fr,De,Es,It).png",
-		"WinBack - Covert Operations (USA).png"
-	],
-	"PGA_European_Tour_Golf_PGA_European_Tour": [
-		"PGA European Tour (USA).png",
-		"PGA European Tour Golf (Europe) (En,Fr,De,Es,It).png"
-	],
-	"Paper_Mario_(video_game)": [
-		"Paper Mario (Europe) (En,Fr,De,Es).png",
-		"Paper Mario (USA).png"
-	],
-	"Paperboy_(video_game)_Legacy": [
-		"Paperboy (Europe).png",
-		"Paperboy (USA).png"
-	],
-	"Perfect_Dark": [
-		"Perfect Dark (Europe) (En,Fr,De,Es,It).png",
-		"Perfect Dark (Japan).png",
-		"Perfect Dark (USA) (Rev 1).png",
-		"Perfect Dark (USA).png"
-	],
-	"Pilotwings_64": [
-		"Pilotwings 64 (Europe) (En,Fr,De).png",
-		"Pilotwings 64 (Japan).png",
-		"Pilotwings 64 (USA).png"
-	],
-	"Pokémon_Puzzle_League": [
-		"Pokemon Puzzle League (Europe) (Wii Virtual Console).png",
-		"Pokemon Puzzle League (Europe).png",
-		"Pokemon Puzzle League (France) (Wii Virtual Console).png",
-		"Pokemon Puzzle League (France).png",
-		"Pokemon Puzzle League (Germany) (Wii Virtual Console).png",
-		"Pokemon Puzzle League (Germany).png",
-		"Pokemon Puzzle League (USA) (Wii Virtual Console).png",
-		"Pokemon Puzzle League (USA).png"
-	],
-	"Pokémon_Snap": [
-		"Pokemon Snap (Australia).png",
-		"Pokemon Snap (Europe).png",
-		"Pokemon Snap (France).png",
-		"Pokemon Snap (Germany).png",
-		"Pokemon Snap (Italy).png",
-		"Pokemon Snap (Japan) (Rev 1) (Wii Virtual Console).png",
-		"Pokemon Snap (Japan).png",
-		"Pokemon Snap (Spain).png",
-		"Pokemon Snap (USA).png"
-	],
-	"Pokémon_Stadium": [
-		"Pokemon Stadium (Europe) (Rev 1).png",
-		"Pokemon Stadium (Europe).png",
-		"Pokemon Stadium (France).png",
-		"Pokemon Stadium (Germany).png",
-		"Pokemon Stadium (Italy).png",
-		"Pokemon Stadium (Japan).png",
-		"Pokemon Stadium (Spain).png",
-		"Pokemon Stadium (USA) (Rev 1).png",
-		"Pokemon Stadium (USA) (Rev 2).png",
-		"Pokemon Stadium (USA).png",
-		"Pokemon Stadium 2 (Europe).png",
-		"Pokemon Stadium 2 (France).png",
-		"Pokemon Stadium 2 (Germany).png",
-		"Pokemon Stadium 2 (Italy).png",
-		"Pokemon Stadium 2 (Japan).png",
-		"Pokemon Stadium 2 (Spain).png"
-	],
-	"Pokémon_Stadium_2": [
-		"Pokemon Stadium 2 (USA).png"
-	],
-	"Polaris_SnoCross": [
-		"Polaris SnoCross (USA).png"
-	],
-	"Power_Rangers_Lightspeed_Rescue_(video_game)": [
-		"Power Rangers - Lightspeed Rescue (Europe).png",
-		"Power Rangers - Lightspeed Rescue (USA).png"
-	],
-	"The_Powerpuff_Girls:_Chemical_X-Traction": [
-		"Powerpuff Girls, The - Chemical X-Traction (USA).png"
-	],
-	"Quake_(video_game)_Ports": [
-		"Quake (USA).png"
-	],
-	"Quake_II_Ports": [
-		"Quake II (Europe).png",
-		"Quake II (USA).png"
-	],
-	"Ridge_Racer_64": [
-		"RR64 - Ridge Racer 64 (USA).png"
-	],
-	"Rally_Challenge_2000": [
-		"Rally '99 (Japan).png",
-		"Rally Challenge 2000 (USA).png"
-	],
-	"Rampage_World_Tour": [
-		"Rampage - World Tour (Europe).png",
-		"Rampage - World Tour (USA).png"
-	],
-	"Rampage_2:_Universal_Tour": [
-		"Rampage 2 - Universal Tour (Europe).png",
-		"Rampage 2 - Universal Tour (USA).png"
-	],
-	"Rat_Attack!": [
-		"Rat Attack (Europe) (En,Fr,De,Es,It,Nl).png",
-		"Rat Attack! (USA) (En,Fr,De,Es,It,Nl).png"
-	],
-	"Rayman_2:_The_Great_Escape": [
-		"Rayman 2 - The Great Escape (Europe) (En,Fr,De,Es,It).png",
-		"Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It).png"
-	],
-	"Razor_Freestyle_Scooter": [
-		"Razor Freestyle Scooter (USA).png"
-	],
-	"Re-Volt": [
-		"Re-Volt (Europe) (En,Fr,De,Es).png",
-		"Re-Volt (USA).png"
-	],
-	"Ready_2_Rumble_Boxing": [
-		"Ready 2 Rumble Boxing (Europe) (En,Fr,De).png",
-		"Ready 2 Rumble Boxing (USA).png"
-	],
-	"Ready_2_Rumble_Boxing:_Round_2": [
-		"Ready 2 Rumble Boxing - Round 2 (USA).png"
-	],
-	"Resident_Evil_2_Nintendo_64": [
-		"Resident Evil 2 (Europe) (En,Fr).png",
-		"Resident Evil 2 (USA) (Rev 1).png",
-		"Resident Evil 2 (USA).png"
-	],
-	"Road_Rash_64": [
-		"Road Rash 64 (Europe).png",
-		"Road Rash 64 (USA).png"
-	],
-	"Roadsters_(video_game)": [
-		"Roadsters (Europe) (En,Fr,De,Es,It,Nl).png",
-		"Roadsters (USA) (En,Fr,Es).png"
-	],
-	"Robotron_64": [
-		"Robotron 64 (Europe).png",
-		"Robotron 64 (USA).png"
-	],
-	"Rocket:_Robot_on_Wheels": [
-		"Rocket - Robot on Wheels (Europe) (En,Fr,De).png",
-		"Rocket - Robot on Wheels (USA).png"
-	],
-	"Rugrats:_Scavenger_Hunt": [
-		"Rugrats - Scavenger Hunt (USA).png",
-		"Rugrats - Treasure Hunt (Europe).png"
-	],
-	"Rugrats_in_Paris:_The_Movie_(video_game)": [
-		"Rugrats in Paris - The Movie (Europe).png",
-		"Rugrats in Paris - The Movie (USA).png"
-	],
-	"Rush_2:_Extreme_Racing_USA": [
-		"Rush 2 - Extreme Racing USA (Europe) (En,Fr,De,Es,It,Nl).png",
-		"Rush 2 - Extreme Racing USA (USA).png"
-	],
-	"S.C.A.R.S._(video_game)": [
-		"S.C.A.R.S. (Europe) (En,Fr,De).png",
-		"S.C.A.R.S. (USA).png"
-	],
-	"San_Francisco_Rush:_Extreme_Racing": [
-		"San Francisco Rush - Extreme Racing (Europe) (En,Fr,De).png",
-		"San Francisco Rush - Extreme Racing (USA) (En,Fr,De) (Rev 1).png",
-		"San Francisco Rush - Extreme Racing (USA) (En,Fr,De).png"
-	],
-	"San_Francisco_Rush_2049": [
-		"San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl).png",
-		"San Francisco Rush 2049 (USA).png"
-	],
-	"Scooby-Doo!_Classic_Creep_Capers": [
-		"Scooby-Doo! - Classic Creep Capers (Europe).png",
-		"Scooby-Doo! - Classic Creep Capers (USA) (Rev 1).png",
-		"Scooby-Doo! - Classic Creep Capers (USA).png"
-	],
-	"Sesame_Street_video_games_Elmo's_Letter_Adventure": [
-		"Sesame Street - Elmo's Letter Adventure (USA).png"
-	],
-	"Sesame_Street_video_games_Elmo's_Number_Journey": [
-		"Sesame Street - Elmo's Number Journey (USA).png"
-	],
-	"Shadow_Man_(video_game)": [
-		"Shadow Man (Brazil).png",
-		"Shadow Man (Europe) (En,Es,It).png",
-		"Shadow Man (France).png",
-		"Shadow Man (Germany).png",
-		"Shadow Man (USA).png"
-	],
-	"Shadowgate_64:_Trials_of_the_Four_Towers": [
-		"Shadowgate 64 - Trials of the Four Towers (Europe) (Es,It).png",
-		"Shadowgate 64 - Trials of the Four Towers (Europe) (Fr,De,Nl).png",
-		"Shadowgate 64 - Trials of the Four Towers (Europe).png",
-		"Shadowgate 64 - Trials of the Four Towers (Japan).png",
-		"Shadowgate 64 - Trials of the Four Towers (USA) (En,Es).png"
-	],
-	"Snowboard_Kids": [
-		"Snowboard Kids (Europe, Australia).png",
-		"Snowboard Kids (USA).png"
-	],
-	"Snowboard_Kids_2": [
-		"Snowboard Kids 2 (Australia).png",
-		"Snowboard Kids 2 (USA).png"
-	],
-	"South_Park_(video_game)": [
-		"South Park (Brazil).png",
-		"South Park (Europe) (En,Fr,Es).png",
-		"South Park (Germany).png",
-		"South Park (USA).png"
-	],
-	"South_Park:_Chef's_Luv_Shack": [
-		"South Park - Chef's Luv Shack (Europe).png",
-		"South Park - Chef's Luv Shack (USA).png"
-	],
-	"South_Park_Rally": [
-		"South Park Rally (Europe).png",
-		"South Park Rally (USA).png"
-	],
-	"List_of_Space_Invaders_video_games_Home_console_games": [
-		"Space Invaders (USA).png"
-	],
-	"Space_Station_Silicon_Valley": [
-		"SpaceStation Silicon Valley (USA) (Rev 1).png"
-	],
-	"Spider-Man_(2000_video_game)": [
-		"Spider-Man (USA).png"
-	],
-	"Star_Soldier:_Vanishing_Earth": [
-		"Star Soldier - Vanishing Earth (Japan).png",
-		"Star Soldier - Vanishing Earth (USA).png"
-	],
-	"Star_Wars:_Rogue_Squadron": [
-		"Star Wars - Rogue Squadron (Europe) (En,Fr,De) (Rev 1).png",
-		"Star Wars - Rogue Squadron (Europe) (En,Fr,De).png",
-		"Star Wars - Rogue Squadron (USA) (Rev 1).png",
-		"Star Wars - Rogue Squadron (USA).png"
-	],
-	"Star_Wars:_Shadows_of_the_Empire_(video_game)": [
-		"Star Wars - Shadows of the Empire (Europe).png",
-		"Star Wars - Shadows of the Empire (USA) (Beta) (1996-10-15).png",
-		"Star Wars - Shadows of the Empire (USA) (Rev 1).png",
-		"Star Wars - Shadows of the Empire (USA) (Rev 2).png",
-		"Star Wars - Shadows of the Empire (USA).png"
-	],
-	"Star_Wars_Episode_I:_Battle_for_Naboo": [
-		"Star Wars Episode I - Battle for Naboo (Europe).png",
-		"Star Wars Episode I - Battle for Naboo (USA).png"
-	],
-	"Star_Wars_Episode_I:_Racer": [
-		"Star Wars Episode I - Racer (Europe) (En,Fr,De).png",
-		"Star Wars Episode I - Racer (Japan).png",
-		"Star Wars Episode I - Racer (USA).png"
-	],
-	"StarCraft_(video_game)_Nintendo_64_version": [
-		"StarCraft 64 (Australia).png",
-		"StarCraft 64 (Germany) (Proto).png",
-		"StarCraft 64 (USA) (Beta).png",
-		"StarCraft 64 (USA).png"
-	],
-	"Starshot:_Space_Circus_Fever": [
-		"Starshot - Space Circus Fever (Europe) (En,Fr,De).png",
-		"Starshot - Space Circus Fever (USA) (En,Fr,Es).png"
-	],
-	"Stunt_Racer_64": [
-		"Stunt Racer 64 (USA).png"
-	],
-	"Super_Bowling": [
-		"Super Bowling (Japan).png",
-		"Super Bowling (USA).png"
-	],
-	"Super_Mario_64": [
-		"Super Mario 64 (Europe) (En,Fr,De).png",
-		"Super Mario 64 (Japan) (Rev 3) (Shindou Edition).png",
-		"Super Mario 64 (Japan).png",
-		"Super Mario 64 (USA).png"
-	],
-	"Super_Smash_Bros._(video_game)": [
-		"Super Smash Bros. (Australia).png",
-		"Super Smash Bros. (Europe) (En,Fr,De).png",
-		"Super Smash Bros. (USA).png"
-	],
-	"Supercross_2000": [
-		"Supercross 2000 (Europe) (En,Fr,De).png",
-		"Supercross 2000 (USA).png"
-	],
-	"Superman_64": [
-		"Superman (Europe) (En,Fr,De,Es,It,Nl).png",
-		"Superman (USA) (Beta) (1998-09-06).png"
-	],
-	"Tarzan_(video_game)": [
-		"Tarzan (Europe).png",
-		"Tarzan (France).png",
-		"Tarzan (Germany).png",
-		"Tarzan (USA).png"
-	],
-	"Tetrisphere": [
-		"Tetrisphere (Europe).png",
-		"Tetrisphere (USA).png"
-	],
-	"Tigger's_Honey_Hunt": [
-		"Tigger's Honey Hunt (Europe) (En,Fr,De,Es,It,Nl,Da).png",
-		"Tigger's Honey Hunt (USA).png"
-	],
-	"Tom_Clancy's_Rainbow_Six_(video_game)": [
-		"Tom Clancy's Rainbow Six (Europe).png",
-		"Tom Clancy's Rainbow Six (France).png",
-		"Tom Clancy's Rainbow Six (Germany).png",
-		"Tom Clancy's Rainbow Six (USA).png"
-	],
-	"Tom_and_Jerry_in_Fists_of_Furry": [
-		"Tom and Jerry in Fists of Furry (Europe) (En,Fr,De,Es,It,Nl).png",
-		"Tom and Jerry in Fists of Furry (USA).png"
-	],
-	"Tonic_Trouble": [
-		"Tonic Trouble (Europe) (En,Fr,De,Es,It).png",
-		"Tonic Trouble (USA) (Rev 1).png"
-	],
-	"Tony_Hawk's_Pro_Skater_(video_game)": [
-		"Tony Hawk's Pro Skater (USA) (Rev 1).png",
-		"Tony Hawk's Pro Skater (USA).png",
-		"Tony Hawk's Skateboarding (Europe).png"
-	],
-	"Tony_Hawk's_Pro_Skater_2": [
-		"Tony Hawk's Pro Skater 2 (Europe).png",
-		"Tony Hawk's Pro Skater 2 (USA).png"
-	],
-	"Tony_Hawk's_Pro_Skater_3": [
-		"Tony Hawk's Pro Skater 3 (USA).png"
-	],
-	"Top_Gear_Hyper_Bike": [
-		"Top Gear Hyper Bike (Europe).png",
-		"Top Gear Hyper Bike (Japan).png",
-		"Top Gear Hyper-Bike (USA).png"
-	],
-	"Top_Gear_Overdrive": [
-		"Top Gear Overdrive (Europe).png",
-		"Top Gear Overdrive (Japan).png",
-		"Top Gear Overdrive (USA).png"
-	],
-	"Top_Gear_Rally": [
-		"Top Gear Rally (Asia) (En).png",
-		"Top Gear Rally (Europe).png",
-		"Top Gear Rally (Japan).png",
-		"Top Gear Rally (USA).png"
-	],
-	"Top_Gear_Rally_2": [
-		"Top Gear Rally 2 (Europe).png",
-		"Top Gear Rally 2 (Japan).png",
-		"Top Gear Rally 2 (USA).png"
-	],
-	"Toy_Story_2:_Buzz_Lightyear_to_the_Rescue": [
-		"Toy Story 2 - Buzz Lightyear to the Rescue! (Europe).png",
-		"Toy Story 2 - Buzz Lightyear to the Rescue! (USA) (Rev 1).png",
-		"Toy Story 2 - Buzz Lightyear to the Rescue! (USA).png"
-	],
-	"Transformers:_Beast_Wars_Transmetals": [
-		"Transformers - Beast Wars Transmetals (USA).png"
-	],
-	"Triple_Play_2000": [
-		"Triple Play 2000 (USA).png"
-	],
-	"Turok:_Dinosaur_Hunter": [
-		"Turok - Dinosaur Hunter (Europe) (Rev 1).png",
-		"Turok - Dinosaur Hunter (Europe) (Rev 2).png",
-		"Turok - Dinosaur Hunter (Europe).png",
-		"Turok - Dinosaur Hunter (Germany) (Rev 1).png",
-		"Turok - Dinosaur Hunter (Germany) (Rev 2).png",
-		"Turok - Dinosaur Hunter (Germany).png",
-		"Turok - Dinosaur Hunter (USA) (Rev 1).png",
-		"Turok - Dinosaur Hunter (USA) (Rev 2).png",
-		"Turok - Dinosaur Hunter (USA).png"
-	],
-	"Turok:_Rage_Wars": [
-		"Turok - Rage Wars (Europe) (En,Fr,It).png",
-		"Turok - Rage Wars (Europe).png",
-		"Turok - Rage Wars (USA) (Rev 1).png",
-		"Turok - Rage Wars (USA).png"
-	],
-	"Turok_2:_Seeds_of_Evil": [
-		"Turok 2 - Seeds of Evil (Europe) (Demo) (Kiosk).png",
-		"Turok 2 - Seeds of Evil (Europe) (En,Fr,Es,It).png",
-		"Turok 2 - Seeds of Evil (Europe).png",
-		"Turok 2 - Seeds of Evil (Germany).png",
-		"Turok 2 - Seeds of Evil (USA) (Demo) (Kiosk).png",
-		"Turok 2 - Seeds of Evil (USA) (Rev 1).png",
-		"Turok 2 - Seeds of Evil (USA).png",
-		"Violence Killer - Turok New Generation (Japan).png"
-	],
-	"Turok_3:_Shadow_of_Oblivion": [
-		"Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-05-31).png",
-		"Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-16).png",
-		"Turok 3 - Shadow of Oblivion (Europe).png",
-		"Turok 3 - Shadow of Oblivion (USA).png"
-	],
-	"V-Rally_(video_game)_Ports_and_adaptations": [
-		"V-Rally Edition 99 (Europe) (En,Fr,De).png",
-		"V-Rally Edition 99 (Japan).png",
-		"V-Rally Edition 99 (USA).png"
-	],
-	"Vigilante_8": [
-		"Vigilante 8 (Europe).png",
-		"Vigilante 8 (France).png",
-		"Vigilante 8 (Germany).png",
-		"Vigilante 8 (USA).png"
-	],
-	"Vigilante_8:_2nd_Offense": [
-		"Vigilante 8 - 2nd Offense (Europe).png",
-		"Vigilante 8 - 2nd Offense (USA).png"
-	],
-	"Virtual_Chess_64": [
-		"Virtual Chess 64 (Europe) (En,Fr,De,Es,It,Nl).png",
-		"Virtual Chess 64 (USA) (En,Fr,Es).png"
-	],
-	"Virtual_Pool_64": [
-		"Virtual Pool 64 (Europe).png",
-		"Virtual Pool 64 (USA).png"
-	],
-	"WCW_Backstage_Assault": [
-		"WCW Backstage Assault (USA).png"
-	],
-	"WCW_Mayhem_(video_game)": [
-		"WCW Mayhem (Europe).png",
-		"WCW Mayhem (USA).png"
-	],
-	"WCW_Nitro_(video_game)": [
-		"WCW Nitro (USA).png"
-	],
-	"WCW_vs._nWo:_World_Tour": [
-		"WCW vs. nWo - World Tour (Europe).png",
-		"WCW vs. nWo - World Tour (USA) (Rev 1).png",
-		"WCW vs. nWo - World Tour (USA).png"
-	],
-	"WCW/nWo_Revenge": [
-		"WCW-nWo Revenge (Europe).png",
-		"WCW-nWo Revenge (USA).png"
-	],
-	"WWF_Attitude": [
-		"WWF Attitude (Europe).png",
-		"WWF Attitude (Germany).png",
-		"WWF Attitude (USA).png"
-	],
-	"WWF_No_Mercy_(video_game)": [
-		"WWF No Mercy (Europe) (Rev 1).png",
-		"WWF No Mercy (Europe).png",
-		"WWF No Mercy (USA) (Rev 1).png",
-		"WWF No Mercy (USA).png"
-	],
-	"WWF_War_Zone": [
-		"WWF War Zone (Europe).png",
-		"WWF War Zone (USA).png"
-	],
-	"WWF_WrestleMania_2000_(video_game)": [
-		"WWF WrestleMania 2000 (Europe).png",
-		"WWF WrestleMania 2000 (Japan).png",
-		"WWF WrestleMania 2000 (USA).png"
-	],
-	"Waialae_Country_Club:_True_Golf_Classics": [
-		"Waialae Country Club - True Golf Classics (Europe) (Rev 1).png",
-		"Waialae Country Club - True Golf Classics (Europe).png",
-		"Waialae Country Club - True Golf Classics (USA) (Rev 1).png",
-		"Waialae Country Club - True Golf Classics (USA).png"
-	],
-	"War_Gods_(video_game)": [
-		"War Gods (Europe).png",
-		"War Gods (USA).png"
-	],
-	"Wave_Race_64": [
-		"Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1).png"
-	],
-	"Wayne_Gretzky's_3D_Hockey_'98": [
-		"Wayne Gretzky's 3D Hockey '98 (Europe) (En,Fr,De,Es).png",
-		"Wayne Gretzky's 3D Hockey '98 (USA).png"
-	],
-	"Wayne_Gretzky's_3D_Hockey": [
-		"Wayne Gretzky's 3D Hockey (Europe) (En,Fr,De,Es).png",
-		"Wayne Gretzky's 3D Hockey (Japan).png",
-		"Wayne Gretzky's 3D Hockey (USA) (Rev 1).png",
-		"Wayne Gretzky's 3D Hockey (USA).png"
-	],
-	"Wetrix": [
-		"Wetrix (Europe) (En,Fr,De,Es,It,Nl).png",
-		"Wetrix (Japan).png",
-		"Wetrix (USA) (En,Fr,De,Es,It,Nl).png"
-	],
-	"Wheel_of_Fortune_video_games_Console_games": [
-		"Wheel of Fortune (USA).png"
-	],
-	"Wipeout_64": [
-		"Wipeout 64 (Europe).png",
-		"Wipeout 64 (USA).png"
-	],
-	"World_Cup_98_(video_game)": [
-		"World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv,Da).png",
-		"World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv,Da).png"
-	],
-	"World_Driver_Championship": [
-		"World Driver Championship (Europe) (En,Fr,De,Es,It).png",
-		"World Driver Championship (USA).png"
-	],
-	"Worms_Armageddon": [
-		"Worms Armageddon (Europe) (En,Fr,De,Es,It,Nl).png",
-		"Worms Armageddon (USA) (En,Fr,Es).png"
-	],
-	"Xena:_Warrior_Princess:_The_Talisman_of_Fate": [
-		"Xena - Warrior Princess - The Talisman of Fate (Europe).png",
-		"Xena - Warrior Princess - The Talisman of Fate (USA).png"
-	],
-	"Yoshi's_Story": [
-		"Yoshi's Story (Europe) (En,Fr,De).png",
-		"Yoshi's Story (USA) (En,Ja).png"
-	]
+	"The_World_Is_Not_Enough_(Nintendo_64_video_game)": {
+		"titles": [
+			"007 - The World Is Not Enough (USA).png"
+		],
+		"boxarts": [
+			"007 - The World Is Not Enough (USA).png"
+		],
+		"snaps": [
+			"007 - The World Is Not Enough (USA).png"
+		]
+	},
+	"1080°_Snowboarding": {
+		"titles": [
+			"1080 Snowboarding (Japan, USA) (En,Ja).png"
+		],
+		"boxarts": [
+			"1080 Snowboarding (Japan, USA) (En,Ja).png"
+		],
+		"snaps": [
+			"1080 Snowboarding (Japan, USA) (En,Ja).png"
+		]
+	},
+	"Aero_Fighters_Assault": {
+		"titles": [
+			"AeroFighters Assault (USA).png"
+		],
+		"boxarts": [
+			"AeroFighters Assault (USA).png"
+		],
+		"snaps": [
+			"AeroFighters Assault (USA).png"
+		]
+	},
+	"AeroGauge": {
+		"titles": [
+			"AeroGauge (Europe) (En,Fr,De).png",
+			"AeroGauge (Japan) (Demo) (Kiosk).png",
+			"AeroGauge (Japan) (Rev 1).png",
+			"AeroGauge (USA).png"
+		],
+		"boxarts": [
+			"AeroGauge (Europe) (En,Fr,De).png",
+			"AeroGauge (Japan) (Demo) (Kiosk).png",
+			"AeroGauge (Japan) (Rev 1).png",
+			"AeroGauge (USA).png"
+		],
+		"snaps": [
+			"AeroGauge (Europe) (En,Fr,De).png",
+			"AeroGauge (Japan) (Demo) (Kiosk).png",
+			"AeroGauge (Japan) (Rev 1).png",
+			"AeroGauge (USA).png"
+		]
+	},
+	"Aidyn_Chronicles:_The_First_Mage": {
+		"titles": [
+			"Aidyn Chronicles - The First Mage (Europe).png",
+			"Aidyn Chronicles - The First Mage (USA) (Beta) (2000-02-10).png",
+			"Aidyn Chronicles - The First Mage (USA) (Beta) (2000-05-09).png",
+			"Aidyn Chronicles - The First Mage (USA) (Rev 1).png",
+			"Aidyn Chronicles - The First Mage (USA).png"
+		],
+		"boxarts": [
+			"Aidyn Chronicles - The First Mage (Europe).png",
+			"Aidyn Chronicles - The First Mage (USA) (Beta) (2000-02-10).png",
+			"Aidyn Chronicles - The First Mage (USA) (Beta) (2000-05-09).png",
+			"Aidyn Chronicles - The First Mage (USA) (Rev 1).png",
+			"Aidyn Chronicles - The First Mage (USA).png"
+		],
+		"snaps": [
+			"Aidyn Chronicles - The First Mage (Europe).png",
+			"Aidyn Chronicles - The First Mage (USA) (Beta) (2000-02-10).png",
+			"Aidyn Chronicles - The First Mage (USA) (Beta) (2000-05-09).png",
+			"Aidyn Chronicles - The First Mage (USA) (Rev 1).png",
+			"Aidyn Chronicles - The First Mage (USA).png"
+		]
+	},
+	"All_Star_Tennis_'99": {
+		"titles": [
+			"All Star Tennis '99 (Europe) (En,Fr,De,Es,It).png",
+			"All Star Tennis 99 (USA).png"
+		],
+		"boxarts": [
+			"All Star Tennis '99 (Europe) (En,Fr,De,Es,It).png",
+			"All Star Tennis 99 (USA).png"
+		],
+		"snaps": [
+			"All Star Tennis '99 (Europe) (En,Fr,De,Es,It).png",
+			"All Star Tennis 99 (USA).png"
+		]
+	},
+	"All-Star_Baseball_2000": {
+		"titles": [
+			"All-Star Baseball 2000 (Europe).png",
+			"All-Star Baseball 2000 (USA).png"
+		],
+		"boxarts": [
+			"All-Star Baseball 2000 (Europe).png",
+			"All-Star Baseball 2000 (USA).png"
+		],
+		"snaps": [
+			"All-Star Baseball 2000 (Europe).png",
+			"All-Star Baseball 2000 (USA).png"
+		]
+	},
+	"All-Star_Baseball_2001": {
+		"titles": [
+			"All-Star Baseball 2001 (USA).png"
+		],
+		"boxarts": [
+			"All-Star Baseball 2001 (USA).png"
+		],
+		"snaps": [
+			"All-Star Baseball 2001 (USA).png"
+		]
+	},
+	"All-Star_Baseball_99": {
+		"titles": [
+			"All-Star Baseball 99 (Europe).png",
+			"All-Star Baseball 99 (USA).png"
+		],
+		"boxarts": [
+			"All-Star Baseball 99 (Europe).png",
+			"All-Star Baseball 99 (USA).png"
+		],
+		"snaps": [
+			"All-Star Baseball 99 (Europe).png",
+			"All-Star Baseball 99 (USA).png"
+		]
+	},
+	"Armorines:_Project_S.W.A.R.M.": {
+		"titles": [
+			"Armorines - Project S.W.A.R.M. (Europe).png",
+			"Armorines - Project S.W.A.R.M. (Germany).png",
+			"Armorines - Project S.W.A.R.M. (USA).png"
+		],
+		"boxarts": [
+			"Armorines - Project S.W.A.R.M. (Europe).png",
+			"Armorines - Project S.W.A.R.M. (Germany).png",
+			"Armorines - Project S.W.A.R.M. (USA).png"
+		],
+		"snaps": [
+			"Armorines - Project S.W.A.R.M. (Europe).png",
+			"Armorines - Project S.W.A.R.M. (Germany).png",
+			"Armorines - Project S.W.A.R.M. (USA).png"
+		]
+	},
+	"Army_Men:_Air_Attack": {
+		"titles": [
+			"Army Men - Air Combat (USA).png"
+		],
+		"boxarts": [
+			"Army Men - Air Combat (USA).png"
+		],
+		"snaps": [
+			"Army Men - Air Combat (USA).png"
+		]
+	},
+	"Army_Men:_Sarge's_Heroes": {
+		"titles": [
+			"Army Men - Sarge's Heroes (Europe) (En,Fr,De).png",
+			"Army Men - Sarge's Heroes (USA).png"
+		],
+		"boxarts": [
+			"Army Men - Sarge's Heroes (Europe) (En,Fr,De).png",
+			"Army Men - Sarge's Heroes (USA).png"
+		],
+		"snaps": [
+			"Army Men - Sarge's Heroes (Europe) (En,Fr,De).png",
+			"Army Men - Sarge's Heroes (USA).png"
+		]
+	},
+	"Army_Men:_Sarge's_Heroes_2": {
+		"titles": [
+			"Army Men - Sarge's Heroes 2 (USA).png"
+		],
+		"boxarts": [
+			"Army Men - Sarge's Heroes 2 (USA).png"
+		],
+		"snaps": [
+			"Army Men - Sarge's Heroes 2 (USA).png"
+		]
+	},
+	"Asteroids_(video_game)_Re-releases": {
+		"titles": [
+			"Asteroids Hyper 64 (USA).png"
+		],
+		"boxarts": [
+			"Asteroids Hyper 64 (USA).png"
+		],
+		"snaps": [
+			"Asteroids Hyper 64 (USA).png"
+		]
+	},
+	"Automobili_Lamborghini_(video_game)": {
+		"titles": [
+			"Automobili Lamborghini (Europe).png",
+			"Automobili Lamborghini (USA).png",
+			"Super Speed Race 64 (Japan).png"
+		],
+		"boxarts": [
+			"Automobili Lamborghini (Europe).png",
+			"Automobili Lamborghini (USA).png",
+			"Super Speed Race 64 (Japan).png"
+		],
+		"snaps": [
+			"Automobili Lamborghini (Europe).png",
+			"Automobili Lamborghini (USA).png",
+			"Super Speed Race 64 (Japan).png"
+		]
+	},
+	"Bomberman_64_(1997_video_game)": {
+		"titles": [
+			"Baku Bomberman (Japan).png",
+			"Bomberman 64 (Europe).png",
+			"Bomberman 64 (Japan).png",
+			"Bomberman 64 (USA).png"
+		],
+		"boxarts": [
+			"Baku Bomberman (Japan).png",
+			"Bomberman 64 (Europe).png",
+			"Bomberman 64 (Japan).png",
+			"Bomberman 64 (USA).png"
+		],
+		"snaps": [
+			"Baku Bomberman (Japan).png",
+			"Bomberman 64 (Europe).png",
+			"Bomberman 64 (Japan).png",
+			"Bomberman 64 (USA).png"
+		]
+	},
+	"Bomberman_64:_The_Second_Attack!": {
+		"titles": [
+			"Baku Bomberman 2 (Japan).png",
+			"Bomberman 64 - The Second Attack! (USA).png"
+		],
+		"boxarts": [
+			"Baku Bomberman 2 (Japan).png",
+			"Bomberman 64 - The Second Attack! (USA).png"
+		],
+		"snaps": [
+			"Baku Bomberman 2 (Japan).png",
+			"Bomberman 64 - The Second Attack! (USA).png"
+		]
+	},
+	"Banjo-Kazooie_(video_game)": {
+		"titles": [
+			"Banjo-Kazooie (Europe) (En,Fr,De).png",
+			"Banjo-Kazooie (USA) (Rev 1).png",
+			"Banjo-Kazooie (USA).png"
+		],
+		"boxarts": [
+			"Banjo-Kazooie (Europe) (En,Fr,De).png",
+			"Banjo-Kazooie (USA) (Rev 1).png",
+			"Banjo-Kazooie (USA).png"
+		],
+		"snaps": [
+			"Banjo-Kazooie (Europe) (En,Fr,De).png",
+			"Banjo-Kazooie (USA) (Rev 1).png",
+			"Banjo-Kazooie (USA) (Rev A).png",
+			"Banjo-Kazooie (USA).png"
+		]
+	},
+	"Banjo-Tooie": {
+		"titles": [
+			"Banjo-Tooie (Australia).png",
+			"Banjo-Tooie (Europe) (En,Fr,De,Es).png",
+			"Banjo-Tooie (USA).png"
+		],
+		"boxarts": [
+			"Banjo-Tooie (Australia).png",
+			"Banjo-Tooie (Europe) (En,Fr,De,Es).png",
+			"Banjo-Tooie (USA).png"
+		],
+		"snaps": [
+			"Banjo-Tooie (Australia).png",
+			"Banjo-Tooie (Europe) (En,Fr,De,Es).png",
+			"Banjo-Tooie (USA).png"
+		]
+	},
+	"Bass_Masters_2000": {
+		"titles": [
+			"Bassmasters 2000 (USA).png"
+		],
+		"boxarts": [
+			"Bassmasters 2000 (USA).png"
+		],
+		"snaps": [
+			"Bassmasters 2000 (USA).png"
+		]
+	},
+	"Batman_Beyond:_Return_of_the_Joker_(video_game)": {
+		"titles": [
+			"Batman Beyond - Return of the Joker (USA).png",
+			"Batman of the Future - Return of the Joker (Europe) (En,Fr,De).png"
+		],
+		"boxarts": [
+			"Batman Beyond - Return of the Joker (USA).png",
+			"Batman of the Future - Return of the Joker (Europe) (En,Fr,De).png"
+		],
+		"snaps": [
+			"Batman Beyond - Return of the Joker (USA).png",
+			"Batman of the Future - Return of the Joker (Europe) (En,Fr,De).png"
+		]
+	},
+	"BattleTanx": {
+		"titles": [
+			"BattleTanx (USA).png"
+		],
+		"boxarts": [
+			"BattleTanx (USA).png"
+		],
+		"snaps": [
+			"BattleTanx (USA).png"
+		]
+	},
+	"BattleTanx:_Global_Assault": {
+		"titles": [
+			"BattleTanx - Global Assault (Europe) (En,Fr,De).png",
+			"BattleTanx - Global Assault (USA).png"
+		],
+		"boxarts": [
+			"BattleTanx - Global Assault (Europe) (En,Fr,De).png",
+			"BattleTanx - Global Assault (USA).png"
+		],
+		"snaps": [
+			"BattleTanx - Global Assault (Europe) (En,Fr,De).png",
+			"BattleTanx - Global Assault (USA).png"
+		]
+	},
+	"Battlezone_(1998_video_game)_Nintendo_64_port": {
+		"titles": [
+			"Battlezone - Rise of the Black Dogs (USA).png"
+		],
+		"boxarts": [
+			"Battlezone - Rise of the Black Dogs (USA).png"
+		],
+		"snaps": [
+			"Battlezone - Rise of the Black Dogs (USA).png"
+		]
+	},
+	"Beetle_Adventure_Racing": {
+		"titles": [
+			"Beetle Adventure Racing! (Europe) (En,Fr,De).png",
+			"Beetle Adventure Racing! (Japan).png",
+			"Beetle Adventure Racing! (USA) (En,Fr,De).png",
+			"HSV Adventure Racing! (Australia).png"
+		],
+		"boxarts": [
+			"Beetle Adventure Racing! (Europe) (En,Fr,De).png",
+			"Beetle Adventure Racing! (Japan).png",
+			"Beetle Adventure Racing! (USA) (En,Fr,De).png",
+			"HSV Adventure Racing! (Australia).png"
+		],
+		"snaps": [
+			"Beetle Adventure Racing! (Europe) (En,Fr,De).png",
+			"Beetle Adventure Racing! (Japan).png",
+			"Beetle Adventure Racing! (USA) (En,Fr,De).png",
+			"HSV Adventure Racing! (Australia).png"
+		]
+	},
+	"Big_Mountain_2000": {
+		"titles": [
+			"Big Mountain 2000 (USA).png"
+		],
+		"boxarts": [
+			"Big Mountain 2000 (USA).png"
+		],
+		"snaps": [
+			"Big Mountain 2000 (USA).png"
+		]
+	},
+	"Bio_F.R.E.A.K.S.": {
+		"titles": [
+			"Bio F.R.E.A.K.S. (Europe).png",
+			"Bio F.R.E.A.K.S. (USA).png"
+		],
+		"boxarts": [
+			"Bio F.R.E.A.K.S. (Europe).png",
+			"Bio F.R.E.A.K.S. (USA).png"
+		],
+		"snaps": [
+			"Bio F.R.E.A.K.S. (Europe).png",
+			"Bio F.R.E.A.K.S. (USA).png"
+		]
+	},
+	"Blast_Corps": {
+		"titles": [
+			"Blast Corps (Europe) (En,De).png",
+			"Blast Corps (USA) (Rev 1).png",
+			"Blast Corps (USA).png"
+		],
+		"boxarts": [
+			"Blast Corps (Europe) (En,De).png",
+			"Blast Corps (USA) (Rev 1).png",
+			"Blast Corps (USA).png"
+		],
+		"snaps": [
+			"Blast Corps (Europe) (En,De).png",
+			"Blast Corps (USA) (Rev 1).png",
+			"Blast Corps (USA).png"
+		]
+	},
+	"Blues_Brothers_2000_(video_game)": {
+		"titles": [
+			"Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl).png",
+			"Blues Brothers 2000 (USA).png"
+		],
+		"boxarts": [
+			"Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta) (2000-01-15) (#20).png",
+			"Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta) (2000-01-15) (#53).png",
+			"Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl).png",
+			"Blues Brothers 2000 (USA).png"
+		],
+		"snaps": [
+			"Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl).png",
+			"Blues Brothers 2000 (USA).png"
+		]
+	},
+	"Body_Harvest": {
+		"titles": [
+			"Body Harvest (Europe) (En,Fr,De).png",
+			"Body Harvest (USA).png"
+		],
+		"boxarts": [
+			"Body Harvest (Europe) (En,Fr,De).png",
+			"Body Harvest (USA).png"
+		],
+		"snaps": [
+			"Body Harvest (Europe) (En,Fr,De).png",
+			"Body Harvest (USA).png"
+		]
+	},
+	"Bomberman_Hero": {
+		"titles": [
+			"Bomberman Hero (Europe).png",
+			"Bomberman Hero (USA).png"
+		],
+		"boxarts": [
+			"Bomberman Hero (Europe).png",
+			"Bomberman Hero (USA).png"
+		],
+		"snaps": [
+			"Bomberman Hero (Europe).png",
+			"Bomberman Hero (USA).png"
+		]
+	},
+	"Bottom_of_the_9th": {
+		"titles": [
+			"Bottom of the 9th (USA).png"
+		],
+		"boxarts": [
+			"Bottom of the 9th (USA).png"
+		],
+		"snaps": [
+			"Bottom of the 9th (USA).png"
+		]
+	},
+	"Brunswick_Circuit_Pro_Bowling": {
+		"titles": [
+			"Brunswick Circuit Pro Bowling (USA).png"
+		],
+		"boxarts": [
+			"Brunswick Circuit Pro Bowling (USA).png"
+		],
+		"snaps": [
+			"Brunswick Circuit Pro Bowling (USA).png"
+		]
+	},
+	"Buck_Bumble": {
+		"titles": [
+			"Buck Bumble (Europe) (En,Fr,De,Es,It).png",
+			"Buck Bumble (Japan).png",
+			"Buck Bumble (USA).png"
+		],
+		"boxarts": [
+			"Buck Bumble (Europe) (En,Fr,De,Es,It).png",
+			"Buck Bumble (Japan).png",
+			"Buck Bumble (USA).png"
+		],
+		"snaps": [
+			"Buck Bumble (Europe) (En,Fr,De,Es,It).png",
+			"Buck Bumble (Japan).png",
+			"Buck Bumble (USA).png"
+		]
+	},
+	"A_Bug's_Life_(video_game)": {
+		"titles": [
+			"Bug's Life, A (Europe).png",
+			"Bug's Life, A (France).png",
+			"Bug's Life, A (Germany).png",
+			"Bug's Life, A (Italy).png",
+			"Bug's Life, A (USA).png"
+		],
+		"boxarts": [
+			"Bug's Life, A (Europe).png",
+			"Bug's Life, A (France).png",
+			"Bug's Life, A (Germany).png",
+			"Bug's Life, A (Italy).png",
+			"Bug's Life, A (USA).png"
+		],
+		"snaps": [
+			"Bug's Life, A (Europe).png",
+			"Bug's Life, A (France).png",
+			"Bug's Life, A (Germany).png",
+			"Bug's Life, A (Italy).png",
+			"Bug's Life, A (USA).png"
+		]
+	},
+	"Puzzle_Bobble_3": {
+		"titles": [
+			"Bust-A-Move '99 (USA).png",
+			"Bust-A-Move 3 DX (Europe).png",
+			"Puzzle Bobble 64 (Japan).png"
+		],
+		"boxarts": [
+			"Bust-A-Move '99 (USA).png",
+			"Bust-A-Move 3 DX (Europe).png",
+			"Puzzle Bobble 64 (Japan).png"
+		],
+		"snaps": [
+			"Bust-A-Move '99 (USA).png",
+			"Bust-A-Move 3 DX (Europe).png",
+			"Puzzle Bobble 64 (Japan).png"
+		]
+	},
+	"Puzzle_Bobble_2": {
+		"titles": [
+			"Bust-A-Move 2 - Arcade Edition (Europe).png",
+			"Bust-A-Move 2 - Arcade Edition (USA).png"
+		],
+		"boxarts": [
+			"Bust-A-Move 2 - Arcade Edition (Europe).png",
+			"Bust-A-Move 2 - Arcade Edition (USA).png"
+		],
+		"snaps": [
+			"Bust-A-Move 2 - Arcade Edition (Europe).png",
+			"Bust-A-Move 2 - Arcade Edition (USA).png"
+		]
+	},
+	"California_Speed_(video_game)": {
+		"titles": [
+			"California Speed (Europe) (Proto).png",
+			"California Speed (USA).png"
+		],
+		"boxarts": [
+			"California Speed (Europe) (Proto).png",
+			"California Speed (USA).png"
+		],
+		"snaps": [
+			"California Speed (Europe) (Proto).png",
+			"California Speed (USA).png"
+		]
+	},
+	"Carmageddon_II:_Carpocalypse_Now": {
+		"titles": [
+			"Carmageddon 64 (Europe) (En,Fr,De,Es).png",
+			"Carmageddon 64 (Europe) (En,Fr,Es,It).png",
+			"Carmageddon 64 (USA).png"
+		],
+		"boxarts": [
+			"Carmageddon 64 (Europe) (En,Fr,De,Es).png",
+			"Carmageddon 64 (Europe) (En,Fr,Es,It).png",
+			"Carmageddon 64 (USA).png"
+		],
+		"snaps": [
+			"Carmageddon 64 (Europe) (En,Fr,De,Es).png",
+			"Carmageddon 64 (Europe) (En,Fr,Es,It).png",
+			"Carmageddon 64 (USA).png"
+		]
+	},
+	"Castlevania_(1999_video_game)": {
+		"titles": [
+			"Castlevania (Europe) (En,Fr,De).png",
+			"Castlevania (USA) (Rev 1).png",
+			"Castlevania (USA) (Rev 2).png",
+			"Castlevania (USA).png"
+		],
+		"boxarts": [
+			"Castlevania (Europe) (En,Fr,De).png",
+			"Castlevania (USA) (Rev 1).png",
+			"Castlevania (USA) (Rev 2).png",
+			"Castlevania (USA).png"
+		],
+		"snaps": [
+			"Castlevania (Europe) (En,Fr,De).png",
+			"Castlevania (USA) (Rev 1).png",
+			"Castlevania (USA) (Rev 2).png",
+			"Castlevania (USA) (Rev B).png",
+			"Castlevania (USA).png"
+		]
+	},
+	"Castlevania:_Legacy_of_Darkness": {
+		"titles": [
+			"Castlevania - Legacy of Darkness (Europe) (En,Fr,De).png",
+			"Castlevania - Legacy of Darkness (USA).png"
+		],
+		"boxarts": [
+			"Castlevania - Legacy of Darkness (Europe) (En,Fr,De).png",
+			"Castlevania - Legacy of Darkness (USA).png"
+		],
+		"snaps": [
+			"Castlevania - Legacy of Darkness (Europe) (En,Fr,De).png",
+			"Castlevania - Legacy of Darkness (USA).png"
+		]
+	},
+	"Chameleon_Twist": {
+		"titles": [
+			"Chameleon Twist (Europe).png",
+			"Chameleon Twist (Japan).png",
+			"Chameleon Twist (USA) (Rev 1).png",
+			"Chameleon Twist (USA).png"
+		],
+		"boxarts": [
+			"Chameleon Twist (Europe).png",
+			"Chameleon Twist (Japan).png",
+			"Chameleon Twist (USA) (Rev 1).png",
+			"Chameleon Twist (USA).png"
+		],
+		"snaps": [
+			"Chameleon Twist (Europe).png",
+			"Chameleon Twist (Japan).png",
+			"Chameleon Twist (USA) (Rev 1).png",
+			"Chameleon Twist (USA).png"
+		]
+	},
+	"Chameleon_Twist_2": {
+		"titles": [
+			"Chameleon Twist 2 (Europe).png",
+			"Chameleon Twist 2 (Japan).png",
+			"Chameleon Twist 2 (USA).png"
+		],
+		"boxarts": [
+			"Chameleon Twist 2 (Europe).png",
+			"Chameleon Twist 2 (Japan).png",
+			"Chameleon Twist 2 (USA).png"
+		],
+		"snaps": [
+			"Chameleon Twist 2 (Europe).png",
+			"Chameleon Twist 2 (Japan).png",
+			"Chameleon Twist 2 (USA).png"
+		]
+	},
+	"The_Bombing_Islands_Charlie_Blast's_Territory": {
+		"titles": [
+			"Charlie Blast's Territory (Europe).png",
+			"Charlie Blast's Territory (USA).png"
+		],
+		"boxarts": [
+			"Charlie Blast's Territory (Europe).png",
+			"Charlie Blast's Territory (USA).png"
+		],
+		"snaps": [
+			"Charlie Blast's Territory (Europe).png",
+			"Charlie Blast's Territory (USA).png"
+		]
+	},
+	"Chopper_Attack": {
+		"titles": [
+			"Chopper Attack (Europe).png",
+			"Chopper Attack (USA).png"
+		],
+		"boxarts": [
+			"Chopper Attack (Europe).png",
+			"Chopper Attack (USA).png"
+		],
+		"snaps": [
+			"Chopper Attack (Europe).png",
+			"Chopper Attack (USA).png"
+		]
+	},
+	"Penny_Racers_(1998_video_game)": {
+		"titles": [
+			"Choro Q 64 (Japan).png",
+			"Penny Racers (Europe).png",
+			"Penny Racers (USA).png"
+		],
+		"boxarts": [
+			"Choro Q 64 (Japan).png",
+			"Penny Racers (Europe).png",
+			"Penny Racers (USA).png"
+		],
+		"snaps": [
+			"Choro Q 64 (Japan).png",
+			"Penny Racers (Europe).png",
+			"Penny Racers (USA).png"
+		]
+	},
+	"ClayFighter_63⅓_ClayFighter:_Sculptor's_Cut": {
+		"titles": [
+			"Clay Fighter - Sculptor's Cut (USA).png"
+		],
+		"boxarts": [
+			"Clay Fighter - Sculptor's Cut (USA).png"
+		],
+		"snaps": [
+			"Clay Fighter - Sculptor's Cut (USA).png"
+		]
+	},
+	"ClayFighter_63⅓": {
+		"titles": [
+			"Clay Fighter 63 1-3 (USA).png"
+		],
+		"boxarts": [
+			"Clay Fighter 63 1-3 (USA).png"
+		],
+		"snaps": [
+			"Clay Fighter 63 1-3 (USA).png"
+		]
+	},
+	"Command_&_Conquer_(1995_video_game)_Release": {
+		"titles": [
+			"Command _ Conquer (Europe) (En,Fr).png",
+			"Command _ Conquer (Germany).png",
+			"Command _ Conquer (USA).png"
+		],
+		"boxarts": [
+			"Command _ Conquer (Europe) (En,Fr).png",
+			"Command _ Conquer (Germany).png",
+			"Command _ Conquer (USA).png"
+		],
+		"snaps": [
+			"Command _ Conquer (Europe) (En,Fr).png",
+			"Command _ Conquer (Germany).png",
+			"Command _ Conquer (USA).png"
+		]
+	},
+	"Conker's_Bad_Fur_Day": {
+		"titles": [
+			"Conker's Bad Fur Day (Europe).png",
+			"Conker's Bad Fur Day (USA) (Beta) (2000-10-25).png",
+			"Conker's Bad Fur Day (USA) (Beta) (ECTS 2000) (2000-08-26).png",
+			"Conker's Bad Fur Day (USA).png"
+		],
+		"boxarts": [
+			"Conker's Bad Fur Day (Europe).png",
+			"Conker's Bad Fur Day (USA) (Beta) (2000-10-25).png",
+			"Conker's Bad Fur Day (USA) (Beta) (ECTS 2000) (2000-08-26).png",
+			"Conker's Bad Fur Day (USA).png"
+		],
+		"snaps": [
+			"Conker's Bad Fur Day (Europe).png",
+			"Conker's Bad Fur Day (USA) (Beta) (2000-10-25).png",
+			"Conker's Bad Fur Day (USA) (Beta) (ECTS 2000) (2000-08-26).png",
+			"Conker's Bad Fur Day (USA).png"
+		]
+	},
+	"Cruis'n_Exotica": {
+		"titles": [
+			"Cruis'n Exotica (USA).png"
+		],
+		"boxarts": [
+			"Cruis'n Exotica (USA).png"
+		],
+		"snaps": [
+			"Cruis'n Exotica (USA).png"
+		]
+	},
+	"Cruis'n_USA": {
+		"titles": [
+			"Cruis'n USA (Europe).png",
+			"Cruis'n USA (USA) (Rev 1).png",
+			"Cruis'n USA (USA) (Rev 2).png",
+			"Cruis'n USA (USA) (Wii Virtual Console).png",
+			"Cruis'n USA (USA).png"
+		],
+		"boxarts": [
+			"Cruis'n USA (Europe).png",
+			"Cruis'n USA (USA) (Rev 1).png",
+			"Cruis'n USA (USA) (Rev 2).png",
+			"Cruis'n USA (USA) (Wii Virtual Console).png",
+			"Cruis'n USA (USA).png"
+		],
+		"snaps": [
+			"Cruis'n USA (Europe).png",
+			"Cruis'n USA (USA) (Rev 1).png",
+			"Cruis'n USA (USA) (Rev 2).png",
+			"Cruis'n USA (USA).png"
+		]
+	},
+	"Cruis'n_World": {
+		"titles": [
+			"Cruis'n World (Europe) (Rev 1).png",
+			"Cruis'n World (Europe).png",
+			"Cruis'n World (USA).png"
+		],
+		"boxarts": [
+			"Cruis'n World (Europe) (Rev 1).png",
+			"Cruis'n World (Europe).png",
+			"Cruis'n World (USA).png"
+		],
+		"snaps": [
+			"Cruis'n World (Europe).png",
+			"Cruis'n World (USA).png"
+		]
+	},
+	"CyberTiger": {
+		"titles": [
+			"CyberTiger (Europe).png",
+			"CyberTiger (USA).png"
+		],
+		"boxarts": [
+			"CyberTiger (Europe).png",
+			"CyberTiger (USA).png"
+		],
+		"snaps": [
+			"CyberTiger (Europe).png",
+			"CyberTiger (USA).png"
+		]
+	},
+	"Duck_Dodgers_Starring_Daffy_Duck": {
+		"titles": [
+			"Daffy Duck Starring as Duck Dodgers (Europe) (En,Fr,De,Es,It,Nl).png",
+			"Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta) (2000-03-07).png",
+			"Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es).png"
+		],
+		"boxarts": [
+			"Daffy Duck Starring as Duck Dodgers (Europe) (En,Fr,De,Es,It,Nl).png",
+			"Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta) (2000-03-07).png",
+			"Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es).png"
+		],
+		"snaps": [
+			"Daffy Duck Starring as Duck Dodgers (Europe) (En,Fr,De,Es,It,Nl).png",
+			"Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta) (2000-03-07).png",
+			"Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es).png"
+		]
+	},
+	"Dark_Rift": {
+		"titles": [
+			"Dark Rift (Europe).png",
+			"Dark Rift (USA).png"
+		],
+		"boxarts": [
+			"Dark Rift (Europe).png",
+			"Dark Rift (USA).png"
+		],
+		"snaps": [
+			"Dark Rift (Europe).png",
+			"Dark Rift (USA).png"
+		]
+	},
+	"G.A.S.P!!_Fighters'_NEXTream": {
+		"titles": [
+			"Deadly Arts (USA).png",
+			"G.A.S.P!! Fighters' NEXTream (Europe).png",
+			"G.A.S.P!! Fighters' NEXTream (Japan).png"
+		],
+		"boxarts": [
+			"Deadly Arts (USA).png",
+			"G.A.S.P!! Fighters' NEXTream (Europe).png",
+			"G.A.S.P!! Fighters' NEXTream (Japan).png"
+		],
+		"snaps": [
+			"Deadly Arts (USA).png",
+			"G.A.S.P!! Fighters' NEXTream (Europe).png",
+			"G.A.S.P!! Fighters' NEXTream (Japan).png"
+		]
+	},
+	"Destruction_Derby_64": {
+		"titles": [
+			"Destruction Derby 64 (Europe) (En,Fr,De).png",
+			"Destruction Derby 64 (USA).png"
+		],
+		"boxarts": [
+			"Destruction Derby 64 (Europe) (En,Fr,De).png",
+			"Destruction Derby 64 (USA).png"
+		],
+		"snaps": [
+			"Destruction Derby 64 (Europe) (En,Fr,De).png",
+			"Destruction Derby 64 (USA).png"
+		]
+	},
+	"Diddy_Kong_Racing": {
+		"titles": [
+			"Diddy Kong Racing (Europe) (En,Fr,De) (Rev 1).png",
+			"Diddy Kong Racing (Europe) (En,Fr,De).png",
+			"Diddy Kong Racing (Japan).png",
+			"Diddy Kong Racing (USA) (En,Fr) (Rev 1).png",
+			"Diddy Kong Racing (USA) (En,Fr).png"
+		],
+		"boxarts": [
+			"Diddy Kong Racing (Europe) (En,Fr,De) (Rev 1).png",
+			"Diddy Kong Racing (Europe) (En,Fr,De).png",
+			"Diddy Kong Racing (Japan).png",
+			"Diddy Kong Racing (USA) (En,Fr) (Rev 1).png",
+			"Diddy Kong Racing (USA) (En,Fr).png"
+		],
+		"snaps": [
+			"Diddy Kong Racing (Europe) (En,Fr,De) (Rev 1).png",
+			"Diddy Kong Racing (Europe) (En,Fr,De).png",
+			"Diddy Kong Racing (Japan).png",
+			"Diddy Kong Racing (USA) (En,Fr) (Rev 1).png",
+			"Diddy Kong Racing (USA) (En,Fr) (Rev A).png",
+			"Diddy Kong Racing (USA) (En,Fr).png"
+		]
+	},
+	"Donald_Duck:_Goin'_Quackers": {
+		"titles": [
+			"Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It).png",
+			"Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It).png"
+		],
+		"boxarts": [
+			"Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It).png",
+			"Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It).png"
+		],
+		"snaps": [
+			"Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It).png",
+			"Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It).png"
+		]
+	},
+	"Donkey_Kong_64": {
+		"titles": [
+			"Donkey Kong 64 (Europe) (En,Fr,De,Es).png",
+			"Donkey Kong 64 (Japan).png",
+			"Donkey Kong 64 (USA) (Demo) (Kiosk).png",
+			"Donkey Kong 64 (USA).png"
+		],
+		"boxarts": [
+			"Donkey Kong 64 (Europe) (En,Fr,De,Es).png",
+			"Donkey Kong 64 (Japan).png",
+			"Donkey Kong 64 (USA) (Demo) (Kiosk).png",
+			"Donkey Kong 64 (USA).png"
+		],
+		"snaps": [
+			"Donkey Kong 64 (Europe) (En,Fr,De,Es).png",
+			"Donkey Kong 64 (Japan).png",
+			"Donkey Kong 64 (USA) (Demo) (Kiosk).png",
+			"Donkey Kong 64 (USA).png"
+		]
+	},
+	"Doom_64": {
+		"titles": [
+			"Doom 64 (Europe).png",
+			"Doom 64 (Japan).png",
+			"Doom 64 (USA) (Rev 1).png",
+			"Doom 64 (USA).png"
+		],
+		"boxarts": [
+			"Doom 64 (Europe).png",
+			"Doom 64 (Japan).png",
+			"Doom 64 (USA) (Rev 1).png",
+			"Doom 64 (USA).png"
+		],
+		"snaps": [
+			"Doom 64 (Europe).png",
+			"Doom 64 (Japan).png",
+			"Doom 64 (USA) (Rev 1).png",
+			"Doom 64 (USA).png"
+		]
+	},
+	"Dr._Mario_64": {
+		"titles": [
+			"Dr. Mario 64 (USA).png"
+		],
+		"boxarts": [
+			"Dr. Mario 64 (USA).png"
+		],
+		"snaps": [
+			"Dr. Mario 64 (USA).png"
+		]
+	},
+	"Dual_Heroes": {
+		"titles": [
+			"Dual Heroes (Europe).png",
+			"Dual Heroes (Japan).png",
+			"Dual Heroes (USA).png"
+		],
+		"boxarts": [
+			"Dual Heroes (Europe).png",
+			"Dual Heroes (Japan).png",
+			"Dual Heroes (USA).png"
+		],
+		"snaps": [
+			"Dual Heroes (Europe).png",
+			"Dual Heroes (Japan).png",
+			"Dual Heroes (USA).png"
+		]
+	},
+	"Duke_Nukem:_Zero_Hour": {
+		"titles": [
+			"Duke Nukem - Zero Hour (Europe).png",
+			"Duke Nukem - Zero Hour (France).png",
+			"Duke Nukem - Zero Hour (USA).png"
+		],
+		"boxarts": [
+			"Duke Nukem - Zero Hour (Europe).png",
+			"Duke Nukem - Zero Hour (France).png",
+			"Duke Nukem - Zero Hour (USA).png"
+		],
+		"snaps": [
+			"Duke Nukem - Zero Hour (Europe).png",
+			"Duke Nukem - Zero Hour (France).png",
+			"Duke Nukem - Zero Hour (USA).png"
+		]
+	},
+	"Duke_Nukem_3D_Console_versions_and_add-ons": {
+		"titles": [
+			"Duke Nukem 64 (Europe) (Beta).png",
+			"Duke Nukem 64 (Europe).png",
+			"Duke Nukem 64 (France).png",
+			"Duke Nukem 64 (USA).png"
+		],
+		"boxarts": [
+			"Duke Nukem 64 (Europe) (Beta).png",
+			"Duke Nukem 64 (Europe).png",
+			"Duke Nukem 64 (France).png",
+			"Duke Nukem 64 (USA).png"
+		],
+		"snaps": [
+			"Duke Nukem 64 (Europe) (Beta).png",
+			"Duke Nukem 64 (Europe).png",
+			"Duke Nukem 64 (France).png",
+			"Duke Nukem 64 (USA).png"
+		]
+	},
+	"ECW_Hardcore_Revolution": {
+		"titles": [
+			"ECW Hardcore Revolution (Europe).png",
+			"ECW Hardcore Revolution (Germany).png",
+			"ECW Hardcore Revolution (USA).png"
+		],
+		"boxarts": [
+			"ECW Hardcore Revolution (Europe).png",
+			"ECW Hardcore Revolution (Germany).png",
+			"ECW Hardcore Revolution (USA) (Beta).png",
+			"ECW Hardcore Revolution (USA).png"
+		],
+		"snaps": [
+			"ECW Hardcore Revolution (Europe).png",
+			"ECW Hardcore Revolution (USA).png"
+		]
+	},
+	"Earthworm_Jim_3D": {
+		"titles": [
+			"Earthworm Jim 3D (Europe) (En,Fr,De,Es,It).png",
+			"Earthworm Jim 3D (USA).png"
+		],
+		"boxarts": [
+			"Earthworm Jim 3D (Europe) (En,Fr,De,Es,It).png",
+			"Earthworm Jim 3D (USA).png"
+		],
+		"snaps": [
+			"Earthworm Jim 3D (Europe) (En,Fr,De,Es,It).png",
+			"Earthworm Jim 3D (USA).png"
+		]
+	},
+	"Excitebike_64": {
+		"titles": [
+			"Excitebike 64 (Europe).png",
+			"Excitebike 64 (Japan).png",
+			"Excitebike 64 (USA) (Demo) (Kiosk).png",
+			"Excitebike 64 (USA) (Rev 1).png",
+			"Excitebike 64 (USA).png"
+		],
+		"boxarts": [
+			"Excitebike 64 (Europe).png",
+			"Excitebike 64 (Japan).png",
+			"Excitebike 64 (USA) (Demo) (Kiosk).png",
+			"Excitebike 64 (USA) (Rev 1).png",
+			"Excitebike 64 (USA).png"
+		],
+		"snaps": [
+			"Excitebike 64 (Europe).png",
+			"Excitebike 64 (Japan).png",
+			"Excitebike 64 (USA) (Demo) (Kiosk).png",
+			"Excitebike 64 (USA) (Rev 1).png",
+			"Excitebike 64 (USA).png"
+		]
+	},
+	"Extreme-G": {
+		"titles": [
+			"Extreme-G (Europe) (En,Fr,De,Es,It).png",
+			"Extreme-G (Japan).png",
+			"Extreme-G (USA).png"
+		],
+		"boxarts": [
+			"Extreme-G (Europe) (En,Fr,De,Es,It).png",
+			"Extreme-G (Japan).png",
+			"Extreme-G (USA).png"
+		],
+		"snaps": [
+			"Extreme-G (Europe) (En,Fr,De,Es,It).png",
+			"Extreme-G (Japan).png",
+			"Extreme-G (USA).png"
+		]
+	},
+	"Extreme-G_2": {
+		"titles": [
+			"Extreme-G XG2 (USA).png"
+		],
+		"boxarts": [
+			"Extreme-G XG2 (USA).png"
+		],
+		"snaps": [
+			"Extreme-G XG2 (USA).png"
+		]
+	},
+	"F-1_World_Grand_Prix": {
+		"titles": [
+			"F-1 World Grand Prix (Europe) (Beta).png",
+			"F-1 World Grand Prix (Europe).png",
+			"F-1 World Grand Prix (France).png",
+			"F-1 World Grand Prix (Germany).png",
+			"F-1 World Grand Prix (Japan).png",
+			"F-1 World Grand Prix (USA).png"
+		],
+		"boxarts": [
+			"F-1 World Grand Prix (Europe) (Beta).png",
+			"F-1 World Grand Prix (Europe).png",
+			"F-1 World Grand Prix (France).png",
+			"F-1 World Grand Prix (Germany).png",
+			"F-1 World Grand Prix (Japan).png",
+			"F-1 World Grand Prix (USA).png"
+		],
+		"snaps": [
+			"F-1 World Grand Prix (Europe) (Beta).png",
+			"F-1 World Grand Prix (Europe).png",
+			"F-1 World Grand Prix (France).png",
+			"F-1 World Grand Prix (Germany).png",
+			"F-1 World Grand Prix (Japan).png",
+			"F-1 World Grand Prix (USA).png"
+		]
+	},
+	"F-Zero_X": {
+		"titles": [
+			"F-Zero X (Europe).png",
+			"F-Zero X (Japan).png",
+			"F-Zero X (USA).png"
+		],
+		"boxarts": [
+			"F-Zero X (Europe).png",
+			"F-Zero X (Japan).png",
+			"F-Zero X (USA) (Beta) (The Legend of Zelda Ocarina of Time Overdump).png",
+			"F-Zero X (USA).png"
+		],
+		"snaps": [
+			"F-Zero X (Europe).png",
+			"F-Zero X (Japan).png",
+			"F-Zero X (USA).png"
+		]
+	},
+	"F1_Pole_Position_64": {
+		"titles": [
+			"F1 Pole Position 64 (Europe) (En,Fr,De).png",
+			"F1 Pole Position 64 (USA) (En,Fr,De).png",
+			"Human Grand Prix - The New Generation (Japan).png"
+		],
+		"boxarts": [
+			"F1 Pole Position 64 (Europe) (En,Fr,De).png",
+			"F1 Pole Position 64 (USA) (En,Fr,De).png",
+			"Human Grand Prix - The New Generation (Japan).png"
+		],
+		"snaps": [
+			"F1 Pole Position 64 (Europe) (En,Fr,De).png",
+			"F1 Pole Position 64 (USA) (En,Fr,De).png",
+			"Human Grand Prix - The New Generation (Japan).png"
+		]
+	},
+	"FIFA:_Road_to_World_Cup_98": {
+		"titles": [
+			"FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv).png",
+			"FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv).png"
+		],
+		"boxarts": [
+			"FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv).png",
+			"FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv).png"
+		],
+		"snaps": [
+			"FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv).png",
+			"FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv).png"
+		]
+	},
+	"FIFA_Soccer_64": {
+		"titles": [
+			"FIFA 64 (Europe) (En,Fr,De).png",
+			"FIFA Soccer 64 (USA) (En,Fr,De).png"
+		],
+		"boxarts": [
+			"FIFA 64 (Europe) (En,Fr,De).png",
+			"FIFA Soccer 64 (USA) (En,Fr,De).png"
+		],
+		"snaps": [
+			"FIFA 64 (Europe) (En,Fr,De).png",
+			"FIFA Soccer 64 (USA) (En,Fr,De).png"
+		]
+	},
+	"FIFA_99": {
+		"titles": [
+			"FIFA 99 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).png",
+			"FIFA 99 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv).png"
+		],
+		"boxarts": [
+			"FIFA 99 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).png",
+			"FIFA 99 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv).png"
+		],
+		"snaps": [
+			"FIFA 99 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).png",
+			"FIFA 99 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv).png"
+		]
+	},
+	"Fighters_Destiny_Sequel": {
+		"titles": [
+			"Fighter Destiny 2 (USA).png"
+		],
+		"boxarts": [
+			"Fighter Destiny 2 (USA).png"
+		],
+		"snaps": [
+			"Fighter Destiny 2 (USA).png"
+		]
+	},
+	"Fighters_Destiny": {
+		"titles": [
+			"Fighters Destiny (Europe).png",
+			"Fighters Destiny (France).png",
+			"Fighters Destiny (Germany).png",
+			"Fighters Destiny (USA).png"
+		],
+		"boxarts": [
+			"Fighters Destiny (Europe).png",
+			"Fighters Destiny (France).png",
+			"Fighters Destiny (Germany).png",
+			"Fighters Destiny (USA).png"
+		],
+		"snaps": [
+			"Fighters Destiny (Europe).png",
+			"Fighters Destiny (France).png",
+			"Fighters Destiny (Germany).png",
+			"Fighters Destiny (USA).png"
+		]
+	},
+	"Fighting_Force": {
+		"titles": [
+			"Fighting Force 64 (Europe).png",
+			"Fighting Force 64 (USA).png"
+		],
+		"boxarts": [
+			"Fighting Force 64 (Europe).png",
+			"Fighting Force 64 (USA).png"
+		],
+		"snaps": [
+			"Fighting Force 64 (Europe).png",
+			"Fighting Force 64 (USA).png"
+		]
+	},
+	"Flying_Dragon": {
+		"titles": [
+			"Flying Dragon (Europe).png",
+			"Flying Dragon (USA).png"
+		],
+		"boxarts": [
+			"Flying Dragon (Europe).png",
+			"Flying Dragon (USA).png"
+		],
+		"snaps": [
+			"Flying Dragon (Europe).png",
+			"Flying Dragon (USA).png"
+		]
+	},
+	"Forsaken_64": {
+		"titles": [
+			"Forsaken (Europe) (En,Fr,Es,It).png",
+			"Forsaken (Germany).png",
+			"Forsaken 64 (USA).png"
+		],
+		"boxarts": [
+			"Forsaken (Europe) (En,Fr,Es,It).png",
+			"Forsaken (Germany).png",
+			"Forsaken 64 (USA).png"
+		],
+		"snaps": [
+			"Forsaken (Europe) (En,Fr,Es,It).png",
+			"Forsaken (Germany).png",
+			"Forsaken 64 (USA).png"
+		]
+	},
+	"Fox_Sports_College_Hoops_'99": {
+		"titles": [
+			"Fox Sports College Hoops '99 (USA).png"
+		],
+		"boxarts": [
+			"Fox Sports College Hoops '99 (USA).png"
+		],
+		"snaps": [
+			"Fox Sports College Hoops '99 (USA).png"
+		]
+	},
+	"GT_64:_Championship_Edition": {
+		"titles": [
+			"GT 64 - Championship Edition (Europe) (En,Fr,De).png",
+			"GT 64 - Championship Edition (USA).png"
+		],
+		"boxarts": [
+			"GT 64 - Championship Edition (Europe) (En,Fr,De).png",
+			"GT 64 - Championship Edition (USA) (Beta) (1998-05-25).png",
+			"GT 64 - Championship Edition (USA).png"
+		],
+		"snaps": [
+			"GT 64 - Championship Edition (Europe) (En,Fr,De).png",
+			"GT 64 - Championship Edition (USA).png"
+		]
+	},
+	"International_Track_&_Field_2000": {
+		"titles": [
+			"Ganbare! Nippon! Olympics 2000 (Japan).png",
+			"International Track _ Field - Summer Games (Europe) (En,Fr,De).png",
+			"International Track _ Field 2000 (USA).png"
+		],
+		"boxarts": [
+			"Ganbare! Nippon! Olympics 2000 (Japan).png",
+			"International Track _ Field - Summer Games (Europe) (En,Fr,De).png",
+			"International Track _ Field 2000 (USA).png"
+		],
+		"snaps": [
+			"Ganbare! Nippon! Olympics 2000 (Japan).png",
+			"International Track _ Field - Summer Games (Europe) (En,Fr,De).png",
+			"International Track _ Field 2000 (USA).png"
+		]
+	},
+	"Gauntlet_Legends_Ports": {
+		"titles": [
+			"Gauntlet Legends (Europe).png",
+			"Gauntlet Legends (Japan).png",
+			"Gauntlet Legends (USA).png"
+		],
+		"boxarts": [
+			"Gauntlet Legends (Europe).png",
+			"Gauntlet Legends (Japan).png",
+			"Gauntlet Legends (USA).png"
+		],
+		"snaps": [
+			"Gauntlet Legends (Europe).png",
+			"Gauntlet Legends (Japan).png",
+			"Gauntlet Legends (USA).png"
+		]
+	},
+	"Gex_3:_Deep_Cover_Gecko": {
+		"titles": [
+			"Gex 3 - Deep Cover Gecko (Europe) (En,Es,It).png",
+			"Gex 3 - Deep Cover Gecko (Europe) (Fr,De).png",
+			"Gex 3 - Deep Cover Gecko (USA).png"
+		],
+		"boxarts": [
+			"Gex 3 - Deep Cover Gecko (Europe) (En,Es,It).png",
+			"Gex 3 - Deep Cover Gecko (Europe) (Fr,De).png",
+			"Gex 3 - Deep Cover Gecko (USA).png"
+		],
+		"snaps": [
+			"Gex 3 - Deep Cover Gecko (Europe) (En,Es,It).png",
+			"Gex 3 - Deep Cover Gecko (Europe) (Fr,De).png",
+			"Gex 3 - Deep Cover Gecko (USA).png"
+		]
+	},
+	"Gex:_Enter_the_Gecko": {
+		"titles": [
+			"Gex 64 - Enter the Gecko (Europe).png",
+			"Gex 64 - Enter the Gecko (USA).png"
+		],
+		"boxarts": [
+			"Gex 64 - Enter the Gecko (Europe).png",
+			"Gex 64 - Enter the Gecko (USA).png"
+		],
+		"snaps": [
+			"Gex 64 - Enter the Gecko (Europe).png",
+			"Gex 64 - Enter the Gecko (USA).png"
+		]
+	},
+	"Glover_(video_game)": {
+		"titles": [
+			"Glover (Europe) (En,Fr,De).png",
+			"Glover (USA) (Proto) (1998-09-04).png",
+			"Glover (USA).png"
+		],
+		"boxarts": [
+			"Glover (Europe) (En,Fr,De).png",
+			"Glover (USA) (Proto) (1998-09-04).png",
+			"Glover (USA).png"
+		],
+		"snaps": [
+			"Glover (Europe) (En,Fr,De).png",
+			"Glover (USA) (Proto) (1998-09-04).png",
+			"Glover (USA).png"
+		]
+	},
+	"Goemon's_Great_Adventure": {
+		"titles": [
+			"Goemon's Great Adventure (USA).png",
+			"Mystical Ninja 2 Starring Goemon (Europe) (En,Fr,De).png"
+		],
+		"boxarts": [
+			"Goemon's Great Adventure (USA).png",
+			"Mystical Ninja 2 Starring Goemon (Europe) (En,Fr,De).png"
+		],
+		"snaps": [
+			"Goemon's Great Adventure (USA).png",
+			"Mystical Ninja 2 Starring Goemon (Europe) (En,Fr,De).png"
+		]
+	},
+	"Golden_Nugget_64": {
+		"titles": [
+			"Golden Nugget 64 (USA).png"
+		],
+		"boxarts": [
+			"Golden Nugget 64 (USA).png"
+		],
+		"snaps": [
+			"Golden Nugget 64 (USA).png"
+		]
+	},
+	"GoldenEye_007_(1997_video_game)": {
+		"titles": [
+			"GoldenEye 007 (Europe).png",
+			"GoldenEye 007 (Japan).png",
+			"GoldenEye 007 (USA).png",
+			"GoldenEye 007 (USA, Europe) (Switch Online).png"
+		],
+		"boxarts": [
+			"GoldenEye 007 (Europe).png",
+			"GoldenEye 007 (Japan).png",
+			"GoldenEye 007 (USA).png"
+		],
+		"snaps": [
+			"007 - GoldenEye (USA).png",
+			"GoldenEye 007 (Europe).png",
+			"GoldenEye 007 (Japan).png",
+			"GoldenEye 007 (USA).png"
+		]
+	},
+	"Harvest_Moon_64": {
+		"titles": [
+			"Harvest Moon 64 (USA).png"
+		],
+		"boxarts": [
+			"Harvest Moon 64 (USA).png"
+		],
+		"snaps": [
+			"Harvest Moon 64 (USA).png"
+		]
+	},
+	"Hercules:_The_Legendary_Journeys_(video_game)": {
+		"titles": [
+			"Hercules - The Legendary Journeys (Europe) (En,Fr,De,Es,It,Nl).png",
+			"Hercules - The Legendary Journeys (USA).png"
+		],
+		"boxarts": [
+			"Hercules - The Legendary Journeys (Europe) (En,Fr,De,Es,It,Nl).png",
+			"Hercules - The Legendary Journeys (USA).png",
+			"Hercules - The Legendary Journeys (Unknown) (Beta).png"
+		],
+		"snaps": [
+			"Hercules - The Legendary Journeys (Europe) (En,Fr,De,Es,It,Nl).png",
+			"Hercules - The Legendary Journeys (USA).png"
+		]
+	},
+	"Hexen:_Beyond_Heretic_Console_versions": {
+		"titles": [
+			"Hexen (Europe).png",
+			"Hexen (France).png",
+			"Hexen (Germany).png",
+			"Hexen (Japan).png",
+			"Hexen (USA).png"
+		],
+		"boxarts": [
+			"Hexen (Europe).png",
+			"Hexen (France).png",
+			"Hexen (Germany).png",
+			"Hexen (Japan).png",
+			"Hexen (USA).png"
+		],
+		"snaps": [
+			"Hexen (Europe).png",
+			"Hexen (France).png",
+			"Hexen (Germany).png",
+			"Hexen (Japan).png",
+			"Hexen (USA).png"
+		]
+	},
+	"Hey_You,_Pikachu!": {
+		"titles": [
+			"Hey You, Pikachu! (USA).png"
+		],
+		"boxarts": [
+			"Hey You, Pikachu! (USA).png"
+		],
+		"snaps": [
+			"Hey You, Pikachu! (USA).png"
+		]
+	},
+	"Quest_64": {
+		"titles": [
+			"Holy Magic Century (Europe).png",
+			"Holy Magic Century (France).png",
+			"Holy Magic Century (Germany).png",
+			"Quest 64 (USA).png"
+		],
+		"boxarts": [
+			"Holy Magic Century (Europe).png",
+			"Holy Magic Century (France).png",
+			"Holy Magic Century (Germany).png",
+			"Quest 64 (USA).png"
+		],
+		"snaps": [
+			"Holy Magic Century (Europe).png",
+			"Holy Magic Century (France).png",
+			"Holy Magic Century (Germany).png",
+			"Quest 64 (USA).png"
+		]
+	},
+	"Hot_Wheels_Turbo_Racing": {
+		"titles": [
+			"Hot Wheels - Turbo Racing (Europe) (En,Fr,De).png",
+			"Hot Wheels - Turbo Racing (USA).png"
+		],
+		"boxarts": [
+			"Hot Wheels - Turbo Racing (Europe) (En,Fr,De).png",
+			"Hot Wheels - Turbo Racing (USA).png"
+		],
+		"snaps": [
+			"Hot Wheels - Turbo Racing (Europe) (En,Fr,De).png",
+			"Hot Wheels - Turbo Racing (USA).png"
+		]
+	},
+	"Hybrid_Heaven": {
+		"titles": [
+			"Hybrid Heaven (Europe) (En,Fr,De).png",
+			"Hybrid Heaven (Japan).png",
+			"Hybrid Heaven (USA).png"
+		],
+		"boxarts": [
+			"Hybrid Heaven (Europe) (En,Fr,De).png",
+			"Hybrid Heaven (Japan).png",
+			"Hybrid Heaven (USA).png"
+		],
+		"snaps": [
+			"Hybrid Heaven (Europe) (En,Fr,De).png",
+			"Hybrid Heaven (Japan).png",
+			"Hybrid Heaven (USA).png"
+		]
+	},
+	"Hydro_Thunder": {
+		"titles": [
+			"Hydro Thunder (Europe).png",
+			"Hydro Thunder (France).png",
+			"Hydro Thunder (USA).png"
+		],
+		"boxarts": [
+			"Hydro Thunder (Europe).png",
+			"Hydro Thunder (France).png",
+			"Hydro Thunder (USA).png"
+		],
+		"snaps": [
+			"Hydro Thunder (Europe).png",
+			"Hydro Thunder (France).png",
+			"Hydro Thunder (USA).png"
+		]
+	},
+	"Iggy's_Reckin'_Balls": {
+		"titles": [
+			"Iggy's Reckin' Balls (Europe).png",
+			"Iggy's Reckin' Balls (USA).png"
+		],
+		"boxarts": [
+			"Iggy's Reckin' Balls (Europe).png",
+			"Iggy's Reckin' Balls (USA).png"
+		],
+		"snaps": [
+			"Iggy's Reckin' Balls (Europe).png",
+			"Iggy's Reckin' Balls (USA).png"
+		]
+	},
+	"In-Fisherman_Bass_Hunter_64": {
+		"titles": [
+			"In-Fisherman - Bass Hunter 64 (Europe).png",
+			"In-Fisherman - Bass Hunter 64 (USA).png"
+		],
+		"boxarts": [
+			"In-Fisherman - Bass Hunter 64 (Europe).png",
+			"In-Fisherman - Bass Hunter 64 (USA).png"
+		],
+		"snaps": [
+			"In-Fisherman - Bass Hunter 64 (Europe).png",
+			"In-Fisherman - Bass Hunter 64 (USA).png"
+		]
+	},
+	"Indiana_Jones_and_the_Infernal_Machine": {
+		"titles": [
+			"Indiana Jones and the Infernal Machine (USA).png"
+		],
+		"boxarts": [
+			"Indiana Jones and the Infernal Machine (Australia) (Proto).png",
+			"Indiana Jones and the Infernal Machine (USA).png"
+		],
+		"snaps": [
+			"Indiana Jones and the Infernal Machine (USA).png"
+		]
+	},
+	"Indy_Racing_2000": {
+		"titles": [
+			"Indy Racing 2000 (USA).png"
+		],
+		"boxarts": [
+			"Indy Racing 2000 (USA).png"
+		],
+		"snaps": [
+			"Indy Racing 2000 (USA).png"
+		]
+	},
+	"International_Superstar_Soccer_98": {
+		"titles": [
+			"International Superstar Soccer '98 (Europe).png",
+			"International Superstar Soccer '98 (USA).png"
+		],
+		"boxarts": [
+			"International Superstar Soccer '98 (Europe) (Beta) (1998-03-02).png",
+			"International Superstar Soccer '98 (Europe).png",
+			"International Superstar Soccer '98 (USA).png"
+		],
+		"snaps": [
+			"International Superstar Soccer '98 (Europe).png",
+			"International Superstar Soccer '98 (USA).png"
+		]
+	},
+	"International_Superstar_Soccer_2000": {
+		"titles": [
+			"International Superstar Soccer 2000 (Europe) (En,De).png",
+			"International Superstar Soccer 2000 (Europe) (Fr,It).png",
+			"International Superstar Soccer 2000 (USA) (En,Es) (Rev 1).png",
+			"International Superstar Soccer 2000 (USA) (En,Es).png"
+		],
+		"boxarts": [
+			"International Superstar Soccer 2000 (Europe) (En,De).png",
+			"International Superstar Soccer 2000 (Europe) (Fr,It).png",
+			"International Superstar Soccer 2000 (USA) (En,Es) (Rev 1).png",
+			"International Superstar Soccer 2000 (USA) (En,Es).png"
+		],
+		"snaps": [
+			"International Superstar Soccer 2000 (Europe) (En,De).png",
+			"International Superstar Soccer 2000 (Europe) (Fr,It).png",
+			"International Superstar Soccer 2000 (USA) (En,Es).png"
+		]
+	},
+	"International_Superstar_Soccer_64": {
+		"titles": [
+			"International Superstar Soccer 64 (Europe).png",
+			"International Superstar Soccer 64 (USA).png"
+		],
+		"boxarts": [
+			"International Superstar Soccer 64 (Europe).png",
+			"International Superstar Soccer 64 (USA).png"
+		],
+		"snaps": [
+			"International Superstar Soccer 64 (Europe).png",
+			"International Superstar Soccer 64 (USA).png"
+		]
+	},
+	"Jeopardy!_(franchise)_Consoles": {
+		"titles": [
+			"Jeopardy! (USA).png"
+		],
+		"boxarts": [
+			"Jeopardy! (USA).png"
+		],
+		"snaps": [
+			"Jeopardy! (USA).png"
+		]
+	},
+	"Jeremy_McGrath_Supercross_2000": {
+		"titles": [
+			"Jeremy McGrath Supercross 2000 (Europe).png",
+			"Jeremy McGrath Supercross 2000 (USA).png"
+		],
+		"boxarts": [
+			"Jeremy McGrath Supercross 2000 (Europe).png",
+			"Jeremy McGrath Supercross 2000 (USA).png"
+		],
+		"snaps": [
+			"Jeremy McGrath Supercross 2000 (Europe).png",
+			"Jeremy McGrath Supercross 2000 (USA).png"
+		]
+	},
+	"Jet_Force_Gemini": {
+		"titles": [
+			"Jet Force Gemini (Europe) (En,Fr,De,Es).png",
+			"Jet Force Gemini (USA) (Demo) (Kiosk).png",
+			"Jet Force Gemini (USA).png",
+			"Star Twins (Japan).png"
+		],
+		"boxarts": [
+			"Jet Force Gemini (Europe) (En,Fr,De,Es).png",
+			"Jet Force Gemini (USA) (Demo) (Kiosk).png",
+			"Jet Force Gemini (USA).png",
+			"Star Twins (Japan).png"
+		],
+		"snaps": [
+			"Jet Force Gemini (Europe) (En,Fr,De,Es).png",
+			"Jet Force Gemini (USA) (Demo) (Kiosk).png",
+			"Jet Force Gemini (USA).png",
+			"Star Twins (Japan).png"
+		]
+	},
+	"Daikatana": {
+		"titles": [
+			"John Romero's Daikatana (USA).png"
+		],
+		"boxarts": [
+			"John Romero's Daikatana (USA).png"
+		],
+		"snaps": [
+			"John Romero's Daikatana (USA).png"
+		]
+	},
+	"Ken_Griffey_Jr.'s_Slugfest": {
+		"titles": [
+			"Ken Griffey Jr.'s Slugfest (USA).png"
+		],
+		"boxarts": [
+			"Ken Griffey Jr.'s Slugfest (USA).png"
+		],
+		"snaps": [
+			"Ken Griffey Jr.'s Slugfest (USA).png"
+		]
+	},
+	"Killer_Instinct_Gold": {
+		"titles": [
+			"Killer Instinct Gold (Europe).png",
+			"Killer Instinct Gold (USA) (Rev 1).png",
+			"Killer Instinct Gold (USA) (Rev 2).png",
+			"Killer Instinct Gold (USA).png"
+		],
+		"boxarts": [
+			"Killer Instinct Gold (Europe).png",
+			"Killer Instinct Gold (USA) (Rev 1).png",
+			"Killer Instinct Gold (USA) (Rev 2).png",
+			"Killer Instinct Gold (USA).png"
+		],
+		"snaps": [
+			"Killer Instinct Gold (Europe).png",
+			"Killer Instinct Gold (USA) (Rev 1).png",
+			"Killer Instinct Gold (USA) (Rev 2).png",
+			"Killer Instinct Gold (USA).png"
+		]
+	},
+	"Twisted_Edge_Extreme_Snowboarding": {
+		"titles": [
+			"King Hill 64 - Extreme Snowboarding (Japan).png",
+			"Twisted Edge - Extreme Snowboarding (USA).png",
+			"Twisted Edge - Snowboarding (Europe).png"
+		],
+		"boxarts": [
+			"King Hill 64 - Extreme Snowboarding (Japan).png",
+			"Twisted Edge - Extreme Snowboarding (USA).png",
+			"Twisted Edge - Snowboarding (Europe).png"
+		],
+		"snaps": [
+			"King Hill 64 - Extreme Snowboarding (Japan).png",
+			"Twisted Edge - Extreme Snowboarding (USA).png",
+			"Twisted Edge - Snowboarding (Europe).png"
+		]
+	},
+	"Kirby_64:_The_Crystal_Shards": {
+		"titles": [
+			"Kirby 64 - The Crystal Shards (Europe).png",
+			"Kirby 64 - The Crystal Shards (USA).png"
+		],
+		"boxarts": [
+			"Kirby 64 - The Crystal Shards (Europe).png",
+			"Kirby 64 - The Crystal Shards (USA).png"
+		],
+		"snaps": [
+			"Kirby 64 - The Crystal Shards (Europe).png",
+			"Kirby 64 - The Crystal Shards (USA).png"
+		]
+	},
+	"Knife_Edge:_Nose_Gunner": {
+		"titles": [
+			"Knife Edge - Nose Gunner (Europe).png",
+			"Knife Edge - Nose Gunner (Japan).png",
+			"Knife Edge - Nose Gunner (USA).png"
+		],
+		"boxarts": [
+			"Knife Edge - Nose Gunner (Europe).png",
+			"Knife Edge - Nose Gunner (Japan).png",
+			"Knife Edge - Nose Gunner (USA).png"
+		],
+		"snaps": [
+			"Knife Edge - Nose Gunner (Europe).png",
+			"Knife Edge - Nose Gunner (Japan).png",
+			"Knife Edge - Nose Gunner (USA).png"
+		]
+	},
+	"Knockout_Kings_2000": {
+		"titles": [
+			"Knockout Kings 2000 (Europe).png",
+			"Knockout Kings 2000 (USA).png"
+		],
+		"boxarts": [
+			"Knockout Kings 2000 (Europe).png",
+			"Knockout Kings 2000 (USA).png"
+		],
+		"snaps": [
+			"Knockout Kings 2000 (Europe).png",
+			"Knockout Kings 2000 (USA).png"
+		]
+	},
+	"Kobe_Bryant_in_NBA_Courtside": {
+		"titles": [
+			"Kobe Bryant in NBA Courtside (Europe).png",
+			"Kobe Bryant in NBA Courtside (USA).png"
+		],
+		"boxarts": [
+			"Kobe Bryant in NBA Courtside (Europe).png",
+			"Kobe Bryant in NBA Courtside (USA).png"
+		],
+		"snaps": [
+			"Kobe Bryant in NBA Courtside (Europe).png",
+			"Kobe Bryant in NBA Courtside (USA).png"
+		]
+	},
+	"Lego_Racers_(video_game)": {
+		"titles": [
+			"LEGO Racers (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).png",
+			"LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).png"
+		],
+		"boxarts": [
+			"LEGO Racers (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).png",
+			"LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).png"
+		],
+		"snaps": [
+			"LEGO Racers (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).png",
+			"LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).png"
+		]
+	},
+	"The_Legend_of_Zelda:_Majora's_Mask": {
+		"titles": [
+			"Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Debug).png",
+			"Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Wii Virtual Console).png",
+			"Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1).png",
+			"Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es).png",
+			"Legend of Zelda, The - Majora's Mask (Europe) (GameCube).png",
+			"Legend of Zelda, The - Majora's Mask (USA) (Demo) (Kiosk).png",
+			"Legend of Zelda, The - Majora's Mask (USA) (GameCube).png",
+			"Legend of Zelda, The - Majora's Mask (USA).png"
+		],
+		"boxarts": [
+			"Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Debug).png",
+			"Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Wii Virtual Console).png",
+			"Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1).png",
+			"Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es).png",
+			"Legend of Zelda, The - Majora's Mask (Europe) (GameCube).png",
+			"Legend of Zelda, The - Majora's Mask (USA) (Demo) (Kiosk).png",
+			"Legend of Zelda, The - Majora's Mask (USA) (GameCube).png",
+			"Legend of Zelda, The - Majora's Mask (USA).png"
+		],
+		"snaps": [
+			"Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Debug).png",
+			"Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1).png",
+			"Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev A).png",
+			"Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es).png",
+			"Legend of Zelda, The - Majora's Mask (Europe) (GameCube).png",
+			"Legend of Zelda, The - Majora's Mask (USA) (Demo) (Kiosk).png",
+			"Legend of Zelda, The - Majora's Mask (USA) (GameCube).png",
+			"Legend of Zelda, The - Majora's Mask (USA).png"
+		]
+	},
+	"The_Legend_of_Zelda:_Ocarina_of_Time": {
+		"titles": [
+			"Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De) (Rev 1).png",
+			"Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De).png",
+			"Legend of Zelda, The - Ocarina of Time (Europe) (GameCube).png",
+			"Legend of Zelda, The - Ocarina of Time (USA) (GameCube).png",
+			"Legend of Zelda, The - Ocarina of Time (USA) (Rev 1).png",
+			"Legend of Zelda, The - Ocarina of Time (USA) (Rev 2).png",
+			"Legend of Zelda, The - Ocarina of Time (USA).png"
+		],
+		"boxarts": [
+			"Legend of Zelda, The - Ocarina of Time (Europe) (Beta) (2003-02-13) (GameCube).png",
+			"Legend of Zelda, The - Ocarina of Time (Europe) (Debug) (GameCube).png",
+			"Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De) (Rev 1).png",
+			"Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De).png",
+			"Legend of Zelda, The - Ocarina of Time (Europe) (GameCube).png",
+			"Legend of Zelda, The - Ocarina of Time (USA) (Beta).png",
+			"Legend of Zelda, The - Ocarina of Time (USA) (GameCube).png",
+			"Legend of Zelda, The - Ocarina of Time (USA) (Rev 1).png",
+			"Legend of Zelda, The - Ocarina of Time (USA) (Rev 2).png",
+			"Legend of Zelda, The - Ocarina of Time (USA).png"
+		],
+		"snaps": [
+			"Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De) (Rev 1).png",
+			"Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De) (Rev A).png",
+			"Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De).png",
+			"Legend of Zelda, The - Ocarina of Time (Europe) (GameCube).png",
+			"Legend of Zelda, The - Ocarina of Time (USA) (GameCube).png",
+			"Legend of Zelda, The - Ocarina of Time (USA) (Rev 1).png",
+			"Legend of Zelda, The - Ocarina of Time (USA) (Rev 2).png",
+			"Legend of Zelda, The - Ocarina of Time (USA) (Rev A).png",
+			"Legend of Zelda, The - Ocarina of Time (USA) (Rev B).png",
+			"Legend of Zelda, The - Ocarina of Time (USA).png"
+		]
+	},
+	"Lode_Runner_3-D": {
+		"titles": [
+			"Lode Runner 3-D (Europe) (En,Fr,De,Es,It).png",
+			"Lode Runner 3-D (Japan).png",
+			"Lode Runner 3-D (USA).png"
+		],
+		"boxarts": [
+			"Lode Runner 3-D (Europe) (En,Fr,De,Es,It).png",
+			"Lode Runner 3-D (Japan).png",
+			"Lode Runner 3-D (USA).png"
+		],
+		"snaps": [
+			"Lode Runner 3-D (Europe) (En,Fr,De,Es,It).png",
+			"Lode Runner 3-D (Japan).png",
+			"Lode Runner 3-D (USA).png"
+		]
+	},
+	"Star_Fox_64": {
+		"titles": [
+			"Lylat Wars (Australia) (En,Fr,De).png",
+			"Star Fox 64 (Japan) (Rev 1) (Wii Virtual Console).png",
+			"Star Fox 64 (Japan).png",
+			"Star Fox 64 (USA) (Rev 1).png",
+			"Star Fox 64 (USA).png"
+		],
+		"boxarts": [
+			"Lylat Wars (Australia) (En,Fr,De).png",
+			"Star Fox 64 (Japan) (Rev 1) (Wii Virtual Console).png",
+			"Star Fox 64 (Japan).png",
+			"Star Fox 64 (USA) (Rev 1).png",
+			"Star Fox 64 (USA).png"
+		],
+		"snaps": [
+			"Lylat Wars (Australia) (En,Fr,De).png",
+			"Star Fox 64 (Japan).png",
+			"Star Fox 64 (USA) (Rev 1).png",
+			"Star Fox 64 (USA).png"
+		]
+	},
+	"MRC:_Multi-Racing_Championship": {
+		"titles": [
+			"MRC - Multi-Racing Championship (Europe) (En,Fr,De).png",
+			"MRC - Multi-Racing Championship (Japan).png",
+			"MRC - Multi-Racing Championship (USA).png"
+		],
+		"boxarts": [
+			"MRC - Multi-Racing Championship (Europe) (En,Fr,De).png",
+			"MRC - Multi-Racing Championship (Japan).png",
+			"MRC - Multi-Racing Championship (USA).png"
+		],
+		"snaps": [
+			"MRC - Multi-Racing Championship (Europe) (En,Fr,De).png",
+			"MRC - Multi-Racing Championship (Japan).png",
+			"MRC - Multi-Racing Championship (USA).png"
+		]
+	},
+	"Mace:_The_Dark_Age": {
+		"titles": [
+			"Mace - The Dark Age (Europe).png",
+			"Mace - The Dark Age (USA).png"
+		],
+		"boxarts": [
+			"Mace - The Dark Age (Europe).png",
+			"Mace - The Dark Age (USA) (Beta).png",
+			"Mace - The Dark Age (USA).png",
+			"Mace - The Dark Age (Unknown) (Beta).png"
+		],
+		"snaps": [
+			"Mace - The Dark Age (Europe).png",
+			"Mace - The Dark Age (USA).png"
+		]
+	},
+	"Madden_Football_64": {
+		"titles": [
+			"Madden Football 64 (Europe).png",
+			"Madden Football 64 (USA).png"
+		],
+		"boxarts": [
+			"Madden Football 64 (Europe).png",
+			"Madden Football 64 (USA).png"
+		],
+		"snaps": [
+			"Madden Football 64 (Europe).png",
+			"Madden Football 64 (USA).png"
+		]
+	},
+	"Madden_NFL_2000": {
+		"titles": [
+			"Madden NFL 2000 (USA).png"
+		],
+		"boxarts": [
+			"Madden NFL 2000 (USA).png"
+		],
+		"snaps": [
+			"Madden NFL 2000 (USA).png"
+		]
+	},
+	"Madden_NFL_2001": {
+		"titles": [
+			"Madden NFL 2001 (USA).png"
+		],
+		"boxarts": [
+			"Madden NFL 2001 (USA).png"
+		],
+		"snaps": [
+			"Madden NFL 2001 (USA).png"
+		]
+	},
+	"Madden_NFL_2002": {
+		"titles": [
+			"Madden NFL 2002 (USA).png"
+		],
+		"boxarts": [
+			"Madden NFL 2002 (USA).png"
+		],
+		"snaps": [
+			"Madden NFL 2002 (USA).png"
+		]
+	},
+	"Madden_NFL_99": {
+		"titles": [
+			"Madden NFL 99 (Europe).png",
+			"Madden NFL 99 (USA) (Rev 1).png",
+			"Madden NFL 99 (USA).png"
+		],
+		"boxarts": [
+			"Madden NFL 99 (Europe).png",
+			"Madden NFL 99 (USA) (Beta) (1998-08-05).png",
+			"Madden NFL 99 (USA) (Rev 1).png",
+			"Madden NFL 99 (USA).png"
+		],
+		"snaps": [
+			"Madden NFL 99 (Europe).png",
+			"Madden NFL 99 (USA).png"
+		]
+	},
+	"Magical_Tetris_Challenge": {
+		"titles": [
+			"Magical Tetris Challenge (Europe).png",
+			"Magical Tetris Challenge (Germany).png",
+			"Magical Tetris Challenge (USA).png"
+		],
+		"boxarts": [
+			"Magical Tetris Challenge (Europe).png",
+			"Magical Tetris Challenge (Germany).png",
+			"Magical Tetris Challenge (USA).png"
+		],
+		"snaps": [
+			"Magical Tetris Challenge (Europe).png",
+			"Magical Tetris Challenge (Germany).png",
+			"Magical Tetris Challenge (USA).png"
+		]
+	},
+	"Major_League_Baseball_Featuring_Ken_Griffey_Jr.": {
+		"titles": [
+			"Major League Baseball featuring Ken Griffey Jr. (Australia).png",
+			"Major League Baseball featuring Ken Griffey Jr. (USA).png"
+		],
+		"boxarts": [
+			"Major League Baseball Featuring Ken Griffey Jr. (Australia).png",
+			"Major League Baseball Featuring Ken Griffey Jr. (USA).png"
+		],
+		"snaps": [
+			"Major League Baseball featuring Ken Griffey Jr. (Australia).png",
+			"Major League Baseball featuring Ken Griffey Jr. (USA).png"
+		]
+	},
+	"Mario_Golf_(video_game)": {
+		"titles": [
+			"Mario Golf (Europe).png",
+			"Mario Golf (USA).png"
+		],
+		"boxarts": [
+			"Mario Golf (Europe).png",
+			"Mario Golf (USA).png"
+		],
+		"snaps": [
+			"Mario Golf (Europe).png",
+			"Mario Golf (USA).png"
+		]
+	},
+	"Mario_Kart_64": {
+		"titles": [
+			"Mario Kart 64 (Europe) (Rev 1).png",
+			"Mario Kart 64 (Europe).png",
+			"Mario Kart 64 (Japan) (Rev 1).png",
+			"Mario Kart 64 (Japan).png",
+			"Mario Kart 64 (USA).png"
+		],
+		"boxarts": [
+			"Mario Kart 64 (Europe) (Rev 1).png",
+			"Mario Kart 64 (Europe).png",
+			"Mario Kart 64 (Japan) (Rev 1).png",
+			"Mario Kart 64 (Japan).png",
+			"Mario Kart 64 (USA).png"
+		],
+		"snaps": [
+			"Mario Kart 64 (Europe) (Rev 1).png",
+			"Mario Kart 64 (Europe).png",
+			"Mario Kart 64 (Japan) (Rev 1).png",
+			"Mario Kart 64 (Japan).png",
+			"Mario Kart 64 (USA).png"
+		]
+	},
+	"Mario_Party_(video_game)": {
+		"titles": [
+			"Mario Party (Europe) (En,Fr,De).png",
+			"Mario Party (Japan).png",
+			"Mario Party (USA).png"
+		],
+		"boxarts": [
+			"Mario Party (Europe) (En,Fr,De).png",
+			"Mario Party (Japan).png",
+			"Mario Party (USA).png"
+		],
+		"snaps": [
+			"Mario Party (Europe) (En,Fr,De).png",
+			"Mario Party (Japan).png",
+			"Mario Party (USA).png"
+		]
+	},
+	"Mario_Party_2": {
+		"titles": [
+			"Mario Party 2 (Europe) (En,Fr,De,Es,It) (Wii Virtual Console).png",
+			"Mario Party 2 (Europe) (En,Fr,De,Es,It).png",
+			"Mario Party 2 (Japan) (Wii Virtual Console).png",
+			"Mario Party 2 (Japan).png",
+			"Mario Party 2 (USA) (Wii Virtual Console).png",
+			"Mario Party 2 (USA).png"
+		],
+		"boxarts": [
+			"Mario Party 2 (Europe) (En,Fr,De,Es,It) (Wii Virtual Console).png",
+			"Mario Party 2 (Europe) (En,Fr,De,Es,It).png",
+			"Mario Party 2 (Japan) (Wii Virtual Console).png",
+			"Mario Party 2 (Japan).png",
+			"Mario Party 2 (USA) (Wii Virtual Console).png",
+			"Mario Party 2 (USA).png"
+		],
+		"snaps": [
+			"Mario Party 2 (Europe) (En,Fr,De,Es,It).png",
+			"Mario Party 2 (Japan).png",
+			"Mario Party 2 (USA).png"
+		]
+	},
+	"Mario_Party_3": {
+		"titles": [
+			"Mario Party 3 (Europe) (En,Fr,De,Es).png",
+			"Mario Party 3 (Japan).png",
+			"Mario Party 3 (USA).png"
+		],
+		"boxarts": [
+			"Mario Party 3 (Europe) (En,Fr,De,Es).png",
+			"Mario Party 3 (Japan).png",
+			"Mario Party 3 (USA) (Beta).png",
+			"Mario Party 3 (USA) (LodgeNet).png",
+			"Mario Party 3 (USA).png"
+		],
+		"snaps": [
+			"Mario Party 3 (Europe) (En,Fr,De,Es).png",
+			"Mario Party 3 (Japan).png",
+			"Mario Party 3 (USA).png"
+		]
+	},
+	"Mario_Tennis": {
+		"titles": [
+			"Mario Tennis (Europe) (Wii Virtual Console).png",
+			"Mario Tennis (Europe).png",
+			"Mario Tennis (USA) (Wii Virtual Console).png",
+			"Mario Tennis (USA).png"
+		],
+		"boxarts": [
+			"Mario Tennis (Europe) (Wii Virtual Console).png",
+			"Mario Tennis (Europe).png",
+			"Mario Tennis (USA) (Wii Virtual Console).png",
+			"Mario Tennis (USA).png"
+		],
+		"snaps": [
+			"Mario Tennis (Europe).png",
+			"Mario Tennis (USA).png"
+		]
+	},
+	"Mega_Man_Legends_(video_game)": {
+		"titles": [
+			"Mega Man 64 (USA) (Beta).png",
+			"Mega Man 64 (USA).png"
+		],
+		"boxarts": [
+			"Mega Man 64 (USA) (Beta).png",
+			"Mega Man 64 (USA).png"
+		],
+		"snaps": [
+			"Mega Man 64 (USA) (Beta).png",
+			"Mega Man 64 (USA).png"
+		]
+	},
+	"Michael_Owen's_WLS_2000": {
+		"titles": [
+			"Mia Hamm Soccer 64 (USA) (En,Es).png",
+			"Michael Owen's WLS 2000 (Europe).png"
+		],
+		"boxarts": [
+			"Mia Hamm Soccer 64 (USA) (En,Es).png",
+			"Michael Owen's WLS 2000 (Europe).png"
+		],
+		"snaps": [
+			"Mia Hamm Soccer 64 (USA) (En,Es).png",
+			"Michael Owen's WLS 2000 (Europe).png"
+		]
+	},
+	"Mickey's_Speedway_USA": {
+		"titles": [
+			"Mickey's Speedway USA (Europe) (En,Fr,De,Es,It).png",
+			"Mickey's Speedway USA (USA).png"
+		],
+		"boxarts": [
+			"Mickey's Speedway USA (Europe) (En,Fr,De,Es,It).png",
+			"Mickey's Speedway USA (USA).png"
+		],
+		"snaps": [
+			"Mickey's Speedway USA (Europe) (En,Fr,De,Es,It).png",
+			"Mickey's Speedway USA (USA).png"
+		]
+	},
+	"Micro_Machines_V3": {
+		"titles": [
+			"Micro Machines 64 Turbo (Europe) (En,Fr,De,Es,It).png",
+			"Micro Machines 64 Turbo (USA).png"
+		],
+		"boxarts": [
+			"Micro Machines 64 Turbo (Europe) (En,Fr,De,Es,It).png",
+			"Micro Machines 64 Turbo (USA).png"
+		],
+		"snaps": [
+			"Micro Machines 64 Turbo (Europe) (En,Fr,De,Es,It).png",
+			"Micro Machines 64 Turbo (USA).png"
+		]
+	},
+	"Midway's_Greatest_Arcade_Hits": {
+		"titles": [
+			"Midway's Greatest Arcade Hits - Volume 1 (USA).png"
+		],
+		"boxarts": [
+			"Midway's Greatest Arcade Hits - Volume 1 (USA).png"
+		],
+		"snaps": [
+			"Midway's Greatest Arcade Hits - Volume 1 (USA).png"
+		]
+	},
+	"Mike_Piazza's_Strike_Zone": {
+		"titles": [
+			"Mike Piazza's Strike Zone (USA).png"
+		],
+		"boxarts": [
+			"Mike Piazza's Strike Zone (USA).png"
+		],
+		"snaps": [
+			"Mike Piazza's Strike Zone (USA).png"
+		]
+	},
+	"Milo's_Astro_Lanes": {
+		"titles": [
+			"Milo's Astro Lanes (Europe).png",
+			"Milo's Astro Lanes (USA).png"
+		],
+		"boxarts": [
+			"Milo's Astro Lanes (Europe).png",
+			"Milo's Astro Lanes (USA).png"
+		],
+		"snaps": [
+			"Milo's Astro Lanes (Europe).png",
+			"Milo's Astro Lanes (USA).png"
+		]
+	},
+	"Mischief_Makers": {
+		"titles": [
+			"Mischief Makers (Europe).png",
+			"Mischief Makers (USA) (Rev 1).png",
+			"Mischief Makers (USA).png"
+		],
+		"boxarts": [
+			"Mischief Makers (Europe).png",
+			"Mischief Makers (USA) (Rev 1).png",
+			"Mischief Makers (USA).png"
+		],
+		"snaps": [
+			"Mischief Makers (Europe).png",
+			"Mischief Makers (USA) (Rev 1).png",
+			"Mischief Makers (USA).png"
+		]
+	},
+	"Mission:_Impossible_(1998_video_game)": {
+		"titles": [
+			"Mission - Impossible (Europe).png",
+			"Mission - Impossible (France).png",
+			"Mission - Impossible (Germany).png",
+			"Mission - Impossible (Italy).png",
+			"Mission - Impossible (Spain) (Rev 1).png",
+			"Mission - Impossible (Spain).png",
+			"Mission - Impossible (USA).png"
+		],
+		"boxarts": [
+			"Mission - Impossible (Europe).png",
+			"Mission - Impossible (France).png",
+			"Mission - Impossible (Germany).png",
+			"Mission - Impossible (Italy).png",
+			"Mission - Impossible (Spain) (Rev 1).png",
+			"Mission - Impossible (Spain).png",
+			"Mission - Impossible (USA).png"
+		],
+		"snaps": [
+			"Mission - Impossible (Europe).png",
+			"Mission - Impossible (France).png",
+			"Mission - Impossible (Germany).png",
+			"Mission - Impossible (Italy).png",
+			"Mission - Impossible (Spain).png",
+			"Mission - Impossible (USA).png"
+		]
+	},
+	"Monaco_Grand_Prix_(video_game)": {
+		"titles": [
+			"Monaco Grand Prix (USA).png"
+		],
+		"boxarts": [
+			"Monaco Grand Prix (USA).png"
+		],
+		"snaps": [
+			"Monaco Grand Prix (USA).png"
+		]
+	},
+	"Monopoly_(1999_video_game)": {
+		"titles": [
+			"Monopoly (USA).png"
+		],
+		"boxarts": [
+			"Monopoly (USA).png"
+		],
+		"snaps": [
+			"Monopoly (USA).png"
+		]
+	},
+	"Monster_Truck_Madness_64": {
+		"titles": [
+			"Monster Truck Madness 64 (Europe) (En,Fr,De,Es,It).png",
+			"Monster Truck Madness 64 (USA).png"
+		],
+		"boxarts": [
+			"Monster Truck Madness 64 (Europe) (En,Fr,De,Es,It).png",
+			"Monster Truck Madness 64 (USA).png"
+		],
+		"snaps": [
+			"Monster Truck Madness 64 (Europe) (En,Fr,De,Es,It).png",
+			"Monster Truck Madness 64 (USA).png"
+		]
+	},
+	"Mortal_Kombat_4": {
+		"titles": [
+			"Mortal Kombat 4 (Europe).png",
+			"Mortal Kombat 4 (USA).png"
+		],
+		"boxarts": [
+			"Mortal Kombat 4 (Europe).png",
+			"Mortal Kombat 4 (USA).png"
+		],
+		"snaps": [
+			"Mortal Kombat 4 (Europe).png",
+			"Mortal Kombat 4 (USA).png"
+		]
+	},
+	"Mortal_Kombat_Mythologies:_Sub-Zero": {
+		"titles": [
+			"Mortal Kombat Mythologies - Sub-Zero (Europe).png",
+			"Mortal Kombat Mythologies - Sub-Zero (USA).png"
+		],
+		"boxarts": [
+			"Mortal Kombat Mythologies - Sub-Zero (Europe).png",
+			"Mortal Kombat Mythologies - Sub-Zero (USA).png"
+		],
+		"snaps": [
+			"Mortal Kombat Mythologies - Sub-Zero (Europe).png",
+			"Mortal Kombat Mythologies - Sub-Zero (USA).png"
+		]
+	},
+	"Mortal_Kombat_Trilogy": {
+		"titles": [
+			"Mortal Kombat Trilogy (Europe).png",
+			"Mortal Kombat Trilogy (USA) (Rev 1).png",
+			"Mortal Kombat Trilogy (USA) (Rev 2).png",
+			"Mortal Kombat Trilogy (USA).png"
+		],
+		"boxarts": [
+			"Mortal Kombat Trilogy (Europe).png",
+			"Mortal Kombat Trilogy (USA) (Beta) (1996-05-13).png",
+			"Mortal Kombat Trilogy (USA) (Rev 1).png",
+			"Mortal Kombat Trilogy (USA) (Rev 2).png",
+			"Mortal Kombat Trilogy (USA).png"
+		],
+		"snaps": [
+			"Mortal Kombat Trilogy (Europe).png",
+			"Mortal Kombat Trilogy (USA) (Rev 1).png",
+			"Mortal Kombat Trilogy (USA) (Rev 2).png",
+			"Mortal Kombat Trilogy (USA).png"
+		]
+	},
+	"Ms._Pac-Man_Maze_Madness": {
+		"titles": [
+			"Ms. Pac-Man - Maze Madness (USA).png"
+		],
+		"boxarts": [
+			"Ms. Pac-Man - Maze Madness (USA).png"
+		],
+		"snaps": [
+			"Ms. Pac-Man - Maze Madness (USA).png"
+		]
+	},
+	"Mystical_Ninja_Starring_Goemon": {
+		"titles": [
+			"Mystical Ninja Starring Goemon (Europe).png",
+			"Mystical Ninja Starring Goemon (USA).png"
+		],
+		"boxarts": [
+			"Mystical Ninja Starring Goemon (Europe).png",
+			"Mystical Ninja Starring Goemon (USA).png"
+		],
+		"snaps": [
+			"Mystical Ninja Starring Goemon (Europe).png",
+			"Mystical Ninja Starring Goemon (USA).png"
+		]
+	},
+	"NASCAR_2000": {
+		"titles": [
+			"NASCAR 2000 (USA).png"
+		],
+		"boxarts": [
+			"NASCAR 2000 (USA).png"
+		],
+		"snaps": [
+			"NASCAR 2000 (USA).png"
+		]
+	},
+	"NASCAR_99": {
+		"titles": [
+			"NASCAR 99 (Europe) (En,Fr,De).png",
+			"NASCAR 99 (USA).png"
+		],
+		"boxarts": [
+			"NASCAR 99 (Europe) (En,Fr,De).png",
+			"NASCAR 99 (USA).png"
+		],
+		"snaps": [
+			"NASCAR 99 (Europe) (En,Fr,De).png",
+			"NASCAR 99 (USA).png"
+		]
+	},
+	"NBA_Courtside_2_Featuring_Kobe_Bryant": {
+		"titles": [
+			"NBA Courtside 2 featuring Kobe Bryant (USA).png"
+		],
+		"boxarts": [
+			"NBA Courtside 2 featuring Kobe Bryant (USA).png"
+		],
+		"snaps": [
+			"NBA Courtside 2 featuring Kobe Bryant (USA).png"
+		]
+	},
+	"NBA_Hangtime": {
+		"titles": [
+			"NBA Hangtime (Europe).png",
+			"NBA Hangtime (USA).png"
+		],
+		"boxarts": [
+			"NBA Hangtime (Europe).png",
+			"NBA Hangtime (USA).png"
+		],
+		"snaps": [
+			"NBA Hangtime (Europe).png",
+			"NBA Hangtime (USA).png"
+		]
+	},
+	"NBA_Jam_2000": {
+		"titles": [
+			"NBA Jam 2000 (Europe).png",
+			"NBA Jam 2000 (USA).png"
+		],
+		"boxarts": [
+			"NBA Jam 2000 (Europe).png",
+			"NBA Jam 2000 (USA).png"
+		],
+		"snaps": [
+			"NBA Jam 2000 (Europe).png",
+			"NBA Jam 2000 (USA).png"
+		]
+	},
+	"NBA_Jam_99": {
+		"titles": [
+			"NBA Jam 99 (Europe).png",
+			"NBA Jam 99 (USA).png"
+		],
+		"boxarts": [
+			"NBA Jam 99 (Europe).png",
+			"NBA Jam 99 (USA).png"
+		],
+		"snaps": [
+			"NBA Jam 99 (Europe).png",
+			"NBA Jam 99 (USA).png"
+		]
+	},
+	"NBA_Live_2000": {
+		"titles": [
+			"NBA Live 2000 (Europe) (En,Fr,De,Es).png",
+			"NBA Live 2000 (USA) (En,Fr,De,Es).png"
+		],
+		"boxarts": [
+			"NBA Live 2000 (Europe) (En,Fr,De,Es).png",
+			"NBA Live 2000 (USA) (En,Fr,De,Es).png"
+		],
+		"snaps": [
+			"NBA Live 2000 (Europe) (En,Fr,De,Es).png",
+			"NBA Live 2000 (USA) (En,Fr,De,Es).png"
+		]
+	},
+	"NBA_Live_99": {
+		"titles": [
+			"NBA Live 99 (Europe) (En,Fr,De,Es,It).png",
+			"NBA Live 99 (USA) (En,Fr,De,Es,It).png"
+		],
+		"boxarts": [
+			"NBA Live 99 (Europe) (En,Fr,De,Es,It).png",
+			"NBA Live 99 (USA) (En,Fr,De,Es,It).png"
+		],
+		"snaps": [
+			"NBA Live 99 (Europe) (En,Fr,De,Es,It).png",
+			"NBA Live 99 (USA) (En,Fr,De,Es,It).png"
+		]
+	},
+	"NBA_In_The_Zone_'98": {
+		"titles": [
+			"NBA Pro 98 (Europe).png",
+			"NBA in the Zone '98 (Japan).png",
+			"NBA in the Zone '98 (USA).png"
+		],
+		"boxarts": [
+			"NBA Pro 98 (Europe).png",
+			"NBA in the Zone '98 (Japan).png",
+			"NBA in the Zone '98 (USA).png"
+		],
+		"snaps": [
+			"NBA Pro 98 (Europe).png",
+			"NBA in the Zone '98 (Japan).png",
+			"NBA in the Zone '98 (USA).png"
+		]
+	},
+	"NBA_In_The_Zone_'99": {
+		"titles": [
+			"NBA Pro 99 (Europe).png",
+			"NBA in the Zone '99 (USA).png"
+		],
+		"boxarts": [
+			"NBA Pro 99 (Europe).png",
+			"NBA in the Zone '99 (USA).png"
+		],
+		"snaps": [
+			"NBA Pro 99 (Europe).png",
+			"NBA in the Zone '99 (USA).png"
+		]
+	},
+	"NBA_Showtime:_NBA_on_NBC": {
+		"titles": [
+			"NBA Showtime - NBA on NBC (USA).png"
+		],
+		"boxarts": [
+			"NBA Showtime - NBA on NBC (USA).png"
+		],
+		"snaps": [
+			"NBA Showtime - NBA on NBC (USA).png"
+		]
+	},
+	"NBA_In_The_Zone_2000": {
+		"titles": [
+			"NBA in the Zone 2000 (Europe).png",
+			"NBA in the Zone 2000 (USA).png"
+		],
+		"boxarts": [
+			"NBA in the Zone 2000 (Europe).png",
+			"NBA in the Zone 2000 (USA).png"
+		],
+		"snaps": [
+			"NBA in the Zone 2000 (Europe).png",
+			"NBA in the Zone 2000 (USA).png"
+		]
+	},
+	"NFL_Blitz_(1997_video_game)": {
+		"titles": [
+			"NFL Blitz (USA).png"
+		],
+		"boxarts": [
+			"NFL Blitz (USA).png"
+		],
+		"snaps": [
+			"NFL Blitz (USA).png"
+		]
+	},
+	"NFL_Blitz_Installments": {
+		"titles": [
+			"NFL Blitz - Special Edition (USA).png"
+		],
+		"boxarts": [
+			"NFL Blitz - Special Edition (USA).png"
+		],
+		"snaps": [
+			"NFL Blitz - Special Edition (USA).png"
+		]
+	},
+	"NFL_Blitz_2000": {
+		"titles": [
+			"NFL Blitz 2000 (USA) (Rev 1).png",
+			"NFL Blitz 2000 (USA).png"
+		],
+		"boxarts": [
+			"NFL Blitz 2000 (USA) (Rev 1).png",
+			"NFL Blitz 2000 (USA).png"
+		],
+		"snaps": [
+			"NFL Blitz 2000 (USA) (Rev 1).png",
+			"NFL Blitz 2000 (USA).png"
+		]
+	},
+	"NFL_Blitz_2001": {
+		"titles": [
+			"NFL Blitz 2001 (USA).png"
+		],
+		"boxarts": [
+			"NFL Blitz 2001 (USA).png"
+		],
+		"snaps": [
+			"NFL Blitz 2001 (USA).png"
+		]
+	},
+	"NFL_QB_Club_2001": {
+		"titles": [
+			"NFL QB Club 2001 (USA).png"
+		],
+		"boxarts": [
+			"NFL QB Club 2001 (USA).png"
+		],
+		"snaps": [
+			"NFL QB Club 2001 (USA).png"
+		]
+	},
+	"NFL_Quarterback_Club_2000": {
+		"titles": [
+			"NFL Quarterback Club 2000 (Europe).png",
+			"NFL Quarterback Club 2000 (USA).png"
+		],
+		"boxarts": [
+			"NFL Quarterback Club 2000 (Europe).png",
+			"NFL Quarterback Club 2000 (USA).png"
+		],
+		"snaps": [
+			"NFL Quarterback Club 2000 (Europe).png",
+			"NFL Quarterback Club 2000 (USA).png"
+		]
+	},
+	"NFL_Quarterback_Club_98": {
+		"titles": [
+			"NFL Quarterback Club 98 (Europe).png",
+			"NFL Quarterback Club 98 (USA).png"
+		],
+		"boxarts": [
+			"NFL Quarterback Club 98 (Europe).png",
+			"NFL Quarterback Club 98 (USA).png"
+		],
+		"snaps": [
+			"NFL Quarterback Club 98 (Europe).png",
+			"NFL Quarterback Club 98 (USA).png"
+		]
+	},
+	"NFL_Quarterback_Club_99": {
+		"titles": [
+			"NFL Quarterback Club 99 (Europe).png",
+			"NFL Quarterback Club 99 (USA).png"
+		],
+		"boxarts": [
+			"NFL Quarterback Club 99 (Europe).png",
+			"NFL Quarterback Club 99 (USA).png"
+		],
+		"snaps": [
+			"NFL Quarterback Club 99 (Europe).png",
+			"NFL Quarterback Club 99 (USA).png"
+		]
+	},
+	"NHL_99": {
+		"titles": [
+			"NHL 99 (Europe) (En,De,Sv,Fi).png",
+			"NHL 99 (USA).png"
+		],
+		"boxarts": [
+			"NHL 99 (Europe) (En,De,Sv,Fi).png",
+			"NHL 99 (USA).png"
+		],
+		"snaps": [
+			"NHL 99 (Europe) (En,De,Sv,Fi).png",
+			"NHL 99 (USA).png"
+		]
+	},
+	"NHL_Blades_of_Steel_'99": {
+		"titles": [
+			"NHL Blades of Steel '99 (USA).png",
+			"NHL Pro 99 (Europe).png"
+		],
+		"boxarts": [
+			"NHL Blades of Steel '99 (USA).png",
+			"NHL Pro 99 (Europe).png"
+		],
+		"snaps": [
+			"NHL Blades of Steel '99 (USA).png",
+			"NHL Pro 99 (Europe).png"
+		]
+	},
+	"NHL_Breakaway_98": {
+		"titles": [
+			"NHL Breakaway 98 (Europe).png",
+			"NHL Breakaway 98 (USA).png"
+		],
+		"boxarts": [
+			"NHL Breakaway 98 (Europe).png",
+			"NHL Breakaway 98 (USA).png"
+		],
+		"snaps": [
+			"NHL Breakaway 98 (Europe).png",
+			"NHL Breakaway 98 (USA).png"
+		]
+	},
+	"NHL_Breakaway_99": {
+		"titles": [
+			"NHL Breakaway 99 (Europe).png",
+			"NHL Breakaway 99 (USA).png"
+		],
+		"boxarts": [
+			"NHL Breakaway 99 (Europe).png",
+			"NHL Breakaway 99 (USA).png"
+		],
+		"snaps": [
+			"NHL Breakaway 99 (Europe).png",
+			"NHL Breakaway 99 (USA).png"
+		]
+	},
+	"Nagano_Winter_Olympics_'98": {
+		"titles": [
+			"Nagano Winter Olympics '98 (Europe).png",
+			"Nagano Winter Olympics '98 (USA).png"
+		],
+		"boxarts": [
+			"Nagano Winter Olympics '98 (Europe).png",
+			"Nagano Winter Olympics '98 (USA).png"
+		],
+		"snaps": [
+			"Nagano Winter Olympics '98 (Europe).png",
+			"Nagano Winter Olympics '98 (USA).png"
+		]
+	},
+	"Namco_Museum_Namco_Museum_64_and_Namco_Museum_(1999-2002)": {
+		"titles": [
+			"Namco Museum 64 (USA).png"
+		],
+		"boxarts": [
+			"Namco Museum 64 (USA).png"
+		],
+		"snaps": [
+			"Namco Museum 64 (USA).png"
+		]
+	},
+	"The_New_Tetris": {
+		"titles": [
+			"New Tetris, The (Europe).png",
+			"New Tetris, The (USA).png"
+		],
+		"boxarts": [
+			"New Tetris, The (Europe).png",
+			"New Tetris, The (USA).png"
+		],
+		"snaps": [
+			"New Tetris, The (Europe).png",
+			"New Tetris, The (USA).png"
+		]
+	},
+	"Nightmare_Creatures": {
+		"titles": [
+			"Nightmare Creatures (USA).png"
+		],
+		"boxarts": [
+			"Nightmare Creatures (USA).png"
+		],
+		"snaps": [
+			"Nightmare Creatures (USA).png"
+		]
+	},
+	"Nuclear_Strike": {
+		"titles": [
+			"Nuclear Strike 64 (Europe) (En,Fr).png",
+			"Nuclear Strike 64 (Germany).png",
+			"Nuclear Strike 64 (USA).png"
+		],
+		"boxarts": [
+			"Nuclear Strike 64 (Europe) (En,Fr).png",
+			"Nuclear Strike 64 (Germany) (Beta) (1999-11-17).png",
+			"Nuclear Strike 64 (Germany).png",
+			"Nuclear Strike 64 (USA).png"
+		],
+		"snaps": [
+			"Nuclear Strike 64 (Europe) (En,Fr).png",
+			"Nuclear Strike 64 (Germany).png",
+			"Nuclear Strike 64 (USA).png"
+		]
+	},
+	"Off_Road_Challenge": {
+		"titles": [
+			"Off Road Challenge (Europe).png",
+			"Off Road Challenge (USA).png"
+		],
+		"boxarts": [
+			"Off Road Challenge (Europe).png",
+			"Off Road Challenge (USA).png"
+		],
+		"snaps": [
+			"Off Road Challenge (Europe).png",
+			"Off Road Challenge (USA).png"
+		]
+	},
+	"Ogre_Battle_64": {
+		"titles": [
+			"Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1) (Wii Virtual Console).png",
+			"Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1).png",
+			"Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev 1).png",
+			"Ogre Battle 64 - Person of Lordly Caliber (USA).png",
+			"Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Rev 1) (Wii Virtual Console).png"
+		],
+		"boxarts": [
+			"Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1) (Wii Virtual Console).png",
+			"Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1).png",
+			"Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev 1).png",
+			"Ogre Battle 64 - Person of Lordly Caliber (USA).png",
+			"Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Rev 1) (Wii Virtual Console).png"
+		],
+		"snaps": [
+			"Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1).png",
+			"Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev 1).png",
+			"Ogre Battle 64 - Person of Lordly Caliber (USA).png"
+		]
+	},
+	"Olympic_Hockey_'98": {
+		"titles": [
+			"Olympic Hockey 98 (Europe) (En,Fr,De,Es).png",
+			"Olympic Hockey 98 (Japan).png",
+			"Olympic Hockey 98 (USA).png"
+		],
+		"boxarts": [
+			"Olympic Hockey 98 (Europe) (En,Fr,De,Es).png",
+			"Olympic Hockey 98 (Japan).png",
+			"Olympic Hockey 98 (USA).png"
+		],
+		"snaps": [
+			"Olympic Hockey 98 (Europe) (En,Fr,De,Es).png",
+			"Olympic Hockey 98 (Japan).png",
+			"Olympic Hockey 98 (USA).png"
+		]
+	},
+	"WinBack": {
+		"titles": [
+			"Operation WinBack (Europe) (En,Fr,De,Es,It).png",
+			"WinBack - Covert Operations (USA).png"
+		],
+		"boxarts": [
+			"Operation WinBack (Europe) (En,Fr,De,Es,It).png",
+			"WinBack - Covert Operations (USA).png"
+		],
+		"snaps": [
+			"Operation WinBack (Europe) (En,Fr,De,Es,It).png",
+			"WinBack - Covert Operations (USA).png"
+		]
+	},
+	"PGA_European_Tour_Golf_PGA_European_Tour": {
+		"titles": [
+			"PGA European Tour (USA).png",
+			"PGA European Tour Golf (Europe) (En,Fr,De,Es,It).png"
+		],
+		"boxarts": [
+			"PGA European Tour (USA).png",
+			"PGA European Tour Golf (Europe) (En,Fr,De,Es,It).png"
+		],
+		"snaps": [
+			"PGA European Tour (USA).png",
+			"PGA European Tour Golf (Europe) (En,Fr,De,Es,It).png"
+		]
+	},
+	"Paper_Mario_(video_game)": {
+		"titles": [
+			"Paper Mario (Europe) (En,Fr,De,Es).png",
+			"Paper Mario (USA).png"
+		],
+		"boxarts": [
+			"Paper Mario (Europe) (En,Fr,De,Es).png",
+			"Paper Mario (USA).png"
+		],
+		"snaps": [
+			"Paper Mario (Europe) (En,Fr,De,Es).png",
+			"Paper Mario (USA).png"
+		]
+	},
+	"Paperboy_(video_game)_Legacy": {
+		"titles": [
+			"Paperboy (Europe).png",
+			"Paperboy (USA).png"
+		],
+		"boxarts": [
+			"Paperboy (Europe).png",
+			"Paperboy (USA).png"
+		],
+		"snaps": [
+			"Paperboy (Europe).png",
+			"Paperboy (USA).png"
+		]
+	},
+	"Perfect_Dark": {
+		"titles": [
+			"Perfect Dark (Europe) (En,Fr,De,Es,It).png",
+			"Perfect Dark (Japan).png",
+			"Perfect Dark (USA) (Rev 1).png",
+			"Perfect Dark (USA).png"
+		],
+		"boxarts": [
+			"Perfect Dark (Europe) (Debug Version) (2000-04-26).png",
+			"Perfect Dark (Europe) (En,Fr,De,Es,It).png",
+			"Perfect Dark (Japan).png",
+			"Perfect Dark (USA) (Debug Version) (2000-03-22).png",
+			"Perfect Dark (USA) (Rev 1).png",
+			"Perfect Dark (USA).png"
+		],
+		"snaps": [
+			"Perfect Dark (Europe) (En,Fr,De,Es,It).png",
+			"Perfect Dark (Japan).png",
+			"Perfect Dark (USA) (Rev 1).png",
+			"Perfect Dark (USA).png"
+		]
+	},
+	"Pilotwings_64": {
+		"titles": [
+			"Pilotwings 64 (Europe) (En,Fr,De).png",
+			"Pilotwings 64 (Japan).png",
+			"Pilotwings 64 (USA).png"
+		],
+		"boxarts": [
+			"Pilotwings 64 (Europe) (En,Fr,De).png",
+			"Pilotwings 64 (Japan).png",
+			"Pilotwings 64 (USA).png"
+		],
+		"snaps": [
+			"Pilotwings 64 (Europe) (En,Fr,De).png",
+			"Pilotwings 64 (Japan).png",
+			"Pilotwings 64 (USA).png"
+		]
+	},
+	"Pokémon_Puzzle_League": {
+		"titles": [
+			"Pokemon Puzzle League (Europe) (Wii Virtual Console).png",
+			"Pokemon Puzzle League (Europe).png",
+			"Pokemon Puzzle League (France) (Wii Virtual Console).png",
+			"Pokemon Puzzle League (France).png",
+			"Pokemon Puzzle League (Germany) (Wii Virtual Console).png",
+			"Pokemon Puzzle League (Germany).png",
+			"Pokemon Puzzle League (USA) (Wii Virtual Console).png",
+			"Pokemon Puzzle League (USA).png"
+		],
+		"boxarts": [
+			"Pokemon Puzzle League (Europe) (Wii Virtual Console).png",
+			"Pokemon Puzzle League (Europe).png",
+			"Pokemon Puzzle League (France) (Wii Virtual Console).png",
+			"Pokemon Puzzle League (France).png",
+			"Pokemon Puzzle League (Germany) (Wii Virtual Console).png",
+			"Pokemon Puzzle League (Germany).png",
+			"Pokemon Puzzle League (USA) (Wii Virtual Console).png",
+			"Pokemon Puzzle League (USA).png"
+		],
+		"snaps": [
+			"Pokemon Puzzle League (Europe).png",
+			"Pokemon Puzzle League (France).png",
+			"Pokemon Puzzle League (Germany).png",
+			"Pokemon Puzzle League (USA).png"
+		]
+	},
+	"Pokémon_Snap": {
+		"titles": [
+			"Pokemon Snap (Australia).png",
+			"Pokemon Snap (Europe).png",
+			"Pokemon Snap (France).png",
+			"Pokemon Snap (Germany).png",
+			"Pokemon Snap (Italy).png",
+			"Pokemon Snap (Japan) (Rev 1) (Wii Virtual Console).png",
+			"Pokemon Snap (Japan).png",
+			"Pokemon Snap (Spain).png",
+			"Pokemon Snap (USA).png"
+		],
+		"boxarts": [
+			"Pokemon Snap (Australia).png",
+			"Pokemon Snap (Europe).png",
+			"Pokemon Snap (France).png",
+			"Pokemon Snap (Germany).png",
+			"Pokemon Snap (Italy).png",
+			"Pokemon Snap (Japan) (Rev 1) (Wii Virtual Console).png",
+			"Pokemon Snap (Japan).png",
+			"Pokemon Snap (Spain).png",
+			"Pokemon Snap (USA).png"
+		],
+		"snaps": [
+			"Pokemon Snap (Australia).png",
+			"Pokemon Snap (Europe).png",
+			"Pokemon Snap (France).png",
+			"Pokemon Snap (Germany).png",
+			"Pokemon Snap (Italy).png",
+			"Pokemon Snap (Japan).png",
+			"Pokemon Snap (Spain).png",
+			"Pokemon Snap (USA).png"
+		]
+	},
+	"Pokémon_Stadium": {
+		"titles": [
+			"Pokemon Stadium (Europe) (Rev 1).png",
+			"Pokemon Stadium (Europe).png",
+			"Pokemon Stadium (France).png",
+			"Pokemon Stadium (Germany).png",
+			"Pokemon Stadium (Italy).png",
+			"Pokemon Stadium (Japan).png",
+			"Pokemon Stadium (Spain).png",
+			"Pokemon Stadium (USA) (Rev 1).png",
+			"Pokemon Stadium (USA) (Rev 2).png",
+			"Pokemon Stadium (USA).png",
+			"Pokemon Stadium 2 (Europe).png",
+			"Pokemon Stadium 2 (France).png",
+			"Pokemon Stadium 2 (Germany).png",
+			"Pokemon Stadium 2 (Italy).png",
+			"Pokemon Stadium 2 (Japan).png",
+			"Pokemon Stadium 2 (Spain).png"
+		],
+		"boxarts": [
+			"Pokemon Stadium (Europe) (Rev 1).png",
+			"Pokemon Stadium (Europe).png",
+			"Pokemon Stadium (France).png",
+			"Pokemon Stadium (Germany).png",
+			"Pokemon Stadium (Italy).png",
+			"Pokemon Stadium (Japan).png",
+			"Pokemon Stadium (Spain).png",
+			"Pokemon Stadium (USA) (Rev 1).png",
+			"Pokemon Stadium (USA) (Rev 2).png",
+			"Pokemon Stadium (USA).png",
+			"Pokemon Stadium 2 (Europe).png",
+			"Pokemon Stadium 2 (France).png",
+			"Pokemon Stadium 2 (Germany).png",
+			"Pokemon Stadium 2 (Italy).png",
+			"Pokemon Stadium 2 (Japan).png",
+			"Pokemon Stadium 2 (Spain).png"
+		],
+		"snaps": [
+			"Pokemon Stadium (Europe) (Rev 1).png",
+			"Pokemon Stadium (Europe).png",
+			"Pokemon Stadium (France).png",
+			"Pokemon Stadium (Germany).png",
+			"Pokemon Stadium (Italy).png",
+			"Pokemon Stadium (Japan).png",
+			"Pokemon Stadium (Spain).png",
+			"Pokemon Stadium (USA) (Rev 1).png",
+			"Pokemon Stadium (USA) (Rev 2).png",
+			"Pokemon Stadium (USA).png",
+			"Pokemon Stadium 2 (Europe).png",
+			"Pokemon Stadium 2 (France).png",
+			"Pokemon Stadium 2 (Germany).png",
+			"Pokemon Stadium 2 (Italy).png",
+			"Pokemon Stadium 2 (Japan).png",
+			"Pokemon Stadium 2 (Spain).png"
+		]
+	},
+	"Pokémon_Stadium_2": {
+		"titles": [
+			"Pokemon Stadium 2 (USA).png"
+		],
+		"boxarts": [
+			"Pokemon Stadium 2 (USA).png"
+		],
+		"snaps": [
+			"Pokemon Stadium 2 (USA).png"
+		]
+	},
+	"Polaris_SnoCross": {
+		"titles": [
+			"Polaris SnoCross (USA).png"
+		],
+		"boxarts": [
+			"Polaris SnoCross (USA).png"
+		],
+		"snaps": [
+			"Polaris SnoCross (USA).png"
+		]
+	},
+	"Power_Rangers_Lightspeed_Rescue_(video_game)": {
+		"titles": [
+			"Power Rangers - Lightspeed Rescue (Europe).png",
+			"Power Rangers - Lightspeed Rescue (USA).png"
+		],
+		"boxarts": [
+			"Power Rangers - Lightspeed Rescue (Europe).png",
+			"Power Rangers - Lightspeed Rescue (USA).png"
+		],
+		"snaps": [
+			"Power Rangers - Lightspeed Rescue (Europe).png",
+			"Power Rangers - Lightspeed Rescue (USA).png"
+		]
+	},
+	"The_Powerpuff_Girls:_Chemical_X-Traction": {
+		"titles": [
+			"Powerpuff Girls, The - Chemical X-Traction (USA).png"
+		],
+		"boxarts": [
+			"Powerpuff Girls, The - Chemical X-Traction (USA).png"
+		],
+		"snaps": [
+			"Powerpuff Girls, The - Chemical X-Traction (USA).png"
+		]
+	},
+	"Quake_(video_game)_Ports": {
+		"titles": [
+			"Quake (USA).png"
+		],
+		"boxarts": [
+			"Quake (USA).png"
+		],
+		"snaps": [
+			"Quake (USA).png"
+		]
+	},
+	"Quake_II_Ports": {
+		"titles": [
+			"Quake II (Europe).png",
+			"Quake II (USA).png"
+		],
+		"boxarts": [
+			"Quake II (Europe).png",
+			"Quake II (USA).png"
+		],
+		"snaps": [
+			"Quake II (Europe).png",
+			"Quake II (USA).png"
+		]
+	},
+	"Ridge_Racer_64": {
+		"titles": [
+			"RR64 - Ridge Racer 64 (USA).png"
+		],
+		"boxarts": [
+			"RR64 - Ridge Racer 64 (USA).png"
+		],
+		"snaps": [
+			"RR64 - Ridge Racer 64 (USA).png"
+		]
+	},
+	"Rally_Challenge_2000": {
+		"titles": [
+			"Rally '99 (Japan).png",
+			"Rally Challenge 2000 (USA).png"
+		],
+		"boxarts": [
+			"Rally '99 (Japan).png",
+			"Rally Challenge 2000 (USA).png"
+		],
+		"snaps": [
+			"Rally '99 (Japan).png",
+			"Rally Challenge 2000 (USA).png"
+		]
+	},
+	"Rampage_World_Tour": {
+		"titles": [
+			"Rampage - World Tour (Europe).png",
+			"Rampage - World Tour (USA).png"
+		],
+		"boxarts": [
+			"Rampage - World Tour (Europe).png",
+			"Rampage - World Tour (USA).png"
+		],
+		"snaps": [
+			"Rampage - World Tour (Europe).png",
+			"Rampage - World Tour (USA).png"
+		]
+	},
+	"Rampage_2:_Universal_Tour": {
+		"titles": [
+			"Rampage 2 - Universal Tour (Europe).png",
+			"Rampage 2 - Universal Tour (USA).png"
+		],
+		"boxarts": [
+			"Rampage 2 - Universal Tour (Europe).png",
+			"Rampage 2 - Universal Tour (USA).png"
+		],
+		"snaps": [
+			"Rampage 2 - Universal Tour (Europe).png",
+			"Rampage 2 - Universal Tour (USA).png"
+		]
+	},
+	"Rat_Attack!": {
+		"titles": [
+			"Rat Attack (Europe) (En,Fr,De,Es,It,Nl).png",
+			"Rat Attack! (USA) (En,Fr,De,Es,It,Nl).png"
+		],
+		"boxarts": [
+			"Rat Attack (Europe) (En,Fr,De,Es,It,Nl).png",
+			"Rat Attack! (USA) (En,Fr,De,Es,It,Nl).png"
+		],
+		"snaps": [
+			"Rat Attack (Europe) (En,Fr,De,Es,It,Nl).png",
+			"Rat Attack! (USA) (En,Fr,De,Es,It,Nl).png"
+		]
+	},
+	"Rayman_2:_The_Great_Escape": {
+		"titles": [
+			"Rayman 2 - The Great Escape (Europe) (En,Fr,De,Es,It).png",
+			"Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It).png"
+		],
+		"boxarts": [
+			"Rayman 2 - The Great Escape (Europe) (En,Fr,De,Es,It).png",
+			"Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It).png"
+		],
+		"snaps": [
+			"Rayman 2 - The Great Escape (Europe) (En,Fr,De,Es,It).png",
+			"Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It).png"
+		]
+	},
+	"Razor_Freestyle_Scooter": {
+		"titles": [
+			"Razor Freestyle Scooter (USA).png"
+		],
+		"boxarts": [
+			"Razor Freestyle Scooter (USA).png"
+		],
+		"snaps": [
+			"Razor Freestyle Scooter (USA).png"
+		]
+	},
+	"Re-Volt": {
+		"titles": [
+			"Re-Volt (Europe) (En,Fr,De,Es).png",
+			"Re-Volt (USA).png"
+		],
+		"boxarts": [
+			"Re-Volt (Europe) (En,Fr,De,Es).png",
+			"Re-Volt (USA).png"
+		],
+		"snaps": [
+			"Re-Volt (Europe) (En,Fr,De,Es).png",
+			"Re-Volt (USA).png"
+		]
+	},
+	"Ready_2_Rumble_Boxing": {
+		"titles": [
+			"Ready 2 Rumble Boxing (Europe) (En,Fr,De).png",
+			"Ready 2 Rumble Boxing (USA).png"
+		],
+		"boxarts": [
+			"Ready 2 Rumble Boxing (Europe) (En,Fr,De).png",
+			"Ready 2 Rumble Boxing (USA).png"
+		],
+		"snaps": [
+			"Ready 2 Rumble Boxing (Europe) (En,Fr,De).png",
+			"Ready 2 Rumble Boxing (USA).png"
+		]
+	},
+	"Ready_2_Rumble_Boxing:_Round_2": {
+		"titles": [
+			"Ready 2 Rumble Boxing - Round 2 (USA).png"
+		],
+		"boxarts": [
+			"Ready 2 Rumble Boxing - Round 2 (USA).png"
+		],
+		"snaps": [
+			"Ready 2 Rumble Boxing - Round 2 (USA).png"
+		]
+	},
+	"Resident_Evil_2_Nintendo_64": {
+		"titles": [
+			"Resident Evil 2 (Europe) (En,Fr).png",
+			"Resident Evil 2 (USA) (Rev 1).png",
+			"Resident Evil 2 (USA).png"
+		],
+		"boxarts": [
+			"Resident Evil 2 (Europe) (En,Fr).png",
+			"Resident Evil 2 (USA) (Rev 1).png",
+			"Resident Evil 2 (USA).png"
+		],
+		"snaps": [
+			"Resident Evil 2 (Europe) (En,Fr).png",
+			"Resident Evil 2 (USA) (Rev 1).png",
+			"Resident Evil 2 (USA).png"
+		]
+	},
+	"Road_Rash_64": {
+		"titles": [
+			"Road Rash 64 (Europe).png",
+			"Road Rash 64 (USA).png"
+		],
+		"boxarts": [
+			"Road Rash 64 (Europe) (Beta) (1999-10-12).png",
+			"Road Rash 64 (Europe).png",
+			"Road Rash 64 (USA).png"
+		],
+		"snaps": [
+			"Road Rash 64 (Europe).png",
+			"Road Rash 64 (USA).png"
+		]
+	},
+	"Roadsters_(video_game)": {
+		"titles": [
+			"Roadsters (Europe) (En,Fr,De,Es,It,Nl).png",
+			"Roadsters (USA) (En,Fr,Es).png"
+		],
+		"boxarts": [
+			"Roadsters (Europe) (En,Fr,De,Es,It,Nl).png",
+			"Roadsters (USA) (En,Fr,Es).png"
+		],
+		"snaps": [
+			"Roadsters (Europe) (En,Fr,De,Es,It,Nl).png",
+			"Roadsters (USA) (En,Fr,Es).png"
+		]
+	},
+	"Robotron_64": {
+		"titles": [
+			"Robotron 64 (Europe).png",
+			"Robotron 64 (USA).png"
+		],
+		"boxarts": [
+			"Robotron 64 (Europe).png",
+			"Robotron 64 (USA).png"
+		],
+		"snaps": [
+			"Robotron 64 (Europe).png",
+			"Robotron 64 (USA).png"
+		]
+	},
+	"Rocket:_Robot_on_Wheels": {
+		"titles": [
+			"Rocket - Robot on Wheels (Europe) (En,Fr,De).png",
+			"Rocket - Robot on Wheels (USA).png"
+		],
+		"boxarts": [
+			"Rocket - Robot on Wheels (Europe) (Beta) (1999-09-29).png",
+			"Rocket - Robot on Wheels (Europe) (En,Fr,De).png",
+			"Rocket - Robot on Wheels (USA).png"
+		],
+		"snaps": [
+			"Rocket - Robot on Wheels (Europe) (En,Fr,De).png",
+			"Rocket - Robot on Wheels (USA).png"
+		]
+	},
+	"Rugrats:_Scavenger_Hunt": {
+		"titles": [
+			"Rugrats - Scavenger Hunt (USA).png",
+			"Rugrats - Treasure Hunt (Europe).png"
+		],
+		"boxarts": [
+			"Rugrats - Scavenger Hunt (USA).png",
+			"Rugrats - Treasure Hunt (Europe).png"
+		],
+		"snaps": [
+			"Rugrats - Scavenger Hunt (USA).png",
+			"Rugrats - Treasure Hunt (Europe).png"
+		]
+	},
+	"Rugrats_in_Paris:_The_Movie_(video_game)": {
+		"titles": [
+			"Rugrats in Paris - The Movie (Europe).png",
+			"Rugrats in Paris - The Movie (USA).png"
+		],
+		"boxarts": [
+			"Rugrats in Paris - The Movie (Europe).png",
+			"Rugrats in Paris - The Movie (USA).png"
+		],
+		"snaps": [
+			"Rugrats in Paris - The Movie (Europe).png",
+			"Rugrats in Paris - The Movie (USA).png"
+		]
+	},
+	"Rush_2:_Extreme_Racing_USA": {
+		"titles": [
+			"Rush 2 - Extreme Racing USA (Europe) (En,Fr,De,Es,It,Nl).png",
+			"Rush 2 - Extreme Racing USA (USA).png"
+		],
+		"boxarts": [
+			"Rush 2 - Extreme Racing USA (Europe) (En,Fr,De,Es,It,Nl).png",
+			"Rush 2 - Extreme Racing USA (USA).png"
+		],
+		"snaps": [
+			"Rush 2 - Extreme Racing USA (Europe) (En,Fr,De,Es,It,Nl).png",
+			"Rush 2 - Extreme Racing USA (USA).png"
+		]
+	},
+	"S.C.A.R.S._(video_game)": {
+		"titles": [
+			"S.C.A.R.S. (Europe) (En,Fr,De).png",
+			"S.C.A.R.S. (USA).png"
+		],
+		"boxarts": [
+			"S.C.A.R.S. (Europe) (En,Fr,De).png",
+			"S.C.A.R.S. (USA).png"
+		],
+		"snaps": [
+			"S.C.A.R.S. (Europe) (En,Fr,De).png",
+			"S.C.A.R.S. (USA).png"
+		]
+	},
+	"San_Francisco_Rush:_Extreme_Racing": {
+		"titles": [
+			"San Francisco Rush - Extreme Racing (Europe) (En,Fr,De).png",
+			"San Francisco Rush - Extreme Racing (USA) (En,Fr,De) (Rev 1).png",
+			"San Francisco Rush - Extreme Racing (USA) (En,Fr,De).png"
+		],
+		"boxarts": [
+			"San Francisco Rush - Extreme Racing (Europe) (En,Fr,De).png",
+			"San Francisco Rush - Extreme Racing (USA) (En,Fr,De) (Rev 1).png",
+			"San Francisco Rush - Extreme Racing (USA) (En,Fr,De).png"
+		],
+		"snaps": [
+			"San Francisco Rush - Extreme Racing (Europe) (En,Fr,De).png",
+			"San Francisco Rush - Extreme Racing (USA) (En,Fr,De) (Rev 1).png",
+			"San Francisco Rush - Extreme Racing (USA) (En,Fr,De).png"
+		]
+	},
+	"San_Francisco_Rush_2049": {
+		"titles": [
+			"San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl).png",
+			"San Francisco Rush 2049 (USA).png"
+		],
+		"boxarts": [
+			"San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl).png",
+			"San Francisco Rush 2049 (USA).png"
+		],
+		"snaps": [
+			"San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl).png",
+			"San Francisco Rush 2049 (USA).png"
+		]
+	},
+	"Scooby-Doo!_Classic_Creep_Capers": {
+		"titles": [
+			"Scooby-Doo! - Classic Creep Capers (Europe).png",
+			"Scooby-Doo! - Classic Creep Capers (USA) (Rev 1).png",
+			"Scooby-Doo! - Classic Creep Capers (USA).png"
+		],
+		"boxarts": [
+			"Scooby-Doo! - Classic Creep Capers (Europe).png",
+			"Scooby-Doo! - Classic Creep Capers (USA) (Rev 1).png",
+			"Scooby-Doo! - Classic Creep Capers (USA).png"
+		],
+		"snaps": [
+			"Scooby-Doo! - Classic Creep Capers (Europe).png",
+			"Scooby-Doo! - Classic Creep Capers (USA) (Rev 1).png",
+			"Scooby-Doo! - Classic Creep Capers (USA).png"
+		]
+	},
+	"Sesame_Street_video_games_Elmo's_Letter_Adventure": {
+		"titles": [
+			"Sesame Street - Elmo's Letter Adventure (USA).png"
+		],
+		"boxarts": [
+			"Sesame Street - Elmo's Letter Adventure (USA).png"
+		],
+		"snaps": [
+			"Sesame Street - Elmo's Letter Adventure (USA).png"
+		]
+	},
+	"Sesame_Street_video_games_Elmo's_Number_Journey": {
+		"titles": [
+			"Sesame Street - Elmo's Number Journey (USA).png"
+		],
+		"boxarts": [
+			"Sesame Street - Elmo's Number Journey (USA).png"
+		],
+		"snaps": [
+			"Sesame Street - Elmo's Number Journey (USA).png"
+		]
+	},
+	"Shadow_Man_(video_game)": {
+		"titles": [
+			"Shadow Man (Brazil).png",
+			"Shadow Man (Europe) (En,Es,It).png",
+			"Shadow Man (France).png",
+			"Shadow Man (Germany).png",
+			"Shadow Man (USA).png"
+		],
+		"boxarts": [
+			"Shadow Man (Brazil).png",
+			"Shadow Man (Europe) (En,Es,It).png",
+			"Shadow Man (France).png",
+			"Shadow Man (Germany).png",
+			"Shadow Man (USA).png"
+		],
+		"snaps": [
+			"Shadow Man (Brazil).png",
+			"Shadow Man (Europe) (En,Es,It).png",
+			"Shadow Man (France).png",
+			"Shadow Man (Germany).png",
+			"Shadow Man (USA).png"
+		]
+	},
+	"Shadowgate_64:_Trials_of_the_Four_Towers": {
+		"titles": [
+			"Shadowgate 64 - Trials of the Four Towers (Europe) (Es,It).png",
+			"Shadowgate 64 - Trials of the Four Towers (Europe) (Fr,De,Nl).png",
+			"Shadowgate 64 - Trials of the Four Towers (Europe).png",
+			"Shadowgate 64 - Trials of the Four Towers (Japan).png",
+			"Shadowgate 64 - Trials of the Four Towers (USA) (En,Es).png"
+		],
+		"boxarts": [
+			"Shadowgate 64 - Trials of the Four Towers (Europe) (Es,It).png",
+			"Shadowgate 64 - Trials of the Four Towers (Europe) (Fr,De,Nl).png",
+			"Shadowgate 64 - Trials of the Four Towers (Europe).png",
+			"Shadowgate 64 - Trials of the Four Towers (Japan).png",
+			"Shadowgate 64 - Trials of the Four Towers (USA) (En,Es).png"
+		],
+		"snaps": [
+			"Shadowgate 64 - Trials of the Four Towers (Europe) (Es,It).png",
+			"Shadowgate 64 - Trials of the Four Towers (Europe) (Fr,De,Nl).png",
+			"Shadowgate 64 - Trials of the Four Towers (Europe).png",
+			"Shadowgate 64 - Trials of the Four Towers (Japan).png",
+			"Shadowgate 64 - Trials of the Four Towers (USA) (En,Es).png"
+		]
+	},
+	"Snowboard_Kids": {
+		"titles": [
+			"Snowboard Kids (Europe, Australia).png",
+			"Snowboard Kids (USA).png"
+		],
+		"boxarts": [
+			"Snowboard Kids (Europe, Australia).png",
+			"Snowboard Kids (USA).png"
+		],
+		"snaps": [
+			"Snowboard Kids (Europe, Australia).png",
+			"Snowboard Kids (USA).png"
+		]
+	},
+	"Snowboard_Kids_2": {
+		"titles": [
+			"Snowboard Kids 2 (Australia).png",
+			"Snowboard Kids 2 (USA).png"
+		],
+		"boxarts": [
+			"Snowboard Kids 2 (Australia).png",
+			"Snowboard Kids 2 (USA).png"
+		],
+		"snaps": [
+			"Snowboard Kids 2 (Australia).png",
+			"Snowboard Kids 2 (USA).png"
+		]
+	},
+	"South_Park_(video_game)": {
+		"titles": [
+			"South Park (Brazil).png",
+			"South Park (Europe) (En,Fr,Es).png",
+			"South Park (Germany).png",
+			"South Park (USA).png"
+		],
+		"boxarts": [
+			"South Park (Brazil).png",
+			"South Park (Europe) (En,Fr,Es).png",
+			"South Park (Germany).png",
+			"South Park (USA).png"
+		],
+		"snaps": [
+			"South Park (Brazil).png",
+			"South Park (Europe) (En,Fr,Es).png",
+			"South Park (Germany).png",
+			"South Park (USA).png"
+		]
+	},
+	"South_Park:_Chef's_Luv_Shack": {
+		"titles": [
+			"South Park - Chef's Luv Shack (Europe).png",
+			"South Park - Chef's Luv Shack (USA).png"
+		],
+		"boxarts": [
+			"South Park - Chef's Luv Shack (Europe).png",
+			"South Park - Chef's Luv Shack (USA).png"
+		],
+		"snaps": [
+			"South Park - Chef's Luv Shack (Europe).png",
+			"South Park - Chef's Luv Shack (USA).png"
+		]
+	},
+	"South_Park_Rally": {
+		"titles": [
+			"South Park Rally (Europe).png",
+			"South Park Rally (USA).png"
+		],
+		"boxarts": [
+			"South Park Rally (Europe) (Beta).png",
+			"South Park Rally (Europe).png",
+			"South Park Rally (USA).png"
+		],
+		"snaps": [
+			"South Park Rally (Europe).png",
+			"South Park Rally (USA).png"
+		]
+	},
+	"List_of_Space_Invaders_video_games_Home_console_games": {
+		"titles": [
+			"Space Invaders (USA).png"
+		],
+		"boxarts": [
+			"Space Invaders (USA).png"
+		],
+		"snaps": [
+			"Space Invaders (USA).png"
+		]
+	},
+	"Space_Station_Silicon_Valley": {
+		"titles": [
+			"SpaceStation Silicon Valley (USA) (Rev 1).png"
+		],
+		"boxarts": [
+			"SpaceStation Silicon Valley (USA) (Rev 1).png"
+		],
+		"snaps": [
+			"SpaceStation Silicon Valley (USA) (Rev 1).png"
+		]
+	},
+	"Spider-Man_(2000_video_game)": {
+		"titles": [
+			"Spider-Man (USA).png"
+		],
+		"boxarts": [
+			"Spider-Man (USA).png"
+		],
+		"snaps": [
+			"Spider-Man (USA).png"
+		]
+	},
+	"Star_Soldier:_Vanishing_Earth": {
+		"titles": [
+			"Star Soldier - Vanishing Earth (Japan).png",
+			"Star Soldier - Vanishing Earth (USA).png"
+		],
+		"boxarts": [
+			"Star Soldier - Vanishing Earth (Japan).png",
+			"Star Soldier - Vanishing Earth (USA).png"
+		],
+		"snaps": [
+			"Star Soldier - Vanishing Earth (Japan).png",
+			"Star Soldier - Vanishing Earth (USA).png"
+		]
+	},
+	"Star_Wars:_Rogue_Squadron": {
+		"titles": [
+			"Star Wars - Rogue Squadron (Europe) (En,Fr,De) (Rev 1).png",
+			"Star Wars - Rogue Squadron (Europe) (En,Fr,De).png",
+			"Star Wars - Rogue Squadron (USA) (Rev 1).png",
+			"Star Wars - Rogue Squadron (USA).png"
+		],
+		"boxarts": [
+			"Star Wars - Rogue Squadron (Europe) (En,Fr,De) (Rev 1).png",
+			"Star Wars - Rogue Squadron (Europe) (En,Fr,De).png",
+			"Star Wars - Rogue Squadron (USA) (Rev 1).png",
+			"Star Wars - Rogue Squadron (USA).png"
+		]
+	},
+	"Star_Wars:_Shadows_of_the_Empire_(video_game)": {
+		"titles": [
+			"Star Wars - Shadows of the Empire (Europe).png",
+			"Star Wars - Shadows of the Empire (USA) (Beta) (1996-10-15).png",
+			"Star Wars - Shadows of the Empire (USA) (Rev 1).png",
+			"Star Wars - Shadows of the Empire (USA) (Rev 2).png",
+			"Star Wars - Shadows of the Empire (USA).png"
+		],
+		"boxarts": [
+			"Star Wars - Shadows of the Empire (Europe).png",
+			"Star Wars - Shadows of the Empire (USA) (Aftermarket) (Unl).png",
+			"Star Wars - Shadows of the Empire (USA) (Beta) (1996-10-15).png",
+			"Star Wars - Shadows of the Empire (USA) (Rev 1).png",
+			"Star Wars - Shadows of the Empire (USA) (Rev 2).png",
+			"Star Wars - Shadows of the Empire (USA).png"
+		],
+		"snaps": [
+			"Star Wars - Shadows of the Empire (Europe).png",
+			"Star Wars - Shadows of the Empire (USA) (Beta) (1996-10-15).png",
+			"Star Wars - Shadows of the Empire (USA) (Rev 1).png",
+			"Star Wars - Shadows of the Empire (USA) (Rev 2).png",
+			"Star Wars - Shadows of the Empire (USA).png"
+		]
+	},
+	"Star_Wars_Episode_I:_Battle_for_Naboo": {
+		"titles": [
+			"Star Wars Episode I - Battle for Naboo (Europe).png",
+			"Star Wars Episode I - Battle for Naboo (USA).png"
+		],
+		"boxarts": [
+			"Star Wars Episode I - Battle for Naboo (Europe).png",
+			"Star Wars Episode I - Battle for Naboo (USA).png"
+		],
+		"snaps": [
+			"Star Wars Episode I - Battle for Naboo (Europe).png",
+			"Star Wars Episode I - Battle for Naboo (USA).png"
+		]
+	},
+	"Star_Wars_Episode_I:_Racer": {
+		"titles": [
+			"Star Wars Episode I - Racer (Europe) (En,Fr,De).png",
+			"Star Wars Episode I - Racer (Japan).png",
+			"Star Wars Episode I - Racer (USA).png"
+		],
+		"boxarts": [
+			"Star Wars Episode I - Racer (Europe) (En,Fr,De).png",
+			"Star Wars Episode I - Racer (Japan).png",
+			"Star Wars Episode I - Racer (USA) (Aftermarket) (Unl).png",
+			"Star Wars Episode I - Racer (USA).png"
+		],
+		"snaps": [
+			"Star Wars Episode I - Racer (Europe) (En,Fr,De).png",
+			"Star Wars Episode I - Racer (Japan).png",
+			"Star Wars Episode I - Racer (USA).png"
+		]
+	},
+	"StarCraft_(video_game)_Nintendo_64_version": {
+		"titles": [
+			"StarCraft 64 (Australia).png",
+			"StarCraft 64 (Germany) (Proto).png",
+			"StarCraft 64 (USA) (Beta).png",
+			"StarCraft 64 (USA).png"
+		],
+		"boxarts": [
+			"StarCraft 64 (Australia).png",
+			"StarCraft 64 (Germany) (Proto).png",
+			"StarCraft 64 (USA) (Beta).png",
+			"StarCraft 64 (USA).png"
+		],
+		"snaps": [
+			"StarCraft 64 (Australia).png",
+			"StarCraft 64 (Germany) (Proto).png",
+			"StarCraft 64 (USA) (Beta).png",
+			"StarCraft 64 (USA).png"
+		]
+	},
+	"Starshot:_Space_Circus_Fever": {
+		"titles": [
+			"Starshot - Space Circus Fever (Europe) (En,Fr,De).png",
+			"Starshot - Space Circus Fever (USA) (En,Fr,Es).png"
+		],
+		"boxarts": [
+			"Starshot - Space Circus Fever (Europe) (En,Fr,De).png",
+			"Starshot - Space Circus Fever (USA) (En,Fr,Es).png"
+		],
+		"snaps": [
+			"Starshot - Space Circus Fever (Europe) (En,Fr,De).png",
+			"Starshot - Space Circus Fever (USA) (En,Fr,Es).png"
+		]
+	},
+	"Stunt_Racer_64": {
+		"titles": [
+			"Stunt Racer 64 (USA).png"
+		],
+		"boxarts": [
+			"Stunt Racer 64 (USA).png"
+		],
+		"snaps": [
+			"Stunt Racer 64 (USA).png"
+		]
+	},
+	"Super_Bowling": {
+		"titles": [
+			"Super Bowling (Japan).png",
+			"Super Bowling (USA).png"
+		],
+		"boxarts": [
+			"Super Bowling (Japan).png",
+			"Super Bowling (USA).png"
+		],
+		"snaps": [
+			"Super Bowling (Japan).png",
+			"Super Bowling (USA).png"
+		]
+	},
+	"Super_Mario_64": {
+		"titles": [
+			"Super Mario 64 (Europe) (En,Fr,De).png",
+			"Super Mario 64 (Japan) (Rev 3) (Shindou Edition).png",
+			"Super Mario 64 (Japan).png",
+			"Super Mario 64 (USA).png"
+		],
+		"boxarts": [
+			"Super Mario 64 (Europe) (En,Fr,De).png",
+			"Super Mario 64 (Japan) (Rev 3) (Shindou Edition).png",
+			"Super Mario 64 (Japan).png",
+			"Super Mario 64 (USA).png"
+		],
+		"snaps": [
+			"Super Mario 64 (Europe) (En,Fr,De).png",
+			"Super Mario 64 (Japan) (Rev 3) (Shindou Edition).png",
+			"Super Mario 64 (Japan).png",
+			"Super Mario 64 (USA).png"
+		]
+	},
+	"Super_Smash_Bros._(video_game)": {
+		"titles": [
+			"Super Smash Bros. (Australia).png",
+			"Super Smash Bros. (Europe) (En,Fr,De).png",
+			"Super Smash Bros. (USA).png"
+		],
+		"boxarts": [
+			"Super Smash Bros. (Australia).png",
+			"Super Smash Bros. (Europe) (En,Fr,De).png",
+			"Super Smash Bros. (USA).png"
+		],
+		"snaps": [
+			"Super Smash Bros. (Australia).png",
+			"Super Smash Bros. (Europe) (En,Fr,De).png",
+			"Super Smash Bros. (USA).png"
+		]
+	},
+	"Supercross_2000": {
+		"titles": [
+			"Supercross 2000 (Europe) (En,Fr,De).png",
+			"Supercross 2000 (USA).png"
+		],
+		"boxarts": [
+			"Supercross 2000 (Europe) (En,Fr,De).png",
+			"Supercross 2000 (USA).png"
+		],
+		"snaps": [
+			"Supercross 2000 (Europe) (En,Fr,De).png",
+			"Supercross 2000 (USA).png"
+		]
+	},
+	"Superman_64": {
+		"titles": [
+			"Superman (Europe) (En,Fr,De,Es,It,Nl).png",
+			"Superman (USA) (Beta) (1998-09-06).png"
+		],
+		"boxarts": [
+			"Superman (Europe) (En,Fr,De,Es,It,Nl).png",
+			"Superman (USA) (Beta) (1998-09-06).png"
+		],
+		"snaps": [
+			"Superman (Europe) (En,Fr,De,Es,It,Nl).png",
+			"Superman (USA) (Beta) (1998-09-06).png"
+		]
+	},
+	"Tarzan_(video_game)": {
+		"titles": [
+			"Tarzan (Europe).png",
+			"Tarzan (France).png",
+			"Tarzan (Germany).png",
+			"Tarzan (USA).png"
+		],
+		"boxarts": [
+			"Tarzan (Europe).png",
+			"Tarzan (France).png",
+			"Tarzan (Germany).png",
+			"Tarzan (USA).png"
+		],
+		"snaps": [
+			"Tarzan (Europe).png",
+			"Tarzan (France).png",
+			"Tarzan (Germany).png",
+			"Tarzan (USA).png"
+		]
+	},
+	"Tetrisphere": {
+		"titles": [
+			"Tetrisphere (Europe).png",
+			"Tetrisphere (USA).png"
+		],
+		"boxarts": [
+			"Tetrisphere (Europe).png",
+			"Tetrisphere (USA).png"
+		],
+		"snaps": [
+			"Tetrisphere (Europe).png",
+			"Tetrisphere (USA).png"
+		]
+	},
+	"Tigger's_Honey_Hunt": {
+		"titles": [
+			"Tigger's Honey Hunt (Europe) (En,Fr,De,Es,It,Nl,Da).png",
+			"Tigger's Honey Hunt (USA).png"
+		],
+		"boxarts": [
+			"Tigger's Honey Hunt (Europe) (En,Fr,De,Es,It,Nl,Da).png",
+			"Tigger's Honey Hunt (USA).png"
+		],
+		"snaps": [
+			"Tigger's Honey Hunt (Europe) (En,Fr,De,Es,It,Nl,Da).png",
+			"Tigger's Honey Hunt (USA).png"
+		]
+	},
+	"Tom_Clancy's_Rainbow_Six_(video_game)": {
+		"titles": [
+			"Tom Clancy's Rainbow Six (Europe).png",
+			"Tom Clancy's Rainbow Six (France).png",
+			"Tom Clancy's Rainbow Six (Germany).png",
+			"Tom Clancy's Rainbow Six (USA).png"
+		],
+		"boxarts": [
+			"Tom Clancy's Rainbow Six (Europe).png",
+			"Tom Clancy's Rainbow Six (France).png",
+			"Tom Clancy's Rainbow Six (Germany).png",
+			"Tom Clancy's Rainbow Six (USA).png"
+		],
+		"snaps": [
+			"Tom Clancy's Rainbow Six (Europe).png",
+			"Tom Clancy's Rainbow Six (France).png",
+			"Tom Clancy's Rainbow Six (Germany).png",
+			"Tom Clancy's Rainbow Six (USA).png"
+		]
+	},
+	"Tom_and_Jerry_in_Fists_of_Furry": {
+		"titles": [
+			"Tom and Jerry in Fists of Furry (Europe) (En,Fr,De,Es,It,Nl).png",
+			"Tom and Jerry in Fists of Furry (USA).png"
+		],
+		"boxarts": [
+			"Tom and Jerry in Fists of Furry (Europe) (En,Fr,De,Es,It,Nl).png",
+			"Tom and Jerry in Fists of Furry (USA).png"
+		],
+		"snaps": [
+			"Tom and Jerry in Fists of Furry (Europe) (En,Fr,De,Es,It,Nl).png",
+			"Tom and Jerry in Fists of Furry (USA).png"
+		]
+	},
+	"Tonic_Trouble": {
+		"titles": [
+			"Tonic Trouble (Europe) (En,Fr,De,Es,It).png",
+			"Tonic Trouble (USA) (Rev 1).png"
+		],
+		"boxarts": [
+			"Tonic Trouble (Europe) (En,Fr,De,Es,It).png",
+			"Tonic Trouble (USA) (Rev 1).png"
+		],
+		"snaps": [
+			"Tonic Trouble (Europe) (En,Fr,De,Es,It).png",
+			"Tonic Trouble (USA) (Rev 1).png"
+		]
+	},
+	"Tony_Hawk's_Pro_Skater_(video_game)": {
+		"titles": [
+			"Tony Hawk's Pro Skater (USA) (Rev 1).png",
+			"Tony Hawk's Pro Skater (USA).png",
+			"Tony Hawk's Skateboarding (Europe).png"
+		],
+		"boxarts": [
+			"Tony Hawk's Pro Skater (USA) (Beta).png",
+			"Tony Hawk's Pro Skater (USA) (Rev 1).png",
+			"Tony Hawk's Pro Skater (USA).png",
+			"Tony Hawk's Skateboarding (Europe).png"
+		],
+		"snaps": [
+			"Tony Hawk's Pro Skater (USA) (Rev 1).png",
+			"Tony Hawk's Pro Skater (USA).png",
+			"Tony Hawk's Skateboarding (Europe).png"
+		]
+	},
+	"Tony_Hawk's_Pro_Skater_2": {
+		"titles": [
+			"Tony Hawk's Pro Skater 2 (Europe).png",
+			"Tony Hawk's Pro Skater 2 (USA).png"
+		],
+		"boxarts": [
+			"Tony Hawk's Pro Skater 2 (Europe).png",
+			"Tony Hawk's Pro Skater 2 (USA) (Beta) (2001-04-20).png",
+			"Tony Hawk's Pro Skater 2 (USA) (v012) (Beta) (2001-06-04).png",
+			"Tony Hawk's Pro Skater 2 (USA).png"
+		],
+		"snaps": [
+			"Tony Hawk's Pro Skater 2 (Europe).png",
+			"Tony Hawk's Pro Skater 2 (USA).png"
+		]
+	},
+	"Tony_Hawk's_Pro_Skater_3": {
+		"titles": [
+			"Tony Hawk's Pro Skater 3 (USA).png"
+		],
+		"boxarts": [
+			"Tony Hawk's Pro Skater 3 (USA).png"
+		],
+		"snaps": [
+			"Tony Hawk's Pro Skater 3 (USA).png"
+		]
+	},
+	"Top_Gear_Hyper_Bike": {
+		"titles": [
+			"Top Gear Hyper Bike (Europe).png",
+			"Top Gear Hyper Bike (Japan).png",
+			"Top Gear Hyper-Bike (USA).png"
+		],
+		"boxarts": [
+			"Top Gear Hyper Bike (Europe).png",
+			"Top Gear Hyper Bike (Japan).png",
+			"Top Gear Hyper-Bike (USA) (Beta).png",
+			"Top Gear Hyper-Bike (USA).png"
+		],
+		"snaps": [
+			"Top Gear Hyper Bike (Europe).png",
+			"Top Gear Hyper Bike (Japan).png",
+			"Top Gear Hyper-Bike (USA).png"
+		]
+	},
+	"Top_Gear_Overdrive": {
+		"titles": [
+			"Top Gear Overdrive (Europe).png",
+			"Top Gear Overdrive (Japan).png",
+			"Top Gear Overdrive (USA).png"
+		],
+		"boxarts": [
+			"Top Gear Overdrive (Europe).png",
+			"Top Gear Overdrive (Japan).png",
+			"Top Gear Overdrive (USA).png"
+		],
+		"snaps": [
+			"Top Gear Overdrive (Europe).png",
+			"Top Gear Overdrive (Japan).png",
+			"Top Gear Overdrive (USA).png"
+		]
+	},
+	"Top_Gear_Rally": {
+		"titles": [
+			"Top Gear Rally (Asia) (En).png",
+			"Top Gear Rally (Europe).png",
+			"Top Gear Rally (Japan).png",
+			"Top Gear Rally (USA).png"
+		],
+		"boxarts": [
+			"Top Gear Rally (Asia) (En).png",
+			"Top Gear Rally (Europe).png",
+			"Top Gear Rally (Japan).png",
+			"Top Gear Rally (USA).png"
+		],
+		"snaps": [
+			"Top Gear Rally (Europe).png",
+			"Top Gear Rally (Japan).png",
+			"Top Gear Rally (USA).png"
+		]
+	},
+	"Top_Gear_Rally_2": {
+		"titles": [
+			"Top Gear Rally 2 (Europe).png",
+			"Top Gear Rally 2 (Japan).png",
+			"Top Gear Rally 2 (USA).png"
+		],
+		"boxarts": [
+			"Top Gear Rally 2 (Europe) (Beta) (1999-08-31).png",
+			"Top Gear Rally 2 (Europe).png",
+			"Top Gear Rally 2 (Japan).png",
+			"Top Gear Rally 2 (USA).png"
+		],
+		"snaps": [
+			"Top Gear Rally 2 (Europe).png",
+			"Top Gear Rally 2 (Japan).png",
+			"Top Gear Rally 2 (USA).png"
+		]
+	},
+	"Toy_Story_2:_Buzz_Lightyear_to_the_Rescue": {
+		"titles": [
+			"Toy Story 2 - Buzz Lightyear to the Rescue! (Europe).png",
+			"Toy Story 2 - Buzz Lightyear to the Rescue! (USA) (Rev 1).png",
+			"Toy Story 2 - Buzz Lightyear to the Rescue! (USA).png"
+		],
+		"boxarts": [
+			"Toy Story 2 - Buzz Lightyear to the Rescue! (Europe).png",
+			"Toy Story 2 - Buzz Lightyear to the Rescue! (USA) (Rev 1).png",
+			"Toy Story 2 - Buzz Lightyear to the Rescue! (USA).png"
+		],
+		"snaps": [
+			"Toy Story 2 - Buzz Lightyear to the Rescue! (Europe).png",
+			"Toy Story 2 - Buzz Lightyear to the Rescue! (USA) (Rev 1).png",
+			"Toy Story 2 - Buzz Lightyear to the Rescue! (USA).png"
+		]
+	},
+	"Transformers:_Beast_Wars_Transmetals": {
+		"titles": [
+			"Transformers - Beast Wars Transmetals (USA).png"
+		],
+		"boxarts": [
+			"Transformers - Beast Wars Transmetals (USA).png"
+		],
+		"snaps": [
+			"Transformers - Beast Wars Transmetals (USA).png"
+		]
+	},
+	"Triple_Play_2000": {
+		"titles": [
+			"Triple Play 2000 (USA).png"
+		],
+		"boxarts": [
+			"Triple Play 2000 (USA).png"
+		],
+		"snaps": [
+			"Triple Play 2000 (USA).png"
+		]
+	},
+	"Turok:_Dinosaur_Hunter": {
+		"titles": [
+			"Turok - Dinosaur Hunter (Europe) (Rev 1).png",
+			"Turok - Dinosaur Hunter (Europe) (Rev 2).png",
+			"Turok - Dinosaur Hunter (Europe).png",
+			"Turok - Dinosaur Hunter (Germany) (Rev 1).png",
+			"Turok - Dinosaur Hunter (Germany) (Rev 2).png",
+			"Turok - Dinosaur Hunter (Germany).png",
+			"Turok - Dinosaur Hunter (USA) (Rev 1).png",
+			"Turok - Dinosaur Hunter (USA) (Rev 2).png",
+			"Turok - Dinosaur Hunter (USA).png"
+		],
+		"boxarts": [
+			"Turok - Dinosaur Hunter (Europe) (Rev 1).png",
+			"Turok - Dinosaur Hunter (Europe) (Rev 2).png",
+			"Turok - Dinosaur Hunter (Europe).png",
+			"Turok - Dinosaur Hunter (Germany) (Rev 1).png",
+			"Turok - Dinosaur Hunter (Germany) (Rev 2).png",
+			"Turok - Dinosaur Hunter (Germany).png",
+			"Turok - Dinosaur Hunter (USA) (Rev 1).png",
+			"Turok - Dinosaur Hunter (USA) (Rev 2).png",
+			"Turok - Dinosaur Hunter (USA).png"
+		],
+		"snaps": [
+			"Turok - Dinosaur Hunter (Europe) (Rev 1).png",
+			"Turok - Dinosaur Hunter (Europe) (Rev 2).png",
+			"Turok - Dinosaur Hunter (Europe).png",
+			"Turok - Dinosaur Hunter (Germany) (Rev 1).png",
+			"Turok - Dinosaur Hunter (Germany) (Rev 2).png",
+			"Turok - Dinosaur Hunter (Germany).png",
+			"Turok - Dinosaur Hunter (USA) (Rev 1).png",
+			"Turok - Dinosaur Hunter (USA) (Rev 2).png",
+			"Turok - Dinosaur Hunter (USA).png"
+		]
+	},
+	"Turok:_Rage_Wars": {
+		"titles": [
+			"Turok - Rage Wars (Europe) (En,Fr,It).png",
+			"Turok - Rage Wars (Europe).png",
+			"Turok - Rage Wars (USA) (Rev 1).png",
+			"Turok - Rage Wars (USA).png"
+		],
+		"boxarts": [
+			"Turok - Rage Wars (Europe) (En,Fr,It).png",
+			"Turok - Rage Wars (Europe).png",
+			"Turok - Rage Wars (USA) (Rev 1).png",
+			"Turok - Rage Wars (USA).png"
+		],
+		"snaps": [
+			"Turok - Rage Wars (Europe) (En,Fr,It).png",
+			"Turok - Rage Wars (Europe).png",
+			"Turok - Rage Wars (USA) (Rev 1).png",
+			"Turok - Rage Wars (USA).png"
+		]
+	},
+	"Turok_2:_Seeds_of_Evil": {
+		"titles": [
+			"Turok 2 - Seeds of Evil (Europe) (Demo) (Kiosk).png",
+			"Turok 2 - Seeds of Evil (Europe) (En,Fr,Es,It).png",
+			"Turok 2 - Seeds of Evil (Europe).png",
+			"Turok 2 - Seeds of Evil (Germany).png",
+			"Turok 2 - Seeds of Evil (USA) (Demo) (Kiosk).png",
+			"Turok 2 - Seeds of Evil (USA) (Rev 1).png",
+			"Turok 2 - Seeds of Evil (USA).png",
+			"Violence Killer - Turok New Generation (Japan).png"
+		],
+		"boxarts": [
+			"Turok 2 - Seeds of Evil (Europe) (Demo) (Kiosk).png",
+			"Turok 2 - Seeds of Evil (Europe) (En,Fr,Es,It).png",
+			"Turok 2 - Seeds of Evil (Europe).png",
+			"Turok 2 - Seeds of Evil (Germany).png",
+			"Turok 2 - Seeds of Evil (USA) (Demo) (Kiosk).png",
+			"Turok 2 - Seeds of Evil (USA) (Rev 1).png",
+			"Turok 2 - Seeds of Evil (USA).png",
+			"Violence Killer - Turok New Generation (Japan).png"
+		],
+		"snaps": [
+			"Turok 2 - Seeds of Evil (Europe) (Demo) (Kiosk).png",
+			"Turok 2 - Seeds of Evil (Europe) (En,Fr,Es,It).png",
+			"Turok 2 - Seeds of Evil (Europe).png",
+			"Turok 2 - Seeds of Evil (Germany).png",
+			"Turok 2 - Seeds of Evil (USA) (Demo) (Kiosk).png",
+			"Turok 2 - Seeds of Evil (USA) (Rev 1).png",
+			"Turok 2 - Seeds of Evil (USA).png",
+			"Violence Killer - Turok New Generation (Japan).png"
+		]
+	},
+	"Turok_3:_Shadow_of_Oblivion": {
+		"titles": [
+			"Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-05-31).png",
+			"Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-16).png",
+			"Turok 3 - Shadow of Oblivion (Europe).png",
+			"Turok 3 - Shadow of Oblivion (USA).png"
+		],
+		"boxarts": [
+			"Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-16).png",
+			"Turok 3 - Shadow of Oblivion (Europe).png",
+			"Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-06-26).png",
+			"Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-21).png",
+			"Turok 3 - Shadow of Oblivion (USA).png"
+		],
+		"snaps": [
+			"Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-05-31).png",
+			"Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-16).png",
+			"Turok 3 - Shadow of Oblivion (Europe).png",
+			"Turok 3 - Shadow of Oblivion (USA).png"
+		]
+	},
+	"V-Rally_(video_game)_Ports_and_adaptations": {
+		"titles": [
+			"V-Rally Edition 99 (Europe) (En,Fr,De).png",
+			"V-Rally Edition 99 (Japan).png",
+			"V-Rally Edition 99 (USA).png"
+		],
+		"boxarts": [
+			"V-Rally Edition 99 (Europe) (En,Fr,De).png",
+			"V-Rally Edition 99 (Japan).png",
+			"V-Rally Edition 99 (USA).png"
+		],
+		"snaps": [
+			"V-Rally Edition 99 (Europe) (En,Fr,De).png",
+			"V-Rally Edition 99 (Japan).png",
+			"V-Rally Edition 99 (USA).png"
+		]
+	},
+	"Vigilante_8": {
+		"titles": [
+			"Vigilante 8 (Europe).png",
+			"Vigilante 8 (France).png",
+			"Vigilante 8 (Germany).png",
+			"Vigilante 8 (USA).png"
+		],
+		"boxarts": [
+			"Vigilante 8 (Europe).png",
+			"Vigilante 8 (France).png",
+			"Vigilante 8 (Germany).png",
+			"Vigilante 8 (USA).png"
+		],
+		"snaps": [
+			"Vigilante 8 (Europe).png",
+			"Vigilante 8 (France).png",
+			"Vigilante 8 (Germany).png",
+			"Vigilante 8 (USA).png"
+		]
+	},
+	"Vigilante_8:_2nd_Offense": {
+		"titles": [
+			"Vigilante 8 - 2nd Offense (Europe).png",
+			"Vigilante 8 - 2nd Offense (USA).png"
+		],
+		"boxarts": [
+			"Vigilante 8 - 2nd Offense (Europe).png",
+			"Vigilante 8 - 2nd Offense (USA).png"
+		],
+		"snaps": [
+			"Vigilante 8 - 2nd Offense (Europe).png",
+			"Vigilante 8 - 2nd Offense (USA).png"
+		]
+	},
+	"Virtual_Chess_64": {
+		"titles": [
+			"Virtual Chess 64 (Europe) (En,Fr,De,Es,It,Nl).png",
+			"Virtual Chess 64 (USA) (En,Fr,Es).png"
+		],
+		"boxarts": [
+			"Virtual Chess 64 (Europe) (En,Fr,De,Es,It,Nl).png",
+			"Virtual Chess 64 (USA) (En,Fr,Es).png"
+		],
+		"snaps": [
+			"Virtual Chess 64 (Europe) (En,Fr,De,Es,It,Nl).png",
+			"Virtual Chess 64 (USA) (En,Fr,Es).png"
+		]
+	},
+	"Virtual_Pool_64": {
+		"titles": [
+			"Virtual Pool 64 (Europe).png",
+			"Virtual Pool 64 (USA).png"
+		],
+		"boxarts": [
+			"Virtual Pool 64 (Europe).png",
+			"Virtual Pool 64 (USA).png"
+		],
+		"snaps": [
+			"Virtual Pool 64 (Europe).png",
+			"Virtual Pool 64 (USA).png"
+		]
+	},
+	"WCW_Backstage_Assault": {
+		"titles": [
+			"WCW Backstage Assault (USA).png"
+		],
+		"boxarts": [
+			"WCW Backstage Assault (USA).png"
+		],
+		"snaps": [
+			"WCW Backstage Assault (USA).png"
+		]
+	},
+	"WCW_Mayhem_(video_game)": {
+		"titles": [
+			"WCW Mayhem (Europe).png",
+			"WCW Mayhem (USA).png"
+		],
+		"boxarts": [
+			"WCW Mayhem (Europe).png",
+			"WCW Mayhem (USA).png"
+		],
+		"snaps": [
+			"WCW Mayhem (Europe).png",
+			"WCW Mayhem (USA).png"
+		]
+	},
+	"WCW_Nitro_(video_game)": {
+		"titles": [
+			"WCW Nitro (USA).png"
+		],
+		"boxarts": [
+			"WCW Nitro (USA).png"
+		],
+		"snaps": [
+			"WCW Nitro (USA).png"
+		]
+	},
+	"WCW_vs._nWo:_World_Tour": {
+		"titles": [
+			"WCW vs. nWo - World Tour (Europe).png",
+			"WCW vs. nWo - World Tour (USA) (Rev 1).png",
+			"WCW vs. nWo - World Tour (USA).png"
+		],
+		"boxarts": [
+			"WCW vs. nWo - World Tour (Europe).png",
+			"WCW vs. nWo - World Tour (USA) (Rev 1).png",
+			"WCW vs. nWo - World Tour (USA).png"
+		],
+		"snaps": [
+			"WCW vs. nWo - World Tour (Europe).png",
+			"WCW vs. nWo - World Tour (USA) (Rev 1).png",
+			"WCW vs. nWo - World Tour (USA).png"
+		]
+	},
+	"WCW/nWo_Revenge": {
+		"titles": [
+			"WCW-nWo Revenge (Europe).png",
+			"WCW-nWo Revenge (USA).png"
+		],
+		"boxarts": [
+			"WCW-nWo Revenge (Europe).png",
+			"WCW-nWo Revenge (USA).png"
+		],
+		"snaps": [
+			"WCW-nWo Revenge (Europe).png",
+			"WCW-nWo Revenge (USA).png"
+		]
+	},
+	"WWF_Attitude": {
+		"titles": [
+			"WWF Attitude (Europe).png",
+			"WWF Attitude (Germany).png",
+			"WWF Attitude (USA).png"
+		],
+		"boxarts": [
+			"WWF Attitude (Europe).png",
+			"WWF Attitude (Germany).png",
+			"WWF Attitude (USA).png"
+		],
+		"snaps": [
+			"WWF Attitude (Europe).png",
+			"WWF Attitude (Germany).png",
+			"WWF Attitude (USA).png"
+		]
+	},
+	"WWF_No_Mercy_(video_game)": {
+		"titles": [
+			"WWF No Mercy (Europe) (Rev 1).png",
+			"WWF No Mercy (Europe).png",
+			"WWF No Mercy (USA) (Rev 1).png",
+			"WWF No Mercy (USA).png"
+		],
+		"boxarts": [
+			"WWF No Mercy (Europe) (Rev 1).png",
+			"WWF No Mercy (Europe).png",
+			"WWF No Mercy (USA) (Rev 1).png",
+			"WWF No Mercy (USA).png"
+		],
+		"snaps": [
+			"WWF No Mercy (Europe) (Rev 1).png",
+			"WWF No Mercy (Europe).png",
+			"WWF No Mercy (USA) (Rev 1).png",
+			"WWF No Mercy (USA).png"
+		]
+	},
+	"WWF_War_Zone": {
+		"titles": [
+			"WWF War Zone (Europe).png",
+			"WWF War Zone (USA).png"
+		],
+		"boxarts": [
+			"WWF War Zone (Europe).png",
+			"WWF War Zone (USA).png"
+		],
+		"snaps": [
+			"WWF War Zone (Europe).png",
+			"WWF War Zone (USA).png"
+		]
+	},
+	"WWF_WrestleMania_2000_(video_game)": {
+		"titles": [
+			"WWF WrestleMania 2000 (Europe).png",
+			"WWF WrestleMania 2000 (Japan).png",
+			"WWF WrestleMania 2000 (USA).png"
+		],
+		"boxarts": [
+			"WWF WrestleMania 2000 (Europe).png",
+			"WWF WrestleMania 2000 (Japan).png",
+			"WWF WrestleMania 2000 (USA).png"
+		],
+		"snaps": [
+			"WWF WrestleMania 2000 (Europe).png",
+			"WWF WrestleMania 2000 (Japan).png",
+			"WWF WrestleMania 2000 (USA).png"
+		]
+	},
+	"Waialae_Country_Club:_True_Golf_Classics": {
+		"titles": [
+			"Waialae Country Club - True Golf Classics (Europe) (Rev 1).png",
+			"Waialae Country Club - True Golf Classics (Europe).png",
+			"Waialae Country Club - True Golf Classics (USA) (Rev 1).png",
+			"Waialae Country Club - True Golf Classics (USA).png"
+		],
+		"boxarts": [
+			"Waialae Country Club - True Golf Classics (Europe) (Rev 1).png",
+			"Waialae Country Club - True Golf Classics (Europe).png",
+			"Waialae Country Club - True Golf Classics (USA) (Rev 1).png",
+			"Waialae Country Club - True Golf Classics (USA).png"
+		],
+		"snaps": [
+			"Waialae Country Club - True Golf Classics (Europe) (Rev 1).png",
+			"Waialae Country Club - True Golf Classics (Europe).png",
+			"Waialae Country Club - True Golf Classics (USA) (Rev 1).png",
+			"Waialae Country Club - True Golf Classics (USA).png"
+		]
+	},
+	"War_Gods_(video_game)": {
+		"titles": [
+			"War Gods (Europe).png",
+			"War Gods (USA).png"
+		],
+		"boxarts": [
+			"War Gods (Europe).png",
+			"War Gods (USA).png"
+		],
+		"snaps": [
+			"War Gods (Europe).png",
+			"War Gods (USA).png"
+		]
+	},
+	"Wave_Race_64": {
+		"titles": [
+			"Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1).png"
+		],
+		"boxarts": [
+			"Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1).png"
+		],
+		"snaps": [
+			"Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1).png"
+		]
+	},
+	"Wayne_Gretzky's_3D_Hockey_'98": {
+		"titles": [
+			"Wayne Gretzky's 3D Hockey '98 (Europe) (En,Fr,De,Es).png",
+			"Wayne Gretzky's 3D Hockey '98 (USA).png"
+		],
+		"boxarts": [
+			"Wayne Gretzky's 3D Hockey '98 (Europe) (En,Fr,De,Es).png",
+			"Wayne Gretzky's 3D Hockey '98 (USA).png"
+		],
+		"snaps": [
+			"Wayne Gretzky's 3D Hockey '98 (Europe) (En,Fr,De,Es).png",
+			"Wayne Gretzky's 3D Hockey '98 (USA).png"
+		]
+	},
+	"Wayne_Gretzky's_3D_Hockey": {
+		"titles": [
+			"Wayne Gretzky's 3D Hockey (Europe) (En,Fr,De,Es).png",
+			"Wayne Gretzky's 3D Hockey (Japan).png",
+			"Wayne Gretzky's 3D Hockey (USA) (Rev 1).png",
+			"Wayne Gretzky's 3D Hockey (USA).png"
+		],
+		"boxarts": [
+			"Wayne Gretzky's 3D Hockey (Europe) (En,Fr,De,Es).png",
+			"Wayne Gretzky's 3D Hockey (Japan).png",
+			"Wayne Gretzky's 3D Hockey (USA) (Rev 1).png",
+			"Wayne Gretzky's 3D Hockey (USA).png"
+		],
+		"snaps": [
+			"Wayne Gretzky's 3D Hockey (Europe) (En,Fr,De,Es).png",
+			"Wayne Gretzky's 3D Hockey (Japan).png",
+			"Wayne Gretzky's 3D Hockey (USA) (Rev 1).png",
+			"Wayne Gretzky's 3D Hockey (USA).png"
+		]
+	},
+	"Wetrix": {
+		"titles": [
+			"Wetrix (Europe) (En,Fr,De,Es,It,Nl).png",
+			"Wetrix (Japan).png",
+			"Wetrix (USA) (En,Fr,De,Es,It,Nl).png"
+		],
+		"boxarts": [
+			"Wetrix (Europe) (En,Fr,De,Es,It,Nl).png",
+			"Wetrix (Japan).png",
+			"Wetrix (USA) (En,Fr,De,Es,It,Nl).png"
+		],
+		"snaps": [
+			"Wetrix (Europe) (En,Fr,De,Es,It,Nl).png",
+			"Wetrix (Japan).png",
+			"Wetrix (USA) (En,Fr,De,Es,It,Nl).png"
+		]
+	},
+	"Wheel_of_Fortune_video_games_Console_games": {
+		"titles": [
+			"Wheel of Fortune (USA).png"
+		],
+		"boxarts": [
+			"Wheel of Fortune (USA).png"
+		],
+		"snaps": [
+			"Wheel of Fortune (USA).png"
+		]
+	},
+	"Wipeout_64": {
+		"titles": [
+			"Wipeout 64 (Europe).png",
+			"Wipeout 64 (USA).png"
+		],
+		"boxarts": [
+			"Wipeout 64 (Europe) (Beta).png",
+			"Wipeout 64 (Europe).png",
+			"Wipeout 64 (USA).png"
+		],
+		"snaps": [
+			"Wipeout 64 (Europe).png",
+			"Wipeout 64 (USA).png"
+		]
+	},
+	"World_Cup_98_(video_game)": {
+		"titles": [
+			"World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv,Da).png",
+			"World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv,Da).png"
+		],
+		"boxarts": [
+			"World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv,Da).png",
+			"World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv,Da).png"
+		],
+		"snaps": [
+			"World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv,Da).png",
+			"World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv,Da).png"
+		]
+	},
+	"World_Driver_Championship": {
+		"titles": [
+			"World Driver Championship (Europe) (En,Fr,De,Es,It).png",
+			"World Driver Championship (USA).png"
+		],
+		"boxarts": [
+			"World Driver Championship (Europe) (En,Fr,De,Es,It).png",
+			"World Driver Championship (USA).png"
+		],
+		"snaps": [
+			"World Driver Championship (Europe) (En,Fr,De,Es,It).png",
+			"World Driver Championship (USA).png"
+		]
+	},
+	"Worms_Armageddon": {
+		"titles": [
+			"Worms Armageddon (Europe) (En,Fr,De,Es,It,Nl).png",
+			"Worms Armageddon (USA) (En,Fr,Es).png"
+		],
+		"boxarts": [
+			"Worms Armageddon (Europe) (En,Fr,De,Es,It,Nl).png",
+			"Worms Armageddon (USA) (En,Fr,Es).png"
+		],
+		"snaps": [
+			"Worms Armageddon (Europe) (En,Fr,De,Es,It,Nl).png",
+			"Worms Armageddon (USA) (En,Fr,Es).png"
+		]
+	},
+	"Xena:_Warrior_Princess:_The_Talisman_of_Fate": {
+		"titles": [
+			"Xena - Warrior Princess - The Talisman of Fate (Europe).png",
+			"Xena - Warrior Princess - The Talisman of Fate (USA).png"
+		],
+		"boxarts": [
+			"Xena - Warrior Princess - The Talisman of Fate (Europe).png",
+			"Xena - Warrior Princess - The Talisman of Fate (USA).png"
+		],
+		"snaps": [
+			"Xena - Warrior Princess - The Talisman of Fate (Europe).png",
+			"Xena - Warrior Princess - The Talisman of Fate (USA).png"
+		]
+	},
+	"Yoshi's_Story": {
+		"titles": [
+			"Yoshi's Story (Europe) (En,Fr,De).png",
+			"Yoshi's Story (USA) (En,Ja).png"
+		],
+		"boxarts": [
+			"Yoshi's Story (Europe) (En,Fr,De).png",
+			"Yoshi's Story (USA) (En,Ja).png"
+		],
+		"snaps": [
+			"Yoshi's Story (Europe) (En,Fr,De).png",
+			"Yoshi's Story (USA) (En,Ja).png"
+		]
+	}
 }

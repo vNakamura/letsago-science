@@ -21,13 +21,6 @@
 	});
 
 	let n64Mode = $state(false);
-	$effect(() => {
-		if (n64Mode) {
-			document.body.classList.add('n64-mode');
-		} else {
-			document.body.classList.remove('n64-mode');
-		}
-	});
 </script>
 
 <svelte:head>
@@ -42,7 +35,10 @@
 
 	<title>{title}</title>
 </svelte:head>
-<div class="mx-auto flex min-h-screen w-full max-w-300 flex-col gap-4 p-2 md:p-4">
+<div
+	class="mx-auto flex min-h-screen w-full max-w-300 flex-col gap-4 p-2 md:p-4"
+	class:n64-mode={n64Mode}
+>
 	<header class="flex flex-wrap items-center justify-start gap-8 py-16">
 		<h1 class="w-80 text-logo" aria-label={mainTitle}>
 			<LogoSVG />

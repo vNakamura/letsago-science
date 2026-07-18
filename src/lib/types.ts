@@ -1,3 +1,5 @@
+import type { ScreenshotType } from '$lib/screenshots';
+
 export type GamesJsonEntry = {
 	id: string;
 	title: string | null;
@@ -22,8 +24,11 @@ export type GameWikiData = {
 	otherReleaseDates: Record<string, string> | null;
 	wikiUrl: string | null;
 	screenshotUrl: string | null;
+	screenshotFallbackUrl: string | null;
+	zoomImages: { type: ScreenshotType; label: string; url: string; fallbackUrl: string }[];
 	retroAchievementsUrl: string | null;
 	achievementCount: number | null;
 };
 
-export type SortKey = 'rank' | 'game' | 'ep' | 'seconds' | 'publisher' | 'releaseDateNA';
+export type RankedSortKey = 'rank' | 'game' | 'ep' | 'seconds' | 'publisher' | 'releaseDateNA';
+export type RemainingSortKey = 'game' | 'publisher' | 'releaseDateNA';

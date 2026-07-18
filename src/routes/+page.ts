@@ -4,7 +4,7 @@ import csvRaw from '$lib/data/list.csv?raw';
 import games from '$lib/data/games.json';
 import gameScreenshots from '$lib/data/gameScreenshots.json';
 import gameAchievements from '$lib/data/gameAchievements.json';
-import { SCREENSHOT_BASE_URL, pickScreenshotFilename } from '$lib/screenshots';
+import { pickRowThumbnail, buildZoomImages, type GameScreenshots } from '$lib/screenshots';
 import { pickOtherRegions } from '$lib/regions';
 import type { GameAchievementsEntry, GamesJsonEntry } from '$lib/types';
 
@@ -17,12 +17,11 @@ export async function load() {
 	return {
 		list: list.map((row, index) => {
 			const gameData = games[row.wiki_id as keyof typeof games] as GamesJsonEntry | undefined;
-			const screenshotFilename = pickScreenshotFilename(
-				gameScreenshots[row.wiki_id as keyof typeof gameScreenshots]
-			);
+			const shots = gameScreenshots[row.wiki_id as keyof typeof gameScreenshots] as
+				GameScreenshots | undefined;
+			const thumb = pickRowThumbnail(shots);
 			const raEntry = gameAchievements[row.wiki_id as keyof typeof gameAchievements] as
-				| GameAchievementsEntry
-				| undefined;
+				GameAchievementsEntry | undefined;
 
 			return {
 				rank: index + 1,
@@ -38,12 +37,10 @@ export async function load() {
 					releaseDateNA: gameData?.releaseDates.na ?? null,
 					otherReleaseDates: gameData ? pickOtherRegions(gameData.releaseDates, 'na') : null,
 					wikiUrl: gameData?.wikiUrl ?? null,
-					screenshotUrl: screenshotFilename
-						? `${SCREENSHOT_BASE_URL}${encodeURIComponent(screenshotFilename)}`
-						: null,
-					retroAchievementsUrl: raEntry
-						? `https://retroachievements.org/game/${raEntry.id}`
-						: null,
+					screenshotUrl: thumb?.url ?? null,
+					screenshotFallbackUrl: thumb?.fallbackUrl ?? null,
+					zoomImages: buildZoomImages(shots),
+					retroAchievementsUrl: raEntry ? `https://retroachievements.org/game/${raEntry.id}` : null,
 					achievementCount: raEntry?.numAchievements ?? null
 				}
 			};

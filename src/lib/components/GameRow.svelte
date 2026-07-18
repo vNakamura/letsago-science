@@ -9,13 +9,15 @@
 		game,
 		ep,
 		ytid,
-		seconds
+		seconds,
+		onZoom
 	}: {
 		rank: number;
 		game: GameWikiData;
 		ep: number;
 		ytid: string;
 		seconds: number;
+		onZoom?: (game: GameWikiData) => void;
 	} = $props();
 
 	function formatTimestamp(seconds: number): string {
@@ -36,7 +38,7 @@
 		{/if}
 	</td>
 	<td>
-		<GameCell {game} />
+		<GameCell {game} {onZoom} />
 	</td>
 	<td class="max-lg:hidden">
 		<PublisherCell {game} />
@@ -53,7 +55,7 @@
 						src={`https://wsrv.nl/?url=i.ytimg.com/vi/${ytid}/default.jpg`}
 						alt={`Episode ${ep}`}
 						loading="lazy"
-						class="aspect-video h-8 rounded-sm object-cover object-center md:h-10"
+						class="aspect-video h-5 rounded-sm object-cover object-center md:h-10"
 					/>
 				</a>
 			</div>
