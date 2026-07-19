@@ -3,6 +3,7 @@
 	import GameRow from '$lib/components/GameRow.svelte';
 	import ImageZoomModal from '$lib/components/ImageZoomModal.svelte';
 	import type { GameWikiData, RankedSortKey } from '$lib/types';
+	import { resolve } from '$app/paths';
 
 	type Row = {
 		rank: number;
@@ -88,5 +89,7 @@
 		{/each}
 	</tbody>
 </table>
+
+<p class="py-10 text-sm">Site maintained by fans. <a href={resolve('/about')}>Learn more</a>.</p>
 
 <ImageZoomModal game={zoomGame} onClose={() => (zoomGame = null)} />

@@ -68,4 +68,8 @@
 	tr > :last-child {
 		@apply rounded-r-lg;
 	}
+
+	a {
+		@apply underline decoration-foreground/40 underline-offset-2 transition-colors hover:decoration-foreground/80;
+	}
 }

@@ -11,7 +11,8 @@
 	const mainTitle = 'Science⁶⁴';
 	const navLinks = [
 		{ href: resolve('/'), label: 'Ranked' },
-		{ href: resolve('/remaining'), label: 'Remaining Games' }
+		{ href: resolve('/remaining'), label: 'Remaining Games' },
+		{ href: resolve('/about'), label: 'About' }
 	];
 
 	let title = $derived.by(() => {
@@ -58,26 +59,6 @@
 	<main class="grow">
 		{@render children()}
 	</main>
-	<footer class="prose prose-sm dark:prose-invert">
-		<h3 class="text-sm">Attributions</h3>
-		<ul class="text-xs">
-			<li>
-				<a href="https://en.wikipedia.org/wiki/List_of_Nintendo_64_games"
-					>Game details from Wikipedia</a
-				>
-			</li>
-			<li>
-				<a href="https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_64"
-					>Game images from libretro-thumbnails</a
-				>
-			</li>
-			<li>
-				<a href="https://www.vecteezy.com/free-vector/polygon-background"
-					>Polygon Background Vectors by Vecteezy</a
-				>
-			</li>
-		</ul>
-	</footer>
 </div>
 <label class="absolute top-0 right-0 cursor-pointer" title="Toggle N64 Mode">
 	<img
