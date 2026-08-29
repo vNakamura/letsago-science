@@ -1,3 +1,20 @@
+<aside class="max-w-sm max-md:mx-auto sm:float-right lg:max-w-lg">
+	<figure>
+		<img src="/console.webp" alt="64 bit console" />
+		<figcaption class="my-4 text-center text-xs text-foreground/60">
+			64-bit console<br />
+			By
+			<a href="https://commons.wikimedia.org/wiki/User:Evan-Amos" title="User:Evan-Amos"
+				>Evan-Amos</a
+			>
+			- <span class="int-own-work" lang="en">Own work</span>,
+			<a
+				href="https://creativecommons.org/licenses/by-sa/3.0"
+				title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a
+			>, <a href="https://commons.wikimedia.org/w/index.php?curid=18269035">Link</a>
+		</figcaption>
+	</figure>
+</aside>
 <main class="prose prose-sm dark:prose-invert">
 	<h2 class="text-xl">About</h2>
 	<p>

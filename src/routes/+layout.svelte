@@ -3,7 +3,6 @@
 	import { resolve } from '$app/paths';
 
 	import './layout.css';
-	import favicon from '$lib/assets/favicon.svg';
 	import LogoSVG from '$lib/assets/LogoSVG.svelte';
 
 	let { children } = $props();
@@ -25,14 +24,20 @@
 </script>
 
 <svelte:head>
-	<link rel="icon" href={favicon} />
+	<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+	<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+	<link rel="shortcut icon" href="/favicon.ico" />
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+	<meta name="apple-mobile-web-app-title" content={mainTitle} />
+	<link rel="manifest" href="/site.webmanifest" />
+	<meta name="color-scheme" content="dark light" />
+
 	<link rel="preconnect" href="https://fonts.googleapis.com" />
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous" />
 	<link
 		href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap"
 		rel="stylesheet"
 	/>
-	<meta name="color-scheme" content="dark light" />
 
 	<title>{title}</title>
 </svelte:head>
